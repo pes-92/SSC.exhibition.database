@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Company Docs</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+
+  <style>
+    #topbar {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background: white;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      z-index: 9999;
+    }
+
+    .request-box, .admin-panel {
+      margin-top: 30px;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      background: #fafafa;
+    }
+
+    .request-card {
+      border: 1px solid #ddd;
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app"></div>
+
+  <div id="topbar">
+    <input id="email" placeholder="email">
+    <input id="password" type="password" placeholder="pw">
+    <button onclick="login()">로그인</button>
+    <button onclick="logout()">로그아웃</button>
+  </div>
+
+  <script>
+    window.$docsify = {
+      name: 'Company Docs',
+      loadSidebar: true
+    }
+  </script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+  <!-- Firebase -->
+  <script type="module">
+
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
+    import {
+      getAuth, setPersistence, browserSessionPersistence,
+      signInWithEmailAndPassword, signOut, onAuthStateChanged
+    } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-auth.js";
+
+    import {
+      getFirestore, collection, addDoc, getDocs,
+      doc, updateDoc, serverTimestamp
+    } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
+
+    const app = initializeApp({
+      apiKey: "YOUR_KEY",
+      authDomain: "YOUR_DOMAIN",
+      projectId: "YOUR_ID"
+    });
+
+    const auth = getAuth(app);
+    const db = getFirestore(app);
+
+    await setPersistence(auth, browserSessionPersistence);
+
+    let role = null;
+
+    function getRole(email){
+      if(email.includes("admin")) return "admin";
+      if(email.includes("internal")) return "internal";
+      return "external";
+    }
+
+    window.login = async function(){
+      const email = document.getElementById('email').value;
+      const pw = document.getElementById('password').value;
+
+      await signInWithEmailAndPassword(auth, email, pw);
+    }
+
+    window.logout = async function(){
+      await signOut(auth);
+      location.reload();
+    }
+
+    onAuthStateChanged(auth, user=>{
+      if(user){
+        role = getRole(user.email);
+        setTimeout(renderUI, 500);
+      }
+    });
+
+    function renderUI(){
+
+      const content = document.querySelector('.content');
+      if(!content) return;
+
+      // internal 요청 UI
+      if(role === "internal"){
+        const box = document.createElement('div');
+        box.className = "request-box";
+        box.innerHTML = `
+          <h3>수정 요청</h3>
+          <input id="title" placeholder="제목">
+          <textarea id="body"></textarea>
+          <button onclick="submitRequest()">등록</button>
+        `;
+        content.appendChild(box);
+      }
+
+      // admin 패널
+      if(role === "admin"){
+        loadAdminPanel(content);
+      }
+    }
+
+    window.submitRequest = async function(){
+
+      await addDoc(collection(db,"requests"),{
+        doc: location.hash,
+        title: document.getElementById('title').value,
+        body: document.getElementById('body').value,
+        checklist:{
+          reviewed:false,
+          fixed:false,
+          done:false
+        },
+        createdAt: serverTimestamp()
+      });
+
+      alert("등록 완료");
+    }
+
+    async function loadAdminPanel(content){
+
+      const panel = document.createElement('div');
+      panel.className = "admin-panel";
+      panel.innerHTML = `<h3>관리자 요청 목록</h3>`;
+
+      const snap = await getDocs(collection(db,"requests"));
+
+      snap.forEach(d=>{
+        const data = d.data();
+
+        const card = document.createElement('div');
+        card.className = "request-card";
+
+        card.innerHTML = `
+          <b>${data.title}</b><br>
+          ${data.body}<br>
+          <label><input type="checkbox" ${data.checklist.reviewed?'checked':''}>확인</label>
+          <label><input type="checkbox" ${data.checklist.fixed?'checked':''}>수정</label>
+          <label><input type="checkbox" ${data.checklist.done?'checked':''}>완료</label>
+        `;
+
+        const checks = card.querySelectorAll("input");
+
+        checks.forEach((cb,i)=>{
+          cb.addEventListener("change", async ()=>{
+            const ref = doc(db,"requests",d.id);
+
+            const fields = ["reviewed","fixed","done"];
+            await updateDoc(ref,{
+              [`checklist.${fields[i]}`]: cb.checked
+            });
+          });
+        });
+
+        panel.appendChild(card);
+      });
+
+      content.appendChild(panel);
+    }
+
+  </script>
+
+</body>
+</html>
