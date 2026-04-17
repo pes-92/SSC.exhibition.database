@@ -1,195 +1,453 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
   <meta charset="UTF-8">
   <title>Company Docs</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <!-- Docsify 기본 테마 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 
   <style>
-    #topbar {
-      position: fixed;
-      top: 10px;
-      right: 10px;
-      background: white;
-      padding: 10px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      z-index: 9999;
+    body {
+      font-family: Arial, sans-serif;
     }
 
-    .request-box, .admin-panel {
-      margin-top: 30px;
-      padding: 15px;
+    /* 상단 로그인 박스 */
+    #topbar {
+      position: fixed;
+      top: 12px;
+      right: 12px;
+      z-index: 9999;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      width: 220px;
+    }
+
+    #topbar input {
+      width: 100%;
+      box-sizing: border-box;
+      margin-bottom: 8px;
+      padding: 8px;
+      font-size: 14px;
+    }
+
+    #topbar button {
+      padding: 8px 10px;
+      margin-right: 4px;
+      margin-top: 4px;
+      cursor: pointer;
+    }
+
+    #authStatus {
+      font-size: 13px;
+      margin-bottom: 8px;
+      color: #333;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    /* 요청 입력 박스 */
+    .request-box {
+      margin-top: 28px;
+      padding: 16px;
       border: 1px solid #ddd;
       border-radius: 10px;
       background: #fafafa;
     }
 
+    .request-box h3 {
+      margin-top: 0;
+    }
+
+    .request-box input,
+    .request-box textarea {
+      width: 100%;
+      box-sizing: border-box;
+      margin: 8px 0 12px;
+      padding: 8px;
+      font-size: 14px;
+    }
+
+    /* 관리자 패널 */
+    .admin-panel {
+      margin-top: 28px;
+      padding: 16px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      background: #f8f8f8;
+    }
+
+    .admin-panel h3 {
+      margin-top: 0;
+    }
+
     .request-card {
       border: 1px solid #ddd;
-      margin-top: 10px;
-      padding: 10px;
       border-radius: 8px;
+      background: #fff;
+      padding: 12px;
+      margin-top: 12px;
+    }
+
+    .request-card h4 {
+      margin: 0 0 8px;
+    }
+
+    .request-meta {
+      font-size: 12px;
+      color: #666;
+      margin-bottom: 8px;
+    }
+
+    .admin-checks label {
+      display: inline-block;
+      margin-right: 12px;
+      margin-top: 8px;
+    }
+
+    .request-card textarea {
+      width: 100%;
+      box-sizing: border-box;
+      margin-top: 10px;
+      padding: 8px;
+      font-size: 14px;
+    }
+
+    /* 모바일 대응 */
+    @media (max-width: 768px) {
+      #topbar {
+        position: static;
+        width: auto;
+        margin: 10px;
+      }
     }
   </style>
 </head>
-
 <body>
-  <div id="app"></div>
 
+  <!-- Docsify가 문서를 렌더링하는 영역 -->
+  <div id="app">문서를 불러오는 중...</div>
+
+  <!-- 로그인 UI -->
   <div id="topbar">
-    <input id="email" placeholder="email">
-    <input id="password" type="password" placeholder="pw">
-    <button onclick="login()">로그인</button>
-    <button onclick="logout()">로그아웃</button>
+    <div id="authStatus">로그아웃 상태</div>
+
+    <div id="loginForm">
+      <input id="email" placeholder="이메일">
+      <input id="password" type="password" placeholder="비밀번호">
+      <button id="loginBtn">로그인</button>
+    </div>
+
+    <div id="userActions" class="hidden">
+      <button id="logoutBtn">로그아웃</button>
+    </div>
   </div>
 
+  <!-- Docsify 설정 -->
   <script>
     window.$docsify = {
       name: 'Company Docs',
-      loadSidebar: true
-    }
+      loadSidebar: true,
+      auto2top: true,
+      search: {
+        placeholder: '검색',
+        noData: '검색 결과 없음',
+        depth: 3
+      }
+    };
   </script>
 
+  <!-- Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
-  <!-- Firebase -->
+  <!-- 수식 지원: MathJax -->
+  <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- Firebase + 기능 코드 -->
   <script type="module">
-
     import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
     import {
-      getAuth, setPersistence, browserSessionPersistence,
-      signInWithEmailAndPassword, signOut, onAuthStateChanged
+      getAuth,
+      setPersistence,
+      browserSessionPersistence,
+      signInWithEmailAndPassword,
+      signOut,
+      onAuthStateChanged
     } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-auth.js";
 
     import {
-      getFirestore, collection, addDoc, getDocs,
-      doc, updateDoc, serverTimestamp
+      getFirestore,
+      collection,
+      addDoc,
+      getDocs,
+      query,
+      orderBy,
+      updateDoc,
+      doc,
+      serverTimestamp
     } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-firestore.js";
 
-    const app = initializeApp({
-      apiKey: "YOUR_KEY",
-      authDomain: "YOUR_DOMAIN",
-      projectId: "YOUR_ID"
-    });
+    // -----------------------------
+    // 1. Firebase 설정
+    // -----------------------------
+    const firebaseConfig = {
+      apiKey: "여기에_API_KEY",
+      authDomain: "여기에_AUTH_DOMAIN",
+      projectId: "여기에_PROJECT_ID"
+    };
 
+    const app = initializeApp(firebaseConfig);
     const auth = getAuth(app);
     const db = getFirestore(app);
 
+    // 브라우저 닫으면 로그아웃
     await setPersistence(auth, browserSessionPersistence);
 
+    // -----------------------------
+    // 2. 권한 설정
+    // -----------------------------
     let role = null;
 
-    function getRole(email){
-      if(email.includes("admin")) return "admin";
-      if(email.includes("internal")) return "internal";
-      return "external";
+    function getRole(email) {
+      if (email.includes("admin")) return "admin";
+      if (email.includes("ssc")) return "ssc";
+      return "junior";
     }
 
-    window.login = async function(){
-      const email = document.getElementById('email').value;
-      const pw = document.getElementById('password').value;
-
-      await signInWithEmailAndPassword(auth, email, pw);
+    function getRoleLabel(role) {
+      if (role === "admin") return "admin";
+      if (role === "ssc") return "SSC";
+      return "주니어 해설사";
     }
 
-    window.logout = async function(){
-      await signOut(auth);
-      location.reload();
-    }
+    // -----------------------------
+    // 3. 로그인 / 로그아웃
+    // -----------------------------
+    const authStatus = document.getElementById("authStatus");
+    const loginForm = document.getElementById("loginForm");
+    const userActions = document.getElementById("userActions");
 
-    onAuthStateChanged(auth, user=>{
-      if(user){
-        role = getRole(user.email);
-        setTimeout(renderUI, 500);
+    document.getElementById("loginBtn").addEventListener("click", async () => {
+      const email = document.getElementById("email").value.trim();
+      const password = document.getElementById("password").value;
+
+      try {
+        await signInWithEmailAndPassword(auth, email, password);
+      } catch (error) {
+        alert("로그인 실패: " + error.message);
       }
     });
 
-    function renderUI(){
+    document.getElementById("logoutBtn").addEventListener("click", async () => {
+      await signOut(auth);
+      location.reload();
+    });
 
-      const content = document.querySelector('.content');
-      if(!content) return;
+    // -----------------------------
+    // 4. 로그인 상태 감지
+    // -----------------------------
+    onAuthStateChanged(auth, (user) => {
+      role = user ? getRole(user.email) : null;
 
-      // internal 요청 UI
-      if(role === "internal"){
-        const box = document.createElement('div');
-        box.className = "request-box";
-        box.innerHTML = `
-          <h3>수정 요청</h3>
-          <input id="title" placeholder="제목">
-          <textarea id="body"></textarea>
-          <button onclick="submitRequest()">등록</button>
-        `;
-        content.appendChild(box);
+      if (user) {
+        authStatus.textContent = "로그인: " + getRoleLabel(role);
+        loginForm.classList.add("hidden");
+        userActions.classList.remove("hidden");
+      } else {
+        authStatus.textContent = "로그아웃 상태";
+        loginForm.classList.remove("hidden");
+        userActions.classList.add("hidden");
       }
 
-      // admin 패널
-      if(role === "admin"){
-        loadAdminPanel(content);
+      setTimeout(renderDynamicUI, 300);
+    });
+
+    // Docsify는 페이지 이동 시 새로 렌더링되므로 hashchange 대응
+    window.addEventListener("hashchange", () => {
+      setTimeout(renderDynamicUI, 300);
+    });
+
+    // -----------------------------
+    // 5. 기존 동적 UI 제거
+    // -----------------------------
+    function removeOldDynamicUI() {
+      document.querySelectorAll(".dynamic-ui").forEach(el => el.remove());
+    }
+
+    // -----------------------------
+    // 6. 권한별 UI 렌더링
+    // -----------------------------
+    function renderDynamicUI() {
+      removeOldDynamicUI();
+
+      const content = document.querySelector(".content");
+      if (!content || !role) return;
+
+      // SSC + admin: 요청 작성 가능
+      if (role === "ssc" || role === "admin") {
+        content.appendChild(buildRequestBox());
+      }
+
+      // admin: 요청 목록 관리 가능
+      if (role === "admin") {
+        buildAdminPanel().then(panel => {
+          content.appendChild(panel);
+        });
       }
     }
 
-    window.submitRequest = async function(){
+    // -----------------------------
+    // 7. 요청 작성 UI
+    // -----------------------------
+    function buildRequestBox() {
+      const wrapper = document.createElement("div");
+      wrapper.className = "request-box dynamic-ui";
 
-      await addDoc(collection(db,"requests"),{
-        doc: location.hash,
-        title: document.getElementById('title').value,
-        body: document.getElementById('body').value,
-        checklist:{
-          reviewed:false,
-          fixed:false,
-          done:false
-        },
-        createdAt: serverTimestamp()
+      wrapper.innerHTML = `
+        <h3>🛠 수정 요청</h3>
+        <p>현재 문서의 오류, 최신화 필요 사항, 이미지/출처 수정 요청 등을 남길 수 있습니다.</p>
+        <input id="reqTitle" placeholder="제목">
+        <textarea id="reqBody" rows="5" placeholder="내용을 입력하세요."></textarea>
+        <button id="submitRequestBtn">요청 등록</button>
+      `;
+
+      wrapper.querySelector("#submitRequestBtn").addEventListener("click", async () => {
+        const title = wrapper.querySelector("#reqTitle").value.trim();
+        const body = wrapper.querySelector("#reqBody").value.trim();
+
+        if (!title || !body) {
+          alert("제목과 내용을 입력해 주세요.");
+          return;
+        }
+
+        try {
+          await addDoc(collection(db, "requests"), {
+            docPath: location.hash || "#/",
+            title,
+            body,
+            authorRole: role,
+            checklist: {
+              reviewed: false,
+              fixed: false,
+              done: false
+            },
+            reply: "",
+            createdAt: serverTimestamp()
+          });
+
+          alert("요청이 등록되었습니다.");
+          wrapper.querySelector("#reqTitle").value = "";
+          wrapper.querySelector("#reqBody").value = "";
+        } catch (error) {
+          alert("요청 등록 실패: " + error.message);
+        }
       });
 
-      alert("등록 완료");
+      return wrapper;
     }
 
-    async function loadAdminPanel(content){
+    // -----------------------------
+    // 8. 관리자 패널
+    // -----------------------------
+    async function buildAdminPanel() {
+      const wrapper = document.createElement("div");
+      wrapper.className = "admin-panel dynamic-ui";
 
-      const panel = document.createElement('div');
-      panel.className = "admin-panel";
-      panel.innerHTML = `<h3>관리자 요청 목록</h3>`;
+      wrapper.innerHTML = `
+        <h3>📋 요청 관리</h3>
+        <label>
+          <input type="checkbox" id="showOpenOnly" checked>
+          미처리 요청만 보기
+        </label>
+        <div id="adminRequestList">불러오는 중...</div>
+      `;
 
-      const snap = await getDocs(collection(db,"requests"));
+      const list = wrapper.querySelector("#adminRequestList");
+      const filterCheckbox = wrapper.querySelector("#showOpenOnly");
 
-      snap.forEach(d=>{
-        const data = d.data();
+      async function renderAdminList() {
+        list.innerHTML = "불러오는 중...";
 
-        const card = document.createElement('div');
-        card.className = "request-card";
+        const snap = await getDocs(
+          query(collection(db, "requests"), orderBy("createdAt", "desc"))
+        );
 
-        card.innerHTML = `
-          <b>${data.title}</b><br>
-          ${data.body}<br>
-          <label><input type="checkbox" ${data.checklist.reviewed?'checked':''}>확인</label>
-          <label><input type="checkbox" ${data.checklist.fixed?'checked':''}>수정</label>
-          <label><input type="checkbox" ${data.checklist.done?'checked':''}>완료</label>
-        `;
+        const items = [];
+        snap.forEach(d => items.push({ id: d.id, ...d.data() }));
 
-        const checks = card.querySelectorAll("input");
+        const filtered = filterCheckbox.checked
+          ? items.filter(item => !item.checklist?.done)
+          : items;
 
-        checks.forEach((cb,i)=>{
-          cb.addEventListener("change", async ()=>{
-            const ref = doc(db,"requests",d.id);
+        if (!filtered.length) {
+          list.innerHTML = "<p>표시할 요청이 없습니다.</p>";
+          return;
+        }
 
-            const fields = ["reviewed","fixed","done"];
-            await updateDoc(ref,{
-              [`checklist.${fields[i]}`]: cb.checked
+        list.innerHTML = "";
+
+        filtered.forEach(item => {
+          const card = document.createElement("div");
+          card.className = "request-card";
+
+          card.innerHTML = `
+            <div class="request-meta">문서: <strong>${escapeHtml(item.docPath || "")}</strong></div>
+            <h4>${escapeHtml(item.title || "")}</h4>
+            <p>${escapeHtml(item.body || "").replace(/\n/g, "<br>")}</p>
+
+            <div class="admin-checks">
+              <label><input type="checkbox" data-field="reviewed" ${item.checklist?.reviewed ? "checked" : ""}> 확인</label>
+              <label><input type="checkbox" data-field="fixed" ${item.checklist?.fixed ? "checked" : ""}> 수정</label>
+              <label><input type="checkbox" data-field="done" ${item.checklist?.done ? "checked" : ""}> 완료</label>
+            </div>
+
+            <textarea rows="3" placeholder="관리자 피드백 입력">${escapeHtml(item.reply || "")}</textarea>
+            <button class="saveReplyBtn">피드백 저장</button>
+          `;
+
+          card.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+            cb.addEventListener("change", async () => {
+              const field = cb.dataset.field;
+              await updateDoc(doc(db, "requests", item.id), {
+                [`checklist.${field}`]: cb.checked
+              });
             });
           });
+
+          card.querySelector(".saveReplyBtn").addEventListener("click", async () => {
+            const reply = card.querySelector("textarea").value.trim();
+            await updateDoc(doc(db, "requests", item.id), { reply });
+            alert("피드백이 저장되었습니다.");
+          });
+
+          list.appendChild(card);
         });
+      }
 
-        panel.appendChild(card);
-      });
+      filterCheckbox.addEventListener("change", renderAdminList);
+      await renderAdminList();
 
-      content.appendChild(panel);
+      return wrapper;
     }
 
+    // -----------------------------
+    // 9. HTML 이스케이프
+    // -----------------------------
+    function escapeHtml(str) {
+      return String(str)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
   </script>
-
 </body>
 </html>
