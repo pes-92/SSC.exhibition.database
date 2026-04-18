@@ -19,6 +19,7 @@
 
 <hr>
 
+<div class="junior">
 <h2>🏛 전시실 바로가기</h2>
 
 <h3>🔵 Blue 전시실</h3>
@@ -36,6 +37,8 @@
 <h3>🟢 Green 전시실</h3>
 <p>생명과 환경 관련 전시물</p>
 <p><a href="#/halls/green/index">입장하기</a></p>
+
+</div>
 
 <hr>
 
