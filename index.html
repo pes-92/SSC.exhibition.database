@@ -51,6 +51,7 @@
     }
 
     /* 보호 콘텐츠는 처음엔 숨김 */
+    .logged-out-only,
     .ssc-only,
     .admin-only {
       display: none;
@@ -91,7 +92,14 @@
         placeholder: '검색',
         noData: '검색 결과 없음',
         depth: 3
-      }
+      },
+      plugins: [
+        function (hook, vm) {
+          hook.doneEach(async function () {
+            await updateAuthUI();
+          });
+        }
+      ]
     };
   </script>
 
@@ -102,23 +110,19 @@
   <script>
     // -----------------------------
     // 1. 계정 정보
-    // ID는 admin / ssc / junior
-    // 비밀번호는 평문 대신 SHA-256 해시값 저장
+    // ID: admin / ssc / junior
     // -----------------------------
     const accounts = {
       admin: {
         role: "admin",
-        // 비밀번호 예시: admin0519
         passwordHash: "90c2d458166e98726aa2e58227ad996e5f1f5deeeeeec77db5fb7e1308c4d2ed"
       },
       ssc: {
         role: "ssc",
-        // 비밀번호 예시: 0519
         passwordHash: "4225466f46976e5877d0c8f7a77eafbf97a92841dedabae705816fa4c76e033f"
       },
       junior: {
         role: "junior",
-        // 비밀번호 예시: 1234
         passwordHash: "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
       }
     };
@@ -177,9 +181,10 @@
     // 4. 표시용 이름
     // -----------------------------
     function getRoleLabel(role) {
-      if (role === "admin") return "admin";
+      if (role === "admin") return "관리자";
       if (role === "ssc") return "SSC";
-      return "주니어 해설사";
+      if (role === "junior") return "주니어 해설사";
+      return "로그아웃";
     }
 
     // -----------------------------
@@ -200,6 +205,16 @@
     // 6. 권한별 콘텐츠 표시
     // -----------------------------
     function applyContentByRole(role) {
+      // 로그아웃 전용
+      document.querySelectorAll(".logged-out-only").forEach(el => {
+        if (!role || role === "none") {
+          el.style.display = "";
+        } else {
+          el.style.display = "none";
+        }
+      });
+
+      // SSC + admin
       document.querySelectorAll(".ssc-only").forEach(el => {
         if (role === "ssc" || role === "admin") {
           el.style.display = "";
@@ -208,6 +223,7 @@
         }
       });
 
+      // admin only
       document.querySelectorAll(".admin-only").forEach(el => {
         if (role === "admin") {
           el.style.display = "";
@@ -222,20 +238,21 @@
     // 문서 경로에 따라 숨김
     // -----------------------------
     function applyMenuByRole(role) {
-      const links = document.querySelectorAll('.sidebar a');
+      const links = document.querySelectorAll(".sidebar a");
 
       links.forEach(link => {
-        const href = link.getAttribute('href');
-        if (!href || !link.parentElement) return;
+        const href = link.getAttribute("href");
+        const item = link.parentElement;
+        if (!href || !item) return;
 
-        link.parentElement.style.display = "";
+        item.style.display = "";
 
-        if (href.includes('/admin/') && role !== 'admin') {
-          link.parentElement.style.display = 'none';
+        if (href.includes("/admin/") && role !== "admin") {
+          item.style.display = "none";
         }
 
-        if (href.includes('/ssc/') && !(role === 'ssc' || role === 'admin')) {
-          link.parentElement.style.display = 'none';
+        if (href.includes("/ssc/") && !(role === "ssc" || role === "admin")) {
+          item.style.display = "none";
         }
       });
     }
@@ -246,12 +263,13 @@
     function protectPage(role) {
       const path = location.hash || "";
 
-      if (path.includes('/admin/') && role !== 'admin') {
+      if (path.includes("/admin/") && role !== "admin") {
         alert("접근 권한이 없습니다.");
         location.href = "#/";
+        return;
       }
 
-      if (path.includes('/ssc/') && !(role === 'ssc' || role === 'admin')) {
+      if (path.includes("/ssc/") && !(role === "ssc" || role === "admin")) {
         alert("접근 권한이 없습니다.");
         location.href = "#/";
       }
@@ -274,6 +292,7 @@
         userActions.classList.add("hidden");
         applyContentByRole("none");
         applyMenuByRole("none");
+        protectPage("none");
         return;
       }
 
@@ -316,7 +335,7 @@
     window.addEventListener("hashchange", async () => {
       setTimeout(async () => {
         await updateAuthUI();
-      }, 200);
+      }, 100);
     });
   </script>
 </body>
