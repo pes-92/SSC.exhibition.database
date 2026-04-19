@@ -182,8 +182,8 @@
     // -----------------------------
     function getRoleLabel(role) {
       if (role === "admin") return "관리자";
-      if (role === "ssc") return "SSC";
-      if (role === "junior") return "주니어 해설사";
+      if (role === "ssc") return "해설사";
+      if (role === "junior") return "자원봉사자";
       return "로그아웃";
     }
 
@@ -208,7 +208,15 @@
       // 로그아웃 전용
       document.querySelectorAll(".logged-out-only").forEach(el => {
         if (!role || role === "none") {
-          el.style.display = "";
+          el.style.display = "Block";
+        } else {
+          el.style.display = "none";
+        }
+      });
+
+      document.querySelectorAll(".volunteer").forEach(el => {
+        if (role === "junior" || role === "ssc" || role === "admin") {
+          el.style.display = "Block";
         } else {
           el.style.display = "none";
         }
@@ -217,7 +225,7 @@
       // SSC + admin
       document.querySelectorAll(".ssc-only").forEach(el => {
         if (role === "ssc" || role === "admin") {
-          el.style.display = "";
+          el.style.display = "Block";
         } else {
           el.style.display = "none";
         }
@@ -226,7 +234,7 @@
       // admin only
       document.querySelectorAll(".admin-only").forEach(el => {
         if (role === "admin") {
-          el.style.display = "";
+          el.style.display = "Block";
         } else {
           el.style.display = "none";
         }
