@@ -9,7 +9,7 @@
   - 📘 [전시 종합안내](docs/halls/O/overview.md)
 
 - 🔵 B 전시실
-  - 📘 [전시 종합안내](docs/halls/B/overview.md)
+  - 📘 [전시 종합안내](docs/halls/blue/B-hall.md)
 
 - 🟡 어린이 전시실
   - 📘 [Y전시실 종합안내](docs/halls/Y/overview.md)
