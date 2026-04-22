@@ -345,6 +345,18 @@
         await updateAuthUI();
       }, 100);
     });
-  </script>
+  
+   function goHome() {
+     location.hash = '#/';
+   }
+
+   function goHall(hall) {
+    location.hash = `#/halls/${hall}/index`;
+   }
+
+   function goBack() {
+    history.back();
+   }
+ </script> 
 </body>
 </html>
