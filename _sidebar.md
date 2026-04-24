@@ -1,19 +1,27 @@
 - 🏠 [홈](/)
 
 ---
-
+<div class="admin-only">
 - 🟢 G 전시실
   - 📘 [전시 종합안내](docs/halls/G/overview.md)
 
 - 🟠 O 전시실
   - 📘 [전시 종합안내](docs/halls/O/overview.md)
 
+</div>
+
 - 🔵 B 전시실
   - 📘 [전시 종합안내](/docs/halls/blue/B-hall.md)
+
+<div class="admin-only">
 
 - 🟡 어린이 전시실
   - 📘 [Y전시실 종합안내](docs/halls/Y/overview.md)
   - 📘 [Y_Y전시실 종합안내](docs/halls/YY/overview.md)
+
+</div>
+
+<div class="ssc-only">
 
 ---
 
@@ -26,3 +34,5 @@
   - 📖 [교과과정 안내](docs/resources/school-curriculum.md)
   - 🧠 [이론 안내](docs/resources/theory.md)
   - 📰 [최신이슈 공유](docs/resources/issues.md)
+
+</div>

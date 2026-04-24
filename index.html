@@ -50,11 +50,82 @@
       display: none !important;
     }
 
-    /* 보호 콘텐츠는 처음엔 숨김 */
+    /* 권한별 콘텐츠 기본 숨김 */
     .logged-out-only,
+    .volunteer,
     .ssc-only,
     .admin-only {
       display: none;
+    }
+
+    /* 검색창은 기본 숨김: ssc/admin만 표시 */
+    .search {
+      display: none;
+    }
+
+    /* 콜아웃 */
+    .callout {
+      border-left: 4px solid #4a90e2;
+      background: #f7fbff;
+      padding: 12px 14px;
+      margin: 16px 0;
+      border-radius: 6px;
+    }
+
+    .callout-title {
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+
+    .callout img {
+      margin-top: 10px;
+      border-radius: 6px;
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* 공통 네비게이션 버튼 */
+    .page-nav {
+      margin: 24px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .nav-btn {
+      padding: 8px 12px;
+      border: 1px solid #ccc;
+      background: #f8f8f8;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .nav-btn:hover {
+      background: #eee;
+    }
+
+    /* 태그 */
+    .tag-list {
+      margin: 16px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 4px 10px;
+      background: #f2f4f7;
+      border: 1px solid #d0d7de;
+      border-radius: 999px;
+      text-decoration: none;
+      color: #333;
+      font-size: 13px;
+    }
+
+    .tag:hover {
+      background: #e8eefc;
     }
 
     @media (max-width: 768px) {
@@ -64,7 +135,30 @@
         margin: 10px;
       }
     }
+    .sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar h1 {
+  order: 1;
+}
+
+.sidebar .search {
+  order: 2;
+  margin-top: 8px;
+}
+
+.sidebar .sidebar-nav {
+  order: 3;
+}
+
+.sidebar .search input {
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
   </style>
+
 </head>
 <body>
   <div id="app">문서를 불러오는 중...</div>
@@ -85,8 +179,9 @@
 
   <script>
     window.$docsify = {
-      name: 'Company Docs',
-      loadSidebar: true,
+      name: 'SeoulScienceCenter Wiki',
+      homepage: 'README.md',
+      loadSidebar: '_sidebar.md',
       auto2top: true,
       search: {
         placeholder: '검색',
@@ -95,11 +190,20 @@
       },
       plugins: [
         function (hook, vm) {
-          hook.doneEach(async function () {
-            await updateAuthUI();
+          hook.doneEach(function () {
+            setTimeout(async () => {
+              await updateAuthUI();
+            }, 200);
           });
         }
       ]
+    };
+
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$']]
+      }
     };
   </script>
 
@@ -110,7 +214,7 @@
   <script>
     // -----------------------------
     // 1. 계정 정보
-    // ID: admin / ssc / junior
+    // 비밀번호 해시는 현재 값 그대로 유지
     // -----------------------------
     const accounts = {
       admin: {
@@ -127,11 +231,17 @@
       }
     };
 
-    // role 위조를 조금 귀찮게 만드는 용도
     const roleSecrets = {
       admin: "A1x9-admin-key",
       ssc: "B7k2-ssc-key",
       junior: "C3m8-junior-key"
+    };
+
+    // 전시실 개요 파일명 매핑
+    const hallIndexMap = {
+      blue: "B-hall",
+      orange: "O-hall",
+      green: "G-hall"
     };
 
     // -----------------------------
@@ -205,45 +315,25 @@
     // 6. 권한별 콘텐츠 표시
     // -----------------------------
     function applyContentByRole(role) {
-      // 로그아웃 전용
       document.querySelectorAll(".logged-out-only").forEach(el => {
-        if (!role || role === "none") {
-          el.style.display = "Block";
-        } else {
-          el.style.display = "none";
-        }
+        el.style.display = (!role || role === "none") ? "block" : "none";
       });
 
       document.querySelectorAll(".volunteer").forEach(el => {
-        if (role === "junior" || role === "ssc" || role === "admin") {
-          el.style.display = "Block";
-        } else {
-          el.style.display = "none";
-        }
+        el.style.display = (role === "junior" || role === "ssc" || role === "admin") ? "block" : "none";
       });
 
-      // SSC + admin
       document.querySelectorAll(".ssc-only").forEach(el => {
-        if (role === "ssc" || role === "admin") {
-          el.style.display = "Block";
-        } else {
-          el.style.display = "none";
-        }
+        el.style.display = (role === "ssc" || role === "admin") ? "block" : "none";
       });
 
-      // admin only
       document.querySelectorAll(".admin-only").forEach(el => {
-        if (role === "admin") {
-          el.style.display = "Block";
-        } else {
-          el.style.display = "none";
-        }
+        el.style.display = (role === "admin") ? "block" : "none";
       });
     }
 
     // -----------------------------
     // 7. 권한별 메뉴 표시
-    // 문서 경로에 따라 숨김
     // -----------------------------
     function applyMenuByRole(role) {
       const links = document.querySelectorAll(".sidebar a");
@@ -255,11 +345,11 @@
 
         item.style.display = "";
 
-        if (href.includes("/admin/") && role !== "admin") {
+        if (href.includes("admin/") && role !== "admin") {
           item.style.display = "none";
         }
 
-        if (href.includes("/ssc/") && !(role === "ssc" || role === "admin")) {
+        if (href.includes("ssc/") && !(role === "ssc" || role === "admin")) {
           item.style.display = "none";
         }
       });
@@ -271,20 +361,36 @@
     function protectPage(role) {
       const path = location.hash || "";
 
-      if (path.includes("/admin/") && role !== "admin") {
+      if (path.includes("admin/") && role !== "admin") {
         alert("접근 권한이 없습니다.");
         location.href = "#/";
         return;
       }
 
-      if (path.includes("/ssc/") && !(role === "ssc" || role === "admin")) {
+      if (path.includes("ssc/") && !(role === "ssc" || role === "admin")) {
         alert("접근 권한이 없습니다.");
         location.href = "#/";
       }
     }
 
     // -----------------------------
-    // 9. 로그인 상태 UI 갱신
+    // 9. 검색창 표시 제어
+    // junior와 로그아웃은 숨김
+    // -----------------------------
+
+    function toggleSearchByRole(role) {
+    const searchBox = document.querySelector(".search");
+    if (!searchBox) return;
+
+    if (role === "ssc" || role === "admin") {
+      searchBox.style.setProperty("display", "block", "important");
+    } else {
+    searchBox.style.setProperty("display", "none", "important");
+    }
+    }
+
+    // -----------------------------
+    // 10. 로그인 상태 UI 갱신
     // -----------------------------
     async function updateAuthUI() {
       const authStatus = document.getElementById("authStatus");
@@ -298,9 +404,11 @@
         authStatus.textContent = "로그아웃 상태";
         loginForm.classList.remove("hidden");
         userActions.classList.add("hidden");
+
         applyContentByRole("none");
         applyMenuByRole("none");
         protectPage("none");
+        toggleSearchByRole("none");
         return;
       }
 
@@ -311,11 +419,12 @@
 
       applyContentByRole(role);
       applyMenuByRole(role);
+      toggleSearchByRole(role);
       protectPage(role);
     }
 
     // -----------------------------
-    // 10. 이벤트 연결
+    // 11. 이벤트 연결
     // -----------------------------
     document.getElementById("loginBtn").addEventListener("click", async () => {
       const loginId = document.getElementById("loginId").value.trim();
@@ -345,18 +454,34 @@
         await updateAuthUI();
       }, 100);
     });
-  
-   function goHome() {
-     location.hash = '#/';
-   }
 
-   function goHall(hall) {
-    location.hash = `#/halls/${hall}/index`;
-   }
+    // -----------------------------
+    // 12. 공통 네비게이션 함수
+    // -----------------------------
+    function goHome() {
+      location.hash = "#/";
+    }
 
-   function goBack() {
-    history.back();
-   }
- </script> 
+    function goHall(hall) {
+      const page = hallIndexMap[hall];
+      if (!page) return;
+      location.hash = `#/docs/halls/${hall}/${page}`;
+    }
+
+    function goBack() {
+      history.back();
+    }
+
+    function goCurrentHall() {
+      const match = location.hash.match(/docs\/halls\/([^\/]+)/);
+      if (!match) return;
+
+      const hall = match[1];
+      const page = hallIndexMap[hall];
+      if (!page) return;
+
+      location.hash = `#/docs/halls/${hall}/${page}`;
+    }
+  </script>
 </body>
 </html>
