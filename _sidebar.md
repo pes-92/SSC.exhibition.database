@@ -1,38 +1,40 @@
 - 🏠 [홈](/)
 
 ---
-<div class="admin-only">
-- 🟢 G 전시실
-  - 📘 [전시 종합안내](docs/halls/G/overview.md)
 
-- 🟠 O 전시실
-  - 📘 [전시 종합안내](docs/halls/O/overview.md)
-
-</div>
-
-- 🔵 B 전시실
-  - 📘 [전시 종합안내](/docs/halls/blue/B-hall.md)
-
-<div class="admin-only">
-
-- 🟡 어린이 전시실
-  - 📘 [Y전시실 종합안내](docs/halls/Y/overview.md)
-  - 📘 [Y_Y전시실 종합안내](docs/halls/YY/overview.md)
-
+<div class="sidebar-section sidebar-hall-list">
+  <p class="sidebar-section-title">전시실 별 전시물 확인</p>
+  <ul class="hall-menu">
+    <li><span class="hall-menu-item"><span class="hall-letter hall-green">G</span>전시실</span></li>
+    <li><span class="hall-menu-item"><span class="hall-letter hall-orange">O</span>전시실</span></li>
+    <li><a class="hall-menu-item sidebar-link-button" href="/docs/halls/blue/B-hall.md"><span class="hall-letter hall-blue">B</span>전시실</a></li>
+    <li><span class="hall-menu-item"><span class="hall-letter hall-yellow">Y</span>전시실</span></li>
+    <li><span class="hall-menu-item"><span class="hall-letter hall-yellow">Y</span><sub class="hall-letter-sub hall-yellow">Y</sub>전시실</span></li>
+  </ul>
 </div>
 
 <div class="ssc-only">
 
 ---
 
-- 🧩 기획전시실
-  - 📘 [전시 안내](docs/halls/X/overview.md)
+<div class="sidebar-section sidebar-special-list">
+  <p class="sidebar-section-title">기획전시실</p>
+  <ul class="hall-menu">
+    <li><a class="hall-menu-item sidebar-link-button" href="docs/halls/X/overview.md"><span class="hall-letter hall-x">X</span>전시실</a></li>
+    <li><span class="hall-menu-item">그 외 장소</span></li>
+  </ul>
+</div>
 
 ---
 
-- 📚 연관자료
-  - 📖 [교과과정 안내](docs/resources/school-curriculum.md)
-  - 🧠 [이론 안내](docs/resources/theory.md)
-  - 📰 [최신이슈 공유](docs/resources/issues.md)
+<div class="sidebar-section sidebar-resource-list">
+  <p class="sidebar-section-title">연관자료</p>
+  <ul class="hall-menu">
+    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/guid/list.md">해설서</a></li>
+    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/resources/school-curriculum.md">교과과정 안내</a></li>
+    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/resources/theory.md">이론 안내</a></li>
+    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/resources/issues.md">최신이슈 공유</a></li>
+  </ul>
+</div>
 
 </div>
