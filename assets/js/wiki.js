@@ -376,12 +376,155 @@ async function loadExcerpts() {
   }
 }
 
-document.addEventListener("click", function (e) {
+function footnoteId(label) {
+  return `fn-${String(label).replace(/[^a-zA-Z0-9_-]/g, "-")}`;
+}
+
+function footnoteRefId(label, index) {
+  return `fnref-${String(label).replace(/[^a-zA-Z0-9_-]/g, "-")}-${index}`;
+}
+
+function isFootnoteDefinition(el) {
+  return /^\s*\[\^[^\]]+\]:/.test(el.textContent || "");
+}
+
+function collectFootnoteDefinitions(content) {
+  const definitions = new Map();
+  const blocks = Array.from(content.querySelectorAll("p, li"));
+
+  blocks.forEach(block => {
+    if (!isFootnoteDefinition(block)) return;
+
+    const match = block.textContent.match(/^\s*\[\^([^\]]+)\]:/);
+    if (!match) return;
+
+    const label = match[1];
+    const html = block.innerHTML.replace(/^\s*\[\^[^\]]+\]:\s*/, "");
+    definitions.set(label, html);
+    block.remove();
+  });
+
+  return definitions;
+}
+
+function replaceFootnoteReferences(content, definitions) {
+  const counts = new Map();
+  const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
+    acceptNode(node) {
+      const parent = node.parentElement;
+      if (!parent) return NodeFilter.FILTER_REJECT;
+      if (!node.nodeValue.includes("[^")) return NodeFilter.FILTER_REJECT;
+      if (parent.closest("code, pre, script, style, .footnotes, .footnote-popup")) {
+        return NodeFilter.FILTER_REJECT;
+      }
+      return NodeFilter.FILTER_ACCEPT;
+    }
+  });
+
+  const nodes = [];
+  while (walker.nextNode()) nodes.push(walker.currentNode);
+
+  nodes.forEach(node => {
+    const text = node.nodeValue;
+    const fragment = document.createDocumentFragment();
+    let lastIndex = 0;
+    const pattern = /\[\^([^\]]+)\]/g;
+    let match;
+
+    while ((match = pattern.exec(text)) !== null) {
+      const label = match[1];
+
+      fragment.appendChild(document.createTextNode(text.slice(lastIndex, match.index)));
+
+      if (!definitions.has(label)) {
+        fragment.appendChild(document.createTextNode(match[0]));
+      } else {
+        const index = (counts.get(label) || 0) + 1;
+        counts.set(label, index);
+
+        const refId = footnoteRefId(label, index);
+        const noteId = footnoteId(label);
+        const sup = document.createElement("sup");
+        const link = document.createElement("a");
+
+        sup.id = refId;
+        link.href = `#${noteId}`;
+        link.className = "footnote-ref";
+        link.dataset.note = noteId;
+        link.dataset.ref = refId;
+        link.textContent = label;
+        link.setAttribute("aria-label", `각주 ${label}`);
+
+        sup.appendChild(link);
+        fragment.appendChild(sup);
+      }
+
+      lastIndex = pattern.lastIndex;
+    }
+
+    fragment.appendChild(document.createTextNode(text.slice(lastIndex)));
+    node.replaceWith(fragment);
+  });
+
+  return counts;
+}
+
+function renderFootnoteList(content, definitions, counts) {
+  if (!definitions.size) return;
+
+  const section = document.createElement("section");
+  section.className = "footnotes";
+  section.setAttribute("aria-label", "각주 및 출처");
+
+  const title = document.createElement("h2");
+  title.textContent = "각주 및 출처";
+  section.appendChild(title);
+
+  const list = document.createElement("ol");
+
+  definitions.forEach((html, label) => {
+    const item = document.createElement("li");
+    const noteId = footnoteId(label);
+    const count = counts.get(label) || 0;
+
+    item.id = noteId;
+    item.className = "footnote-item";
+    item.dataset.firstRef = count ? footnoteRefId(label, 1) : "";
+    item.innerHTML = `<span class="footnote-label">[${label}]</span> ${html}`;
+
+    for (let i = 1; i <= count; i += 1) {
+      const back = document.createElement("a");
+      back.href = `#${footnoteRefId(label, i)}`;
+      back.className = "footnote-backref";
+      back.textContent = "↩";
+      back.setAttribute("aria-label", `본문의 각주 ${label} 위치로 이동`);
+      item.appendChild(document.createTextNode(" "));
+      item.appendChild(back);
+    }
+
+    list.appendChild(item);
+  });
+
+  section.appendChild(list);
+  content.appendChild(section);
+}
+
+function processFootnotes() {
+  const content = document.querySelector(".markdown-section");
+  if (!content) return;
+
+  const definitions = collectFootnoteDefinitions(content);
+  if (!definitions.size) return;
+
+  const counts = replaceFootnoteReferences(content, definitions);
+  renderFootnoteList(content, definitions, counts);
+}
+
+function closeFootnotePopups() {
   document.querySelectorAll(".footnote-popup").forEach(el => el.remove());
+}
 
-  const ref = e.target.closest(".footnote-ref");
-  if (!ref) return;
-
+function showFootnotePopup(ref) {
   const noteId = ref.dataset.note;
   const note = document.getElementById(noteId);
   if (!note) return;
@@ -390,8 +533,51 @@ document.addEventListener("click", function (e) {
   popup.className = "footnote-popup";
   popup.innerHTML = note.innerHTML;
 
+  const jump = document.createElement("a");
+  jump.href = `#${noteId}`;
+  jump.className = "footnote-popup-jump";
+  jump.textContent = "출처로 이동";
+  popup.appendChild(jump);
+
   ref.appendChild(popup);
-  e.stopPropagation();
+}
+
+function scrollToFootnoteTarget(targetId) {
+  const target = document.getElementById(targetId);
+  if (!target) return;
+
+  target.scrollIntoView({ behavior: "smooth", block: "center" });
+}
+
+document.addEventListener("click", function (e) {
+  const jump = e.target.closest(".footnote-popup-jump, .footnote-backref");
+  if (jump) {
+    const targetId = jump.getAttribute("href").replace(/^#/, "");
+    closeFootnotePopups();
+    scrollToFootnoteTarget(targetId);
+    e.preventDefault();
+    e.stopPropagation();
+    return;
+  }
+
+  if (e.target.closest(".footnote-popup")) return;
+
+  const ref = e.target.closest(".footnote-ref");
+  if (ref) {
+    closeFootnotePopups();
+    showFootnotePopup(ref);
+    e.preventDefault();
+    e.stopPropagation();
+    return;
+  }
+
+  closeFootnotePopups();
+
+  const item = e.target.closest(".footnote-item");
+  if (!item || e.target.closest("a")) return;
+
+  const firstRef = item.dataset.firstRef;
+  if (firstRef) scrollToFootnoteTarget(firstRef);
 });
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -431,11 +617,13 @@ window.addEventListener("hashchange", async () => {
   setTimeout(async () => {
     await updateAuthUI();
     await loadExcerpts();
+    processFootnotes();
   }, 100);
 });
 
 window.updateAuthUI = updateAuthUI;
 window.loadExcerpts = loadExcerpts;
+window.processFootnotes = processFootnotes;
 window.goHome = goHome;
 window.goHall = goHall;
 window.goBack = goBack;

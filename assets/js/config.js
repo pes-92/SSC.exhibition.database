@@ -18,6 +18,9 @@ window.$docsify = {
           if (window.loadExcerpts) {
             await window.loadExcerpts();
           }
+          if (window.processFootnotes) {
+            window.processFootnotes();
+          }
         }, 200);
       });
     }

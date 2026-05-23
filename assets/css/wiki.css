@@ -314,9 +314,13 @@ a.hall-menu-item:hover {
 }
 
 .footnote-ref {
+  display: inline-block;
   position: relative;
   cursor: pointer;
   color: #2563eb;
+  font-size: 0.82em;
+  line-height: 1;
+  text-decoration: none;
 }
 
 .footnote-popup {
@@ -332,12 +336,50 @@ a.hall-menu-item:hover {
   z-index: 9999;
   font-size: 0.9em;
   line-height: 1.5;
+  color: #24292f;
+  text-align: left;
 }
 
+.footnote-popup .footnote-label,
+.footnote-popup .footnote-backref {
+  display: none;
+}
+
+.footnote-popup-jump {
+  display: block;
+  margin-top: 8px;
+  font-weight: 700;
+}
+
+.footnotes,
 .references {
   margin-top: 24px;
   border-top: 1px solid #ddd;
   padding-top: 12px;
+}
+
+.footnotes h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.footnote-item {
+  scroll-margin-top: 24px;
+  cursor: pointer;
+}
+
+.footnote-label {
+  font-weight: 700;
+}
+
+.footnote-backref {
+  color: #2563eb;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.footnote-backref:hover {
+  text-decoration: underline;
 }
 
 .reference-item {
