@@ -362,6 +362,42 @@ a.hall-menu-item:hover {
   background: #ddeaff;
 }
 
+.exhibit-map {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin: 12px 0 24px 0;
+}
+
+.exhibit-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.map-marker {
+  position: absolute;
+  z-index: 2;
+  width: clamp(22px, 2.4vw, 44px);
+  height: clamp(22px, 2.4vw, 44px);
+  border: 2px solid transparent;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.01);
+  color: transparent;
+  font-size: 1px;
+  line-height: 1;
+  text-decoration: none;
+  transform: translate(-50%, -50%);
+}
+
+.map-marker:hover,
+.map-marker:focus-visible {
+  border-color: #f2c94c;
+  background: rgba(242, 201, 76, 0.16);
+  box-shadow: 0 0 0 3px rgba(36, 41, 47, 0.2);
+  outline: none;
+}
+
 @media (max-width: 768px) {
   #topbar {
     position: static;

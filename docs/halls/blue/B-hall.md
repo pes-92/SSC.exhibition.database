@@ -15,7 +15,58 @@
 세상은 복잡하게 연결되어 있다. 교통 시스템, 뇌의 연결망, 정보 네트워크, 끊임없이 변하는 기술 등 복잡하고 광범위한 시스템 속의 과학적 원리와 사례를 종합적으로 이해한다.
 ## 2. 전시물
 ### 2.1 전시물 배치도
-![B전시실 배치도](../../image/exhibition/blue/mab.png)
+<div class="exhibit-map" aria-label="B전시실 전시물 배치도">
+  <img src="docs/image/exhibition/blue/mabNew.png" alt="B전시실 전시물 배치도">
+
+  <a class="map-marker" style="left: 85.44%; top: 44.36%;" href="#/docs/halls/blue/B01" aria-label="B01 전시물">1</a>
+  <a class="map-marker" style="left: 82.11%; top: 17.87%;" href="#/docs/halls/blue/B02" aria-label="B02 전시물">2</a>
+  <a class="map-marker" style="left: 79.29%; top: 14.88%;" href="#/docs/halls/blue/B03" aria-label="B03 전시물">3</a>
+  <a class="map-marker" style="left: 76.15%; top: 14.89%;" href="#/docs/halls/blue/B04" aria-label="B04 전시물">4</a>
+  <a class="map-marker" style="left: 73.01%; top: 14.90%;" href="#/docs/halls/blue/B05" aria-label="B05 전시물">5</a>
+  <a class="map-marker" style="left: 69.86%; top: 14.88%;" href="#/docs/halls/blue/B06" aria-label="B06 전시물">6</a>
+  <a class="map-marker" style="left: 66.71%; top: 14.91%;" href="#/docs/halls/blue/B07" aria-label="B07 전시물">7</a>
+  <a class="map-marker" style="left: 59.43%; top: 18.19%;" href="#/docs/halls/blue/B08" aria-label="B08 전시물">8</a>
+  <a class="map-marker" style="left: 53.98%; top: 16.16%;" href="#/docs/halls/blue/B09" aria-label="B09 전시물">9</a>
+  <a class="map-marker" style="left: 49.65%; top: 17.59%;" href="#/docs/halls/blue/B10" aria-label="B10 전시물">10</a>
+  <a class="map-marker" style="left: 47.50%; top: 20.73%;" href="#/docs/halls/blue/B11" aria-label="B11 전시물">11</a>
+  <a class="map-marker" style="left: 61.86%; top: 22.37%;" href="#/docs/halls/blue/B12" aria-label="B12 전시물">12</a>
+  <a class="map-marker" style="left: 74.31%; top: 41.86%;" href="#/docs/halls/blue/B13" aria-label="B13 전시물">13</a>
+  <a class="map-marker" style="left: 66.66%; top: 45.41%;" href="#/docs/halls/blue/B14" aria-label="B14 전시물">14</a>
+  <a class="map-marker" style="left: 72.25%; top: 73.63%;" href="#/docs/halls/blue/B15" aria-label="B15 전시물">15</a>
+  <a class="map-marker" style="left: 76.00%; top: 54.44%;" href="#/docs/halls/blue/B16" aria-label="B16 전시물">16</a>
+  <a class="map-marker" style="left: 81.49%; top: 55.00%;" href="#/docs/halls/blue/B17" aria-label="B17 전시물">17</a>
+  <a class="map-marker" style="left: 89.73%; top: 58.71%;" href="#/docs/halls/blue/B18" aria-label="B18 전시물">18</a>
+  <a class="map-marker" style="left: 89.03%; top: 71.25%;" href="#/docs/halls/blue/B19" aria-label="B19 전시물">19</a>
+  <a class="map-marker" style="left: 91.57%; top: 93.93%;" href="#/docs/halls/blue/B20" aria-label="B20 전시물">20</a>
+  <a class="map-marker" style="left: 79.60%; top: 93.40%;" href="#/docs/halls/blue/B21" aria-label="B21 전시물">21</a>
+  <a class="map-marker" style="left: 66.35%; top: 67.99%;" href="#/docs/halls/blue/B22" aria-label="B22 전시물">22</a>
+  <a class="map-marker" style="left: 62.04%; top: 67.97%;" href="#/docs/halls/blue/B23" aria-label="B23 전시물">23</a>
+  <a class="map-marker" style="left: 54.37%; top: 91.08%;" href="#/docs/halls/blue/B24" aria-label="B24 전시물">24</a>
+  <a class="map-marker" style="left: 48.59%; top: 85.84%;" href="#/docs/halls/blue/B25" aria-label="B25 전시물">25</a>
+  <a class="map-marker" style="left: 45.99%; top: 88.33%;" href="#/docs/halls/blue/B26" aria-label="B26 전시물">26</a>
+  <a class="map-marker" style="left: 47.97%; top: 61.23%;" href="#/docs/halls/blue/B27" aria-label="B27 전시물">27</a>
+  <a class="map-marker" style="left: 47.23%; top: 54.50%;" href="#/docs/halls/blue/B28" aria-label="B28 전시물">28</a>
+  <a class="map-marker" style="left: 39.08%; top: 48.23%;" href="#/docs/halls/blue/B29" aria-label="B29 전시물">29</a>
+  <a class="map-marker" style="left: 42.99%; top: 66.90%;" href="#/docs/halls/blue/B30" aria-label="B30 전시물">30</a>
+  <a class="map-marker" style="left: 40.20%; top: 92.63%;" href="#/docs/halls/blue/B31" aria-label="B31 전시물">31</a>
+  <a class="map-marker" style="left: 32.34%; top: 90.28%;" href="#/docs/halls/blue/B32" aria-label="B32 전시물">32</a>
+  <a class="map-marker" style="left: 31.17%; top: 73.41%;" href="#/docs/halls/blue/B33" aria-label="B33 전시물">33</a>
+  <a class="map-marker" style="left: 30.97%; top: 61.55%;" href="#/docs/halls/blue/B34" aria-label="B34 전시물">34</a>
+  <a class="map-marker" style="left: 33.51%; top: 46.80%;" href="#/docs/halls/blue/B35" aria-label="B35 전시물">35</a>
+  <a class="map-marker" style="left: 28.60%; top: 44.74%;" href="#/docs/halls/blue/B36" aria-label="B36 전시물">36</a>
+  <a class="map-marker" style="left: 25.13%; top: 78.73%;" href="#/docs/halls/blue/B37" aria-label="B37 전시물">37</a>
+  <a class="map-marker" style="left: 21.81%; top: 53.26%;" href="#/docs/halls/blue/B38" aria-label="B38 전시물">38</a>
+  <a class="map-marker" style="left: 21.81%; top: 43.45%;" href="#/docs/halls/blue/B39" aria-label="B39 전시물">39</a>
+  <a class="map-marker" style="left: 9.88%; top: 7.41%;" href="#/docs/halls/blue/B40" aria-label="B40 전시물">40</a>
+  <a class="map-marker" style="left: 13.77%; top: 15.84%;" href="#/docs/halls/blue/B41" aria-label="B41 전시물">41</a>
+  <a class="map-marker" style="left: 18.92%; top: 15.68%;" href="#/docs/halls/blue/B42" aria-label="B42 전시물">42</a>
+  <a class="map-marker" style="left: 25.81%; top: 18.77%;" href="#/docs/halls/blue/B43" aria-label="B43 전시물">43</a>
+  <a class="map-marker" style="left: 31.18%; top: 15.37%;" href="#/docs/halls/blue/B44" aria-label="B44 전시물">44</a>
+  <a class="map-marker" style="left: 34.00%; top: 16.14%;" href="#/docs/halls/blue/B45" aria-label="B45 전시물">45</a>
+  <a class="map-marker" style="left: 36.72%; top: 23.71%;" href="#/docs/halls/blue/B46" aria-label="B46 전시물">46</a>
+  <a class="map-marker" style="left: 38.24%; top: 16.16%;" href="#/docs/halls/blue/B47" aria-label="B47 전시물">47</a>
+  <a class="map-marker" style="left: 42.31%; top: 15.95%;" href="#/docs/halls/blue/B48" aria-label="B48 전시물">48</a>
+</div>
 
 ### 2.2 전시물 리스트
 
