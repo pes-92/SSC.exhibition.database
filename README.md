@@ -64,7 +64,7 @@
 - 위치 : 1층
 - 테마색상 : 초록 
 - 전시 주제 : 공존  
-👉 [전시실 전시도면 및 전시물 리스트](/docs/halls/Green/G-hall.md)
+👉 [전시실 전시도면 및 전시물 리스트](/docs/halls/green/G-hall.md)
 ---
 
 ### 🟠 O전시실
