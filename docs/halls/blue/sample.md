@@ -45,14 +45,102 @@
 <div class="ssc-only">
 
 ### 1.2 학교 교육과정  
-| 학년       | 단원  | 해당 교과 챕터 | 비고  |
-| -------- | --- | -------- | --- |
-| 초등 1~2학년 |     |          |     |
-| 초등 3~4학년 |     |          |     |
-| 초등 5~6학년 |     |          |     |
-| 중학교      |     |          |     |
-| 고등학교(공통) |     |          |     |
-| 고등학교(선택) |     |          |     |
+<!--
+curriculum-table은 전시물과 연결된 학교 교육과정을 학년별로 비교하는 표이다.
+내용체계 칸에는 정적 웹에 포함된 내부 교육과정 문서 링크를 넣는다.
+챕터 및 단원명 칸에는 외부 교과서/교과 챕터 링크를 넣는다.
+전시물과 연계성 칸에는 전시물에서 어떤 개념과 연결되는지 적는다.
+비고 칸에는 학년별 수준 변화, 해설 시 유의점, 확인이 필요한 내용을 적는다.
+-->
+
+<table class="curriculum-table">
+  <caption><b>학교 교육과정</b></caption>
+  <thead>
+    <tr>
+      <th colspan="2">교육과정 내용체계</th>
+      <th colspan="2">해당 교과과정(교과서)</th>
+      <th rowspan="2">전시물과 연계성</th>
+      <th rowspan="2">비고</th>
+    </tr>
+    <tr>
+      <th>학년(학군)</th>
+      <th>내용체계</th>
+      <th>학년 및 학기</th>
+      <th>챕터 및 단원명</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td colspan="6">교과 챕터는 외부 사이트 링크를 통해 해당 단원을 확인한다.</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <th>초등1~2학년(수학)</th>
+      <td>
+        <a class="curriculum-link-button" href="#/docs/school_ curriculum/math/common/math_common_curriculum_knowledge_categories/common_curriculum_geometry_and_measurement">
+          공통교육과정 &gt; 도형과 측정
+        </a>
+      </td>
+      <td>1~2학년군</td>
+      <td>
+        <a class="curriculum-link-button external" href="https://example.com" target="_blank" rel="noopener">
+          교과 챕터 링크
+        </a>
+      </td>
+      <td>길이를 직접 재기보다 길이를 가늠하고 비교하는 경험과 연결된다.</td>
+      <td>표준 단위보다 감각적 비교와 어림 중심으로 설명한다.</td>
+    </tr>
+    <tr>
+      <th>초등3~4학년(수학)</th>
+      <td>
+        <a class="curriculum-link-button" href="#/docs/school_ curriculum/math/common/math_common_curriculum_knowledge_categories/common_curriculum_geometry_and_measurement">
+          공통교육과정 &gt; 도형과 측정
+        </a>
+      </td>
+      <td>3학년 1학기</td>
+      <td>
+        <a class="curriculum-link-button external" href="https://example.com" target="_blank" rel="noopener">
+          5. 길이와 시간
+        </a>
+      </td>
+      <td>m, cm 등 표준 단위를 사용해 길이를 정확히 측정하는 내용과 연결된다.</td>
+      <td>1~2학년보다 단위와 측정 도구를 명확히 다룰 수 있다.</td>
+    </tr>
+    <tr>
+      <th>초등5~6학년</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>중학교</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>고등학교(공통)</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>고등학교(선택)</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -78,51 +166,83 @@
 
 ## 2. 기본 과학 이론
 ### 2.1 핵심 과학이론
-- 
+
+<!--
+data-theories에는 연결할 이론 문서의 제목을 입력한다.
+쉼표(,)로 여러 이론을 구분할 수 있으며, assets/js/theory-links.js에 등록된 제목과 일치하면 버튼형 링크로 표시된다.
+등록되지 않은 제목은 비활성 표시로 나타난다.
+-->
+
+<div data-theories="반사, 굴절"></div>
 
 
 ### 2.2 연관 과학이론
 
 ## 3. 연관 전시물
-- 
+
+<!--
+related-exhibit-link-list는 연관 전시물 문서로 이동하는 버튼 목록이다.
+a 태그의 href에는 연결할 전시물 문서 경로를 입력한다.
+버튼을 여러 개 넣으면 세로로 정렬된다.
+-->
+
+<div class="related-exhibit-link-list">
+  <a class="related-exhibit-link-button" href="#/docs/halls/blue/B01">B01 세상은 어떻게 연결되어 있을까?</a>
+</div>
 
 
 ## 4. 기존 해설에서의 쓰임 예시
 
-<details class="callout note">
-  <summary class="callout-title">
-    (주제해설) 우주
-  </summary>
+아래 영역은 별도 해설서 문서에서 해당 전시물과 연결된 해설 내용을 불러온다.
 
-  <div class="callout-body">
-   <div class="info-box">
-   <details>
-    <summary><p><b>📂 파일 위치</b></p></summary>
-    <p>잔디 드라이브 > 자료실 > 1.해설시나리오_모음zip > 주제해설 > 주제해설_김형준_+우주(날짜미정).hwp</p>
-    </details>
-    </div>
-    <div class="info-box">
-    <p><b>🧑🏻‍💻 작성정보</b></p>
-    <p><ul><li>작성자 : 김형준</li>
-    <li>작성일 : (확인불가)</li></ul></p>
-    </div>
-    <div class="info-box">
-    <details>
-      <summary><p><b>📖 해설 내용</p></b></summary>
-      <p>(전략)<br>
-      내용<br>
-      (후략)</p>
-    </details>
-    </div>
-  </div>
-</details>
+<!--
+guide-loader는 별도 해설서 문서의 일부를 전시물 문서 안으로 불러오는 참조 영역이다.
+data-guide-src: 해설서 파일 경로
+data-guide-id: 해당 전시물 번호
+data-guide-title: 화면에 표시할 해설서 제목
+-->
+
+<div
+  class="guide-loader"
+  data-guide-src="docs/guid/Banjjak/B_space.md"
+  data-guide-id="B21"
+  data-guide-title="(반짝해설) 우주">
+</div>
 
 ## 5. 확장 자료
 
 ### 심화 이론
 
+<!--
+resource-link-list는 확장 자료 링크를 세로로 정렬하는 목록이다.
+내부 문서는 href에 #/docs/... 형식의 정적 웹 문서 경로를 입력한다.
+버튼을 여러 개 넣으면 세로로 정렬된다.
+-->
+
+<div class="resource-link-list">
+  <a class="resource-link-button" href="#/docs/theory/zzz_incomplete">이론 양식 문서 보기</a>
+</div>
+
 
 ### 최신 연구
+
+<!--
+resource-link-list는 확장 자료 링크를 세로로 정렬하는 목록이다.
+외부 자료는 href에 전체 URL을 입력하고 target="_blank" rel="noopener"를 함께 사용한다.
+버튼을 여러 개 넣으면 세로로 정렬된다.
+-->
+
+<div class="resource-link-list">
+  <a class="resource-link-button external" href="https://www.google.com" target="_blank" rel="noopener">외부 연구 자료 보기</a>
+</div>
+
+<!--
+doc-tags는 문서에 해시태그를 표시하는 영역이다.
+data-tags에 쉼표로 구분한 태그 이름을 입력한다.
+태그 이름에는 #을 직접 붙이지 않는다.
+-->
+
+<div class="doc-tags" data-tags="문서양식"></div>
 
 </div>
 

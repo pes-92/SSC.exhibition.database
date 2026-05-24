@@ -18,8 +18,20 @@ window.$docsify = {
           if (window.loadExcerpts) {
             await window.loadExcerpts();
           }
+          if (window.loadGuideExcerpts) {
+            await window.loadGuideExcerpts();
+          }
           if (window.processFootnotes) {
             window.processFootnotes();
+          }
+          if (window.renderTheoryLinks) {
+            window.renderTheoryLinks();
+          }
+          if (window.processTags) {
+            window.processTags();
+          }
+          if (window.MathJax && window.MathJax.typesetPromise) {
+            await window.MathJax.typesetPromise();
           }
         }, 200);
       });

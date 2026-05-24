@@ -26,7 +26,7 @@
 </thead>
 <tfoot>
 	<tr>
-	 <td colspan="4" style="background-color: white;">해설 원문은 잔디 드라이브 내에 저장되어 있습니다.</td>
+	 <td colspan="4" style="background-color: white;">해설 원문 및 참조 이미지 등은 잔디 드라이브 내에 저장되어 있습니다.</td>
 	 <!-- <td></td> -->
 	 <!-- <td></td> -->
 	 <!-- <td></td> -->

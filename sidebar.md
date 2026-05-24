@@ -29,11 +29,24 @@
 
 <div class="sidebar-section sidebar-resource-list">
   <p class="sidebar-section-title">연관자료</p>
-  <ul class="hall-menu">
-    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/guid/list.md">해설서</a></li>
-    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/resources/school-curriculum.md">교과과정 안내</a></li>
-    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/resources/theory.md">이론 안내</a></li>
-    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/resources/issues.md">최신이슈 공유</a></li>
+  <ul class="hall-menu resource-menu">
+    <li>
+      <span class="hall-menu-item resource-menu-item">해설서</span>
+      <ul class="resource-submenu">
+        <li><span class="hall-menu-item resource-submenu-item">전관해설</span></li>
+        <li><span class="hall-menu-item resource-submenu-item">관별해설(반짝해설)</span></li>
+        <li><span class="hall-menu-item resource-submenu-item">특별해설</span></li>
+        <li><span class="hall-menu-item resource-submenu-item">기타</span></li>
+      </ul>
+    </li>
+    <li>
+      <span class="hall-menu-item resource-menu-item">교과과정 안내</span>
+      <ul class="resource-submenu">
+        <li><span class="hall-menu-item resource-submenu-item">공통교육과정(초등, 중등)</span></li>
+        <li><span class="hall-menu-item resource-submenu-item">선택중심 교육과정(고등)</span></li>
+      </ul>
+    </li>
+    <li><span class="hall-menu-item resource-menu-item">이론안내</span></li>
   </ul>
 </div>
 
