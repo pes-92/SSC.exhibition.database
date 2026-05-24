@@ -2,15 +2,19 @@
 
 ---
 
+<div class="volunteer">
+
 <div class="sidebar-section sidebar-hall-list">
   <p class="sidebar-section-title">전시실 별 전시물 확인</p>
   <ul class="hall-menu">
-    <li><span class="hall-menu-item"><span class="hall-letter hall-green">G</span>전시실</span></li>
-    <li><span class="hall-menu-item"><span class="hall-letter hall-orange">O</span>전시실</span></li>
+    <li><a class="hall-menu-item sidebar-link-button" href="/docs/halls/green/G-hall.md"><span class="hall-letter hall-green">G</span>전시실</a></li>
+    <li><a class="hall-menu-item sidebar-link-button" href="/docs/halls/orange/O-hall.md"><span class="hall-letter hall-orange">O</span>전시실</a></li>
     <li><a class="hall-menu-item sidebar-link-button" href="/docs/halls/blue/B-hall.md"><span class="hall-letter hall-blue">B</span>전시실</a></li>
-    <li><span class="hall-menu-item"><span class="hall-letter hall-yellow">Y</span>전시실</span></li>
-    <li><span class="hall-menu-item"><span class="hall-letter hall-yellow">Y</span><sub class="hall-letter-sub hall-yellow">Y</sub>전시실</span></li>
+    <li><a class="hall-menu-item sidebar-link-button" href="/docs/halls/kids/Y-hall.md"><span class="hall-letter hall-yellow">Y</span>전시실</a></li>
+    <li><a class="hall-menu-item sidebar-link-button" href="/docs/halls/kids/Yy-hall.md"><span class="hall-letter hall-yellow">Y</span><sub class="hall-letter-sub hall-yellow">Y</sub>전시실</a></li>
   </ul>
+</div>
+
 </div>
 
 <div class="ssc-only">

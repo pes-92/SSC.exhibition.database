@@ -9,7 +9,7 @@
 # 🏠 [홈](/)으로 가기
 ##
 # G전시실(공존)
-![G전시실 입구](../../image/exhibition/green/gate.png)
+![G전시실 입구](../../image/exhibition/green/gate.jpg)
 
 ## 1. 전시실 소개
 생태환경과 도시구조 속 과학원리에 대한 체험을 통해 자연과 도시, 사람과
