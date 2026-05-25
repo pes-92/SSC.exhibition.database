@@ -17,7 +17,49 @@
 
 ## 2. 전시물
 ### 2.1 전시물 배치도
-*(작성 중)*
+<div class="exhibit-map" aria-label="G전시실 전시물 배치도">
+  <img src="docs/image/exhibition/green/map.png" alt="G전시실 전시물 배치도">
+
+  <a class="map-marker" style="left: 75.26%; top: 32.68%;" href="#/docs/halls/notice" aria-label="G01 전시물 안내">1</a>
+  <a class="map-marker" style="left: 77.61%; top: 58.82%;" href="#/docs/halls/notice" aria-label="G02 전시물 안내">2</a>
+  <a class="map-marker" style="left: 77.20%; top: 92.72%;" href="#/docs/halls/notice" aria-label="G03 전시물 안내">3</a>
+  <a class="map-marker" style="left: 73.80%; top: 80.30%;" href="#/docs/halls/notice" aria-label="G04 전시물 안내">4</a>
+  <a class="map-marker" style="left: 70.75%; top: 91.98%;" href="#/docs/halls/notice" aria-label="G05 전시물 안내">5</a>
+  <a class="map-marker" style="left: 68.32%; top: 58.63%;" href="#/docs/halls/notice" aria-label="G06 전시물 안내">6</a>
+  <a class="map-marker" style="left: 63.24%; top: 77.80%;" href="#/docs/halls/notice" aria-label="G07 전시물 안내">7</a>
+  <a class="map-marker" style="left: 66.16%; top: 90.69%;" href="#/docs/halls/notice" aria-label="G08 전시물 안내">8</a>
+  <a class="map-marker" style="left: 59.46%; top: 94.04%;" href="#/docs/halls/notice" aria-label="G09 전시물 안내">9</a>
+  <a class="map-marker" style="left: 57.94%; top: 81.74%;" href="#/docs/halls/notice" aria-label="G10 전시물 안내">10</a>
+  <a class="map-marker" style="left: 59.27%; top: 58.53%;" href="#/docs/halls/notice" aria-label="G11 전시물 안내">11</a>
+  <a class="map-marker" style="left: 56.14%; top: 35.38%;" href="#/docs/halls/notice" aria-label="G12 전시물 안내">12</a>
+  <a class="map-marker" style="left: 53.41%; top: 51.17%;" href="#/docs/halls/notice" aria-label="G13 전시물 안내">13</a>
+  <a class="map-marker" style="left: 48.67%; top: 31.43%;" href="#/docs/halls/notice" aria-label="G14 전시물 안내">14</a>
+  <a class="map-marker" style="left: 44.88%; top: 30.30%;" href="#/docs/halls/notice" aria-label="G15 전시물 안내">15</a>
+  <a class="map-marker" style="left: 49.36%; top: 54.13%;" href="#/docs/halls/notice" aria-label="G16 전시물 안내">16</a>
+  <a class="map-marker" style="left: 46.55%; top: 70.64%;" href="#/docs/halls/notice" aria-label="G17 전시물 안내">17</a>
+  <a class="map-marker" style="left: 43.51%; top: 69.72%;" href="#/docs/halls/notice" aria-label="G18 전시물 안내">18</a>
+  <a class="map-marker" style="left: 43.83%; top: 63.45%;" href="#/docs/halls/notice" aria-label="G19 전시물 안내">19</a>
+  <a class="map-marker" style="left: 36.64%; top: 54.18%;" href="#/docs/halls/notice" aria-label="G20 전시물 안내">20</a>
+  <a class="map-marker" style="left: 37.83%; top: 71.75%;" href="#/docs/halls/notice" aria-label="G21 전시물 안내">21</a>
+  <a class="map-marker" style="left: 37.35%; top: 94.87%;" href="#/docs/halls/notice" aria-label="G22 전시물 안내">22</a>
+  <a class="map-marker" style="left: 30.73%; top: 95.62%;" href="#/docs/halls/notice" aria-label="G23 전시물 안내">23</a>
+  <a class="map-marker" style="left: 27.56%; top: 89.61%;" href="#/docs/halls/notice" aria-label="G24 전시물 안내">24</a>
+  <a class="map-marker" style="left: 25.50%; top: 83.98%;" href="#/docs/halls/notice" aria-label="G25 전시물 안내">25</a>
+  <a class="map-marker" style="left: 29.06%; top: 74.45%;" href="#/docs/halls/notice" aria-label="G26 전시물 안내">26</a>
+  <a class="map-marker" style="left: 19.57%; top: 66.15%;" href="#/docs/halls/notice" aria-label="G27 전시물 안내">27</a>
+  <a class="map-marker" style="left: 19.02%; top: 79.57%;" href="#/docs/halls/notice" aria-label="G28 전시물 안내">28</a>
+  <a class="map-marker" style="left: 19.02%; top: 91.81%;" href="#/docs/halls/notice" aria-label="G29 전시물 안내">29</a>
+  <a class="map-marker" style="left: 38.81%; top: 27.32%;" href="#/docs/halls/notice" aria-label="G30 전시물 안내">30</a>
+  <a class="map-marker" style="left: 34.85%; top: 25.91%;" href="#/docs/halls/notice" aria-label="G31 전시물 안내">31</a>
+  <a class="map-marker" style="left: 38.42%; top: 15.31%;" href="#/docs/halls/notice" aria-label="G32 전시물 안내">32</a>
+  <a class="map-marker" style="left: 34.93%; top: 11.95%;" href="#/docs/halls/notice" aria-label="G33 전시물 안내">33</a>
+  <a class="map-marker" style="left: 31.34%; top: 7.22%;" href="#/docs/halls/notice" aria-label="G34 전시물 안내">34</a>
+  <a class="map-marker" style="left: 26.50%; top: 6.57%;" href="#/docs/halls/notice" aria-label="G35 전시물 안내">35</a>
+  <a class="map-marker" style="left: 27.01%; top: 15.18%;" href="#/docs/halls/notice" aria-label="G36 전시물 안내">36</a>
+  <a class="map-marker" style="left: 32.04%; top: 22.72%;" href="#/docs/halls/notice" aria-label="G37 전시물 안내">37</a>
+  <a class="map-marker" style="left: 29.12%; top: 34.19%;" href="#/docs/halls/notice" aria-label="G38 전시물 안내">38</a>
+  <a class="map-marker" style="left: 31.60%; top: 37.70%;" href="#/docs/halls/notice" aria-label="G39 전시물 안내">39</a>
+</div>
 
 ### 2.2 전시물 리스트
 

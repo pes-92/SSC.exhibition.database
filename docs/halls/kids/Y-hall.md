@@ -16,7 +16,21 @@
 
 ## 2. 전시물
 ### 2.1 전시물 배치도
-*(작성 중)*
+<div class="exhibit-map" aria-label="Y전시실 전시물 배치도">
+  <img src="docs/image/exhibition/yellow/map.png" alt="Y전시실 전시물 배치도">
+
+  <a class="map-marker" style="left: 79.85%; top: 55.07%;" href="#/docs/halls/notice" aria-label="Y01 전시물 안내">1</a>
+  <a class="map-marker" style="left: 82.42%; top: 13.51%;" href="#/docs/halls/notice" aria-label="Y02 전시물 안내">2</a>
+  <a class="map-marker" style="left: 65.75%; top: 14.04%;" href="#/docs/halls/notice" aria-label="Y03 전시물 안내">3</a>
+  <a class="map-marker" style="left: 45.96%; top: 12.04%;" href="#/docs/halls/notice" aria-label="Y04 전시물 안내">4</a>
+  <a class="map-marker" style="left: 30.03%; top: 13.11%;" href="#/docs/halls/notice" aria-label="Y05 전시물 안내">5</a>
+  <a class="map-marker" style="left: 16.86%; top: 51.69%;" href="#/docs/halls/notice" aria-label="Y06 전시물 안내">6</a>
+  <a class="map-marker" style="left: 31.40%; top: 54.87%;" href="#/docs/halls/notice" aria-label="Y07 전시물 안내">7</a>
+  <a class="map-marker" style="left: 45.56%; top: 50.11%;" href="#/docs/halls/notice" aria-label="Y08 전시물 안내">8</a>
+  <a class="map-marker" style="left: 43.07%; top: 70.58%;" href="#/docs/halls/notice" aria-label="Y09 전시물 안내">9</a>
+  <a class="map-marker" style="left: 53.40%; top: 59.99%;" href="#/docs/halls/notice" aria-label="Y10 전시물 안내">10</a>
+  <a class="map-marker" style="left: 64.75%; top: 59.38%;" href="#/docs/halls/notice" aria-label="Y11 전시물 안내">11</a>
+</div>
 
 ### 2.2 전시물 리스트
 
