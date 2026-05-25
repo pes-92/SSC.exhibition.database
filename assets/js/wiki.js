@@ -147,7 +147,7 @@ function protectPage(role) {
 }
 
 function toggleSearchByRole(role) {
-  const searchBox = document.querySelector(".search");
+  const searchBox = ensureSidebarSearch();
   if (!searchBox) return;
 
   if (role === "ssc" || role === "admin") {
@@ -160,7 +160,7 @@ function toggleSearchByRole(role) {
 }
 
 function isSearchAllowed(role) {
-  return role === "ssc" || role === "admin";
+  return role === "junior" || role === "ssc" || role === "admin";
 }
 
 function isHomePath() {
@@ -174,12 +174,191 @@ function isHomePath() {
   );
 }
 
+function ensureSidebarSearch() {
+  const sidebar = document.querySelector(".sidebar");
+  if (!sidebar) return null;
+
+  let searchBox = sidebar.querySelector(".search");
+  if (searchBox) return searchBox;
+
+  searchBox = document.createElement("div");
+  searchBox.className = "search custom-search";
+  searchBox.innerHTML = `
+    <input type="search" placeholder="검색" autocomplete="off">
+    <div class="results-panel"></div>
+  `;
+
+  const nav = sidebar.querySelector(".sidebar-nav");
+  if (nav) {
+    sidebar.insertBefore(searchBox, nav);
+  } else {
+    sidebar.appendChild(searchBox);
+  }
+
+  return searchBox;
+}
+
 function getSidebarSearchInput() {
+  ensureSidebarSearch();
   return document.querySelector(".search input");
 }
 
 function getSidebarSearchResults() {
-  return document.querySelector(".search .results-panel");
+  ensureSidebarSearch();
+  const searchBox = document.querySelector(".search");
+  if (!searchBox) return null;
+
+  let results = searchBox.querySelector(".results-panel");
+  if (!results) {
+    results = document.createElement("div");
+    results.className = "results-panel";
+    searchBox.appendChild(results);
+  }
+
+  return results;
+}
+
+function getSearchRole() {
+  return sessionStorage.getItem("role") || "none";
+}
+
+function getRoleLevel(role) {
+  if (role === "admin") return 3;
+  if (role === "ssc") return 2;
+  if (role === "junior" || role === "volunteer") return 1;
+  if (role === "public") return 0;
+  return -1;
+}
+
+function canRoleSee(requiredRole, currentRole) {
+  return getRoleLevel(currentRole) >= getRoleLevel(requiredRole || "public");
+}
+
+function normalizeSearchText(value) {
+  return String(value || "")
+    .replace(/^#/, "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLocaleLowerCase("ko");
+}
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function getTypeLabel(type) {
+  if (type === "exhibit") return "전시물";
+  if (type === "theory") return "이론";
+  if (type === "guide") return "해설";
+  if (type === "curriculum") return "교육과정";
+  return "문서";
+}
+
+function getVisibleSegments(item, role) {
+  return (item.segments || []).filter(segment => canRoleSee(segment.role, role));
+}
+
+function getVisibleTags(item, role) {
+  return (item.tags || []).filter(tag => canRoleSee(tag.role, role));
+}
+
+function makeSearchSnippet(item, query, role) {
+  const normalizedQuery = normalizeSearchText(query);
+  const segments = getVisibleSegments(item, role);
+  const match = segments.find(segment => normalizeSearchText(segment.text).includes(normalizedQuery));
+  const source = match ? match.text : (segments[0] && segments[0].text) || "";
+  if (!source) return "";
+
+  const sourceLower = source.toLocaleLowerCase("ko");
+  const index = sourceLower.indexOf(normalizedQuery);
+  const start = Math.max(0, index - 45);
+  const end = Math.min(source.length, (index < 0 ? 0 : index) + normalizedQuery.length + 75);
+  const prefix = start > 0 ? "..." : "";
+  const suffix = end < source.length ? "..." : "";
+
+  return `${prefix}${source.slice(start, end)}${suffix}`;
+}
+
+function searchIndexItems(rawQuery, role) {
+  const index = window.searchIndex || [];
+  const query = normalizeSearchText(rawQuery);
+  if (!query) return [];
+
+  const isTagSearch = String(rawQuery || "").trim().startsWith("#");
+
+  return index
+    .map(item => {
+      const visibleSegments = getVisibleSegments(item, role);
+      const visibleTags = getVisibleTags(item, role);
+      const visibleText = [
+        item.title,
+        item.path,
+        ...visibleSegments.map(segment => segment.text),
+        ...visibleTags.map(tag => tag.tag)
+      ].join(" ");
+      const normalizedText = normalizeSearchText(visibleText);
+      const tagMatched = visibleTags.some(tag => normalizeSearchText(tag.tag) === query);
+      const textMatched = normalizedText.includes(query);
+
+      if (isTagSearch ? !tagMatched : !textMatched) return null;
+
+      return {
+        item,
+        score: (tagMatched ? 100 : 0) +
+          (normalizeSearchText(item.title).includes(query) ? 20 : 0) +
+          (normalizeSearchText(item.path).includes(query) ? 5 : 0),
+        snippet: isTagSearch ? `#${query} 태그가 달린 문서입니다.` : makeSearchSnippet(item, query, role)
+      };
+    })
+    .filter(Boolean)
+    .sort((a, b) => {
+      if (b.score !== a.score) return b.score - a.score;
+      return a.item.title.localeCompare(b.item.title, "ko");
+    })
+    .slice(0, 80);
+}
+
+function renderSearchResults(container, rawQuery, role) {
+  if (!container) return;
+
+  const query = String(rawQuery || "").trim();
+  container.replaceChildren();
+  if (!query) return;
+
+  const results = searchIndexItems(query, role);
+  if (!results.length) {
+    const empty = document.createElement("p");
+    empty.textContent = "검색 결과 없음";
+    container.appendChild(empty);
+    return;
+  }
+
+  results.forEach(({ item, snippet }) => {
+    const post = document.createElement("div");
+    post.className = "matching-post";
+
+    const link = document.createElement("a");
+    link.href = item.path;
+    link.dataset.route = item.path;
+    link.innerHTML = `${escapeHtml(item.title)} <span class="search-result-type">${escapeHtml(getTypeLabel(item.type))}</span>`;
+
+    const detail = document.createElement("p");
+    detail.textContent = snippet || item.path;
+
+    post.appendChild(link);
+    post.appendChild(detail);
+    container.appendChild(post);
+  });
+}
+
+function renderSearchEverywhere(value) {
+  const role = getSearchRole();
+  renderSearchResults(getSidebarSearchResults(), value, role);
+  renderSearchResults(document.getElementById("homeSearchResults"), value, role);
 }
 
 function syncHomeSearchResults() {
@@ -191,27 +370,22 @@ function syncHomeSearchResults() {
 }
 
 function bindHomeSearchResultsObserver() {
-  const sidebarResults = getSidebarSearchResults();
-  if (!sidebarResults || sidebarResults.dataset.homeSearchObserved === "true") return;
-
-  const observer = new MutationObserver(syncHomeSearchResults);
-  observer.observe(sidebarResults, {
-    childList: true,
-    subtree: true,
-    attributes: true,
-    characterData: true
-  });
-
-  sidebarResults.dataset.homeSearchObserved = "true";
-  syncHomeSearchResults();
+  renderSearchEverywhere((getSidebarSearchInput() && getSidebarSearchInput().value) || "");
 }
 
 function bindSidebarSearchInputSync() {
   const sidebarInput = getSidebarSearchInput();
   if (!sidebarInput || sidebarInput.dataset.homeSearchSynced === "true") return;
 
-  sidebarInput.addEventListener("input", syncHomeSearchInputFromSidebar);
-  sidebarInput.addEventListener("change", syncHomeSearchInputFromSidebar);
+  sidebarInput.addEventListener("input", () => {
+    syncHomeSearchInputFromSidebar();
+    setTimeout(() => renderSearchEverywhere(sidebarInput.value), 0);
+    setTimeout(() => renderSearchEverywhere(sidebarInput.value), 80);
+  });
+  sidebarInput.addEventListener("change", () => {
+    syncHomeSearchInputFromSidebar();
+    renderSearchEverywhere(sidebarInput.value);
+  });
   sidebarInput.dataset.homeSearchSynced = "true";
 }
 
@@ -227,12 +401,13 @@ function syncHomeSearchInputFromSidebar() {
 
 function runDocsifySearchFromHome(value) {
   const sidebarInput = getSidebarSearchInput();
-  if (!sidebarInput) return;
 
-  sidebarInput.value = value;
-  sidebarInput.dispatchEvent(new Event("input", { bubbles: true }));
-  sidebarInput.dispatchEvent(new Event("change", { bubbles: true }));
-  setTimeout(syncHomeSearchResults, 80);
+  if (sidebarInput && sidebarInput.value !== value) {
+    sidebarInput.value = value;
+  }
+
+  renderSearchEverywhere(value);
+  setTimeout(() => renderSearchEverywhere(value), 80);
 }
 
 function ensureHomeSearch() {
@@ -561,7 +736,7 @@ function getDocsifyRouteFromMdHref(href) {
 function routeSidebarMdLink(e) {
   if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return false;
 
-  const link = e.target.closest(".sidebar a");
+  const link = e.target.closest("a[data-route], .sidebar a");
   if (!link) return false;
 
   const route = link.dataset.route || getDocsifyRouteFromMdHref(link.getAttribute("href"));

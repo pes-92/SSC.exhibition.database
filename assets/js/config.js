@@ -3,11 +3,6 @@ window.$docsify = {
   homepage: "README.md",
   loadSidebar: "_sidebar.md",
   auto2top: true,
-  search: {
-    placeholder: "검색",
-    noData: "검색 결과 없음",
-    depth: 3
-  },
   plugins: [
     function (hook) {
       hook.doneEach(function () {
