@@ -549,7 +549,32 @@ function scrollToFootnoteTarget(targetId) {
   target.scrollIntoView({ behavior: "smooth", block: "center" });
 }
 
+function getDocsifyRouteFromMdHref(href) {
+  if (!href || href.startsWith("#") || /^[a-z]+:/i.test(href)) return null;
+
+  const cleanHref = href.split("#")[0].split("?")[0].replace(/^\.\//, "").replace(/^\//, "");
+  if (!cleanHref.endsWith(".md")) return null;
+
+  return `#/${cleanHref.replace(/\.md$/, "")}`;
+}
+
+function routeSidebarMdLink(e) {
+  if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return false;
+
+  const link = e.target.closest(".sidebar a");
+  if (!link) return false;
+
+  const route = getDocsifyRouteFromMdHref(link.getAttribute("href"));
+  if (!route) return false;
+
+  e.preventDefault();
+  location.hash = route;
+  return true;
+}
+
 document.addEventListener("click", function (e) {
+  if (routeSidebarMdLink(e)) return;
+
   const jump = e.target.closest(".footnote-popup-jump, .footnote-backref");
   if (jump) {
     const targetId = jump.getAttribute("href").replace(/^#/, "");
