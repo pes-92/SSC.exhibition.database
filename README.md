@@ -27,6 +27,7 @@
 <div class="ssc-only">
   <h2> ⚠️ 주의사항 </h2>
   <ul>
+    <li><sapn style="color:red"><b>현재 wiki는 개발중인 상황입니다.</b>😆<br> B전시실 구축중(그 외 전시실 추후 구축 예정)</span></li>
     <li>아이디 및 패스워드는 서울시립과학관 전시과 직원에게만!</li>
     <li>자료 변경요청은 관리자(박은선 실무관)에게 전달</li>
     <li>사진 사용 시 저작권 반드시 확인</li>
@@ -85,7 +86,7 @@
 ### 🟡 어린이 전시실
 - 위치 : 1층(Y), 2층(YY)
 - 테마색상 : 노랑  
-👉 [Y전시실 전시도면 및 전시물 리스트](/docs/halls/kids/Y-hall.md)
+👉 [Y전시실 전시도면 및 전시물 리스트](/docs/halls/kids/Y-hall.md)<br>
 👉 [Y_Y전시실 전시도면 및 전시물 리스트](/docs/halls/kids/Yy-hall.md)
 
 ---
