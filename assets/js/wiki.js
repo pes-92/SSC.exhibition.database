@@ -564,7 +564,7 @@ function routeSidebarMdLink(e) {
   const link = e.target.closest(".sidebar a");
   if (!link) return false;
 
-  const route = getDocsifyRouteFromMdHref(link.getAttribute("href"));
+  const route = link.dataset.route || getDocsifyRouteFromMdHref(link.getAttribute("href"));
   if (!route) return false;
 
   e.preventDefault();
@@ -572,9 +572,9 @@ function routeSidebarMdLink(e) {
   return true;
 }
 
-document.addEventListener("click", function (e) {
-  if (routeSidebarMdLink(e)) return;
+document.addEventListener("click", routeSidebarMdLink, true);
 
+document.addEventListener("click", function (e) {
   const jump = e.target.closest(".footnote-popup-jump, .footnote-backref");
   if (jump) {
     const targetId = jump.getAttribute("href").replace(/^#/, "");
