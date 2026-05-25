@@ -1,7 +1,7 @@
 window.$docsify = {
   name: "SeoulScienceCenter Wiki",
   homepage: "README.md",
-  loadSidebar: "sidebar.md",
+  loadSidebar: "_sidebar.md",
   auto2top: true,
   search: {
     placeholder: "검색",
