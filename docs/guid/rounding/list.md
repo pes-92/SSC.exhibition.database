@@ -6,19 +6,13 @@
 
 <hr>
 
-<h1> 해설서 목록 </h1>
+<h1> 전관 해설 해설서 목록 </h1>
 <div class="ssc-only">
-
-<h2> 전관해설 </h2>
-
-
-
-<h2> 반짝해설 </h2>
 
 <table>
  <thead>
 	<tr>
-	<th style="background-color:bright gray;">전시실</th>
+	<th style="background-color:bright gray;">이용 전시실</th>
 	<th style="background-color:bright gray;">해설 명</th>
 	<th style="background-color:bright gray;">작성자</th>
 	<th style="background-color:bright gray;">해설 보러가기</th>
@@ -37,7 +31,7 @@
 	 <th>B전시실</th>
 	 <td>우주</td>
 	 <td>홍진주</td>
-	 <td><a href="#/docs/guid/Banjjak/B_space.md">
+	 <td><a href="#/docs/guid/rounding/B_space.md">
 		   🔗 해설 보러 가기
 		 </a></td>
 	</tr>

@@ -37,10 +37,11 @@
     <li>
       <span class="hall-menu-item resource-menu-item">해설서</span>
       <ul class="resource-submenu">
-        <li><span class="hall-menu-item resource-submenu-item">전관해설</span></li>
-        <li><span class="hall-menu-item resource-submenu-item">관별해설(반짝해설)</span></li>
-        <li><span class="hall-menu-item resource-submenu-item">특별해설</span></li>
-        <li><span class="hall-menu-item resource-submenu-item">기타</span></li>
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/rounding/list.md" data-route="#/docs/guid/rounding/list">전관해설</a></li>
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/Banjjak/list.md" data-route="#/docs/guid/Banjjak/list">관별해설(반짝해설)</a></li>
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/Eachexhibit/list.md" data-route="#/docs/guid/Eachexhibit/list">전시물별 표준 해설</a></li>
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/special/list.md" data-route="#/docs/guid/special/list">특별해설 및 주제해설</a></li>
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/etc/list.md" data-route="#/docs/guid/etc/list">기타</a></li>
       </ul>
     </li>
     <li>
