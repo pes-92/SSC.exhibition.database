@@ -25,6 +25,15 @@
 </tfoot>
 <tbody>
 	<tr>
+	 <th>O전시실</th>
+	 <td>짝꿍과 함께하는 과학관 속 우주</td>
+	 <td>유보람</td>
+	 <td>2023년 7월</td>
+	 <td><a href="#/docs/guid/special/monthly_night_zoo_space_with_partner.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
 	 <th>G전시실, O전시실, B전시실, R전시실</th>
 	 <td>기후 위기 &amp; 골든벨</td>
 	 <td>윤민애, 김수민</td>
@@ -34,11 +43,38 @@
 		 </a></td>
 	</tr>
 	<tr>
+	 <th>G전시실</th>
+	 <td>독과 약의 한 끗 차이</td>
+	 <td>박은선 실무관</td>
+	 <td>2022. 04.</td>
+	 <td><a href="#/docs/guid/special/qr_book_poison_and_medicine.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>G전시실</th>
+	 <td>영화 vs 과학</td>
+	 <td>윤민애 실무관</td>
+	 <td>2021. 09.</td>
+	 <td><a href="#/docs/guid/special/qr_book_movie_vs_science.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
 	 <th>G전시실, B전시실</th>
 	 <td>바람과 빛, 그리고 가을</td>
 	 <td>엄정용</td>
 	 <td>2019. 10.</td>
 	 <td><a href="#/docs/guid/special/Subject_wind_light_autumn.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>󰏚 전시물 목록  : 36종</th>
+	 <td>청각장애인을 위한 전시해설 시나리오</td>
+	 <td>김주희, 엄정용, 윤민애, 최선주 실무관</td>
+	 <td>2019. 06.</td>
+	 <td><a href="#/docs/guid/special/sign_language_guide.md">
 		   🔗 해설 보러 가기
 		 </a></td>
 	</tr>

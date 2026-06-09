@@ -3,348 +3,13 @@
 window.tagIndex = {
   "문서양식": [
     {
-      "title": "3030년의 지질학자",
-      "path": "/docs/halls/green/G30",
-      "type": "exhibit"
-    },
-    {
-      "title": "6번째 대멸종의 이유",
-      "path": "/docs/halls/green/G34",
-      "type": "exhibit"
-    },
-    {
-      "title": "강물이 먹는 물로 정화되는 과정은?",
-      "path": "/docs/halls/green/G13",
-      "type": "exhibit"
-    },
-    {
-      "title": "개구리를 잡을 수 없는 이유는?",
-      "path": "/docs/halls/green/G04",
-      "type": "exhibit"
-    },
-    {
-      "title": "건강한 지구를 만들 수 있는 방법",
-      "path": "/docs/halls/kids/Y10",
-      "type": "exhibit"
-    },
-    {
-      "title": "건축에서 수학을 찾아보면?",
-      "path": "/docs/halls/green/G17",
-      "type": "exhibit"
-    },
-    {
-      "title": "곤충과 쥐에 의한 질병의 감염 경로는?",
-      "path": "/docs/halls/orange/O17",
-      "type": "exhibit"
-    },
-    {
-      "title": "공기대포는 어떤 모양으로 날아갈까?",
-      "path": "/docs/halls/green/G20",
-      "type": "exhibit"
-    },
-    {
-      "title": "공기의 흐름을 어떻게 볼 수 있을까?",
-      "path": "/docs/halls/green/G15",
-      "type": "exhibit"
-    },
-    {
-      "title": "귀를 막아도 소리가 들릴까?",
-      "path": "/docs/halls/orange/O11",
-      "type": "exhibit"
-    },
-    {
-      "title": "기체의 고유한 색을 관찰하면?",
-      "path": "/docs/halls/orange/O26",
-      "type": "exhibit"
-    },
-    {
-      "title": "길 위에서 사라져 가는 동물들",
-      "path": "/docs/halls/green/G10",
-      "type": "exhibit"
-    },
-    {
-      "title": "내 눈에 보이는 색은 무엇일까?",
-      "path": "/docs/halls/orange/O16",
-      "type": "exhibit"
-    },
-    {
-      "title": "내 동공은 어떤 모습일까?",
-      "path": "/docs/halls/orange/O15",
-      "type": "exhibit"
-    },
-    {
-      "title": "내 방 물건을 정리해요",
-      "path": "/docs/halls/kids/Yy09",
-      "type": "exhibit"
-    },
-    {
-      "title": "내 심장이 두근거리는 이유는?",
-      "path": "/docs/halls/orange/O06",
-      "type": "exhibit"
-    },
-    {
-      "title": "내가 들을 수 있는 주파수는?",
-      "path": "/docs/halls/orange/O24",
-      "type": "exhibit"
-    },
-    {
-      "title": "노래하는 의자",
-      "path": "/docs/halls/kids/Yy01",
-      "type": "exhibit"
-    },
-    {
-      "title": "눈동자만으로 게임을 할 수 있을까?",
-      "path": "/docs/halls/orange/O28",
-      "type": "exhibit"
-    },
-    {
-      "title": "눈이 침침한 이유는?",
-      "path": "/docs/halls/orange/O14",
-      "type": "exhibit"
-    },
-    {
-      "title": "다양한 길을 만들어 보아요",
-      "path": "/docs/halls/kids/Yy12",
-      "type": "exhibit"
-    },
-    {
-      "title": "달의 모양이 달라요",
-      "path": "/docs/halls/kids/Y08",
-      "type": "exhibit"
-    },
-    {
-      "title": "도시로 내려온 야생동물",
-      "path": "/docs/halls/green/G08",
-      "type": "exhibit"
-    },
-    {
-      "title": "도시의 기온이 더 높은 이유는 무엇일까?",
-      "path": "/docs/halls/green/G18",
-      "type": "exhibit"
-    },
-    {
-      "title": "도시화로 인한 생태계의 위기",
-      "path": "/docs/halls/green/G05",
-      "type": "exhibit"
-    },
-    {
-      "title": "동물을 해부하지 않고 골격을 관찰할 수 있을까?",
-      "path": "/docs/halls/green/G12",
-      "type": "exhibit"
-    },
-    {
-      "title": "딩동, 우리 집 앞이에요",
-      "path": "/docs/halls/kids/Yy02",
-      "type": "exhibit"
-    },
-    {
-      "title": "로드킬 현장 디오라마",
-      "path": "/docs/halls/green/G09",
-      "type": "exhibit"
-    },
-    {
-      "title": "몇 층에서 나는 소리죠?",
-      "path": "/docs/halls/kids/Yy13",
-      "type": "exhibit"
-    },
-    {
-      "title": "모두의 서울",
-      "path": "/docs/halls/orange/O01",
-      "type": "exhibit"
-    },
-    {
-      "title": "무슨 일이 일어났을까?",
-      "path": "/docs/halls/green/G33",
-      "type": "exhibit"
-    },
-    {
-      "title": "발밑 땅 속 세상이 궁금해요",
-      "path": "/docs/halls/kids/Yy16",
-      "type": "exhibit"
-    },
-    {
-      "title": "방출 스펙트럼 원소 주기율표",
-      "path": "/docs/halls/orange/O29",
-      "type": "exhibit"
-    },
-    {
-      "title": "방출 스펙트럼을 들어보면",
-      "path": "/docs/halls/orange/O30",
-      "type": "exhibit"
-    },
-    {
-      "title": "북한산에 사는 동식물",
-      "path": "/docs/halls/green/G03",
-      "type": "exhibit"
-    },
-    {
-      "title": "분자는 어떤 구조일까?",
-      "path": "/docs/halls/orange/O21",
-      "type": "exhibit"
-    },
-    {
-      "title": "빗방울이 톡톡톡",
-      "path": "/docs/halls/kids/Y03",
-      "type": "exhibit"
-    },
-    {
-      "title": "사물이 달라 보여요",
-      "path": "/docs/halls/kids/Yy17",
-      "type": "exhibit"
-    },
-    {
-      "title": "새벽이 되었어요",
-      "path": "/docs/halls/kids/Y01",
-      "type": "exhibit"
-    },
-    {
       "title": "색다른 감각 체험",
       "path": "/docs/guid/Banjjak/O_sensing",
       "type": "guide"
     },
     {
-      "title": "생물을 분류하는 방법은?",
-      "path": "/docs/halls/green/G07",
-      "type": "exhibit"
-    },
-    {
-      "title": "생물을 확대해서 보면 어떤 모습일까?",
-      "path": "/docs/halls/orange/O18",
-      "type": "exhibit"
-    },
-    {
-      "title": "생태계의 닥친 위기",
-      "path": "/docs/halls/green/G37",
-      "type": "exhibit"
-    },
-    {
-      "title": "생태계의 보고 밤섬",
-      "path": "/docs/halls/green/G06",
-      "type": "exhibit"
-    },
-    {
-      "title": "세계의 주요지진",
-      "path": "/docs/halls/green/G27",
-      "type": "exhibit"
-    },
-    {
-      "title": "소중한 동물친구들을 소개해요",
-      "path": "/docs/halls/kids/Yy15",
-      "type": "exhibit"
-    },
-    {
-      "title": "실시간 지진 모니터링",
-      "path": "/docs/halls/green/G23",
-      "type": "exhibit"
-    },
-    {
-      "title": "실험실 거울의 비밀은?",
-      "path": "/docs/halls/orange/O02",
-      "type": "exhibit"
-    },
-    {
-      "title": "아침 하늘이 흐려요",
-      "path": "/docs/halls/kids/Y02",
-      "type": "exhibit"
-    },
-    {
-      "title": "안전한 다리 구조에는 어떤 원리가 있을까?",
-      "path": "/docs/halls/green/G16",
-      "type": "exhibit"
-    },
-    {
-      "title": "어두운 길을 비춰줘요",
-      "path": "/docs/halls/kids/Yy11",
-      "type": "exhibit"
-    },
-    {
-      "title": "옷 매무새를 다듬어요",
-      "path": "/docs/halls/kids/Yy10",
-      "type": "exhibit"
-    },
-    {
-      "title": "우리 주변의 미세먼지 농도는?",
-      "path": "/docs/halls/green/G19",
-      "type": "exhibit"
-    },
-    {
-      "title": "우리가 사는 땅은 어떻게 형성되었을까?",
-      "path": "/docs/halls/green/G11",
-      "type": "exhibit"
-    },
-    {
-      "title": "우리나라 원전이 지진에 안전한 이유는 무엇일까요?",
-      "path": "/docs/halls/green/G29",
-      "type": "exhibit"
-    },
-    {
-      "title": "우리에게 금지된 것들, 왜 안된다고 하는 걸까?",
-      "path": "/docs/halls/orange/O13",
-      "type": "exhibit"
-    },
-    {
-      "title": "유전은 어떻게 일어나나?",
-      "path": "/docs/halls/orange/O04",
-      "type": "exhibit"
-    },
-    {
-      "title": "유전자가 반반 섞이면 어떻게 될까? (1) 너반나반",
-      "path": "/docs/halls/orange/O10",
-      "type": "exhibit"
-    },
-    {
-      "title": "유전자가 반반 섞이면 어떻게 될까? (2) 거울룰렛",
-      "path": "/docs/halls/orange/O12",
-      "type": "exhibit"
-    },
-    {
-      "title": "이 구역 인터넷 윤리왕은 바로 나!",
-      "path": "/docs/halls/kids/Yy07",
-      "type": "exhibit"
-    },
-    {
-      "title": "인간이 없어진 지구",
-      "path": "/docs/halls/green/G32",
-      "type": "exhibit"
-    },
-    {
-      "title": "인류세의 대표화석은?",
-      "path": "/docs/halls/green/G31",
-      "type": "exhibit"
-    },
-    {
-      "title": "인체에 질병을 일으키는 미생물은? (1) 현미경으로 보는 작은 세계",
-      "path": "/docs/halls/orange/O19",
-      "type": "exhibit"
-    },
-    {
-      "title": "인체에 질병을 일으키는 미생물은? (2) 단계별 연구실",
-      "path": "/docs/halls/orange/O20",
-      "type": "exhibit"
-    },
-    {
-      "title": "인체의 내외부 기관을 살펴보면? (1) 외부기관",
-      "path": "/docs/halls/orange/O05",
-      "type": "exhibit"
-    },
-    {
-      "title": "인체의 내외부 기관을 살펴보면? (2) 내부기관",
-      "path": "/docs/halls/orange/O07",
-      "type": "exhibit"
-    },
-    {
-      "title": "자전거 바퀴가 굴러가요",
-      "path": "/docs/halls/kids/Yy14",
-      "type": "exhibit"
-    },
-    {
-      "title": "전기가 필요해요",
-      "path": "/docs/halls/kids/Yy05",
-      "type": "exhibit"
-    },
-    {
       "title": "전시물명",
-      "path": "/docs/halls/blue/sample",
+      "path": "/docs/halls/sample",
       "type": "exhibit"
     },
     {
@@ -353,163 +18,488 @@ window.tagIndex = {
       "type": "theory"
     },
     {
-      "title": "주기율표에서 원소를 찾아보면?",
-      "path": "/docs/halls/orange/O25",
-      "type": "exhibit"
-    },
-    {
-      "title": "지구 저편 친구들이 사는 곳은?",
-      "path": "/docs/halls/kids/Y07",
-      "type": "exhibit"
-    },
-    {
-      "title": "지금, 지구를 살펴보다",
-      "path": "/docs/halls/green/G35",
-      "type": "exhibit"
-    },
-    {
-      "title": "지속가능한 미래는?",
-      "path": "/docs/halls/green/G38",
-      "type": "exhibit"
-    },
-    {
-      "title": "지진에 잘 견디는 구조는 어떻게 만들까? (1)",
-      "path": "/docs/halls/green/G25",
-      "type": "exhibit"
-    },
-    {
-      "title": "지진에 잘 견디는 구조는 어떻게 만들까? (2)",
-      "path": "/docs/halls/green/G26",
-      "type": "exhibit"
-    },
-    {
-      "title": "지진은 어떻게 기록될까?",
-      "path": "/docs/halls/green/G22",
-      "type": "exhibit"
-    },
-    {
-      "title": "지진의 발생 원인 및 현황",
-      "path": "/docs/halls/green/G24",
-      "type": "exhibit"
-    },
-    {
-      "title": "지진의 이해",
-      "path": "/docs/halls/green/G21",
-      "type": "exhibit"
-    },
-    {
-      "title": "지진이 발생되면 어떻게 할까요?",
-      "path": "/docs/halls/green/G28",
-      "type": "exhibit"
-    },
-    {
-      "title": "집안에서 뛰어다녔어요",
-      "path": "/docs/halls/kids/Yy06",
-      "type": "exhibit"
-    },
-    {
-      "title": "창문을 열면 시원해요",
-      "path": "/docs/halls/kids/Yy08",
-      "type": "exhibit"
-    },
-    {
-      "title": "철의 다양한 변신",
-      "path": "/docs/halls/orange/O27",
-      "type": "exhibit"
-    },
-    {
-      "title": "콘센트 속 전기를 따라가요",
-      "path": "/docs/halls/kids/Yy03",
-      "type": "exhibit"
-    },
-    {
-      "title": "탄생부터 성장, 생애주기에 따른 신체 변화는? (1) 생애주기별 안내패널",
-      "path": "/docs/halls/orange/O08",
-      "type": "exhibit"
-    },
-    {
-      "title": "탄생부터 성장, 생애주기에 따른 신체 변화는? (2) 나의 과거와 미래",
-      "path": "/docs/halls/orange/O09",
-      "type": "exhibit"
-    },
-    {
-      "title": "탄소로 이루어진 세상은? (1) 탄소동소체 실물모형",
-      "path": "/docs/halls/orange/O22",
-      "type": "exhibit"
-    },
-    {
-      "title": "탄소로 이루어진 세상은? (2) 탄소인터렉티브",
-      "path": "/docs/halls/orange/O23",
-      "type": "exhibit"
-    },
-    {
-      "title": "탈수기가 빨래를 짜요",
-      "path": "/docs/halls/kids/Yy04",
-      "type": "exhibit"
-    },
-    {
-      "title": "태풍의 세기는 얼마나 강할까?",
-      "path": "/docs/halls/green/G14",
-      "type": "exhibit"
-    },
-    {
-      "title": "하루가 모여 일년이 돼요",
-      "path": "/docs/halls/kids/Y09",
-      "type": "exhibit"
-    },
-    {
-      "title": "학자들의 메시지",
-      "path": "/docs/halls/green/G36",
-      "type": "exhibit"
-    },
-    {
-      "title": "한강에는 어떤 동식물이 살까?",
-      "path": "/docs/halls/green/G01",
-      "type": "exhibit"
-    },
-    {
-      "title": "함께 도시를 만들어요",
-      "path": "/docs/halls/kids/Yy18",
-      "type": "exhibit"
-    },
-    {
-      "title": "해가 만드는 사계절",
-      "path": "/docs/halls/kids/Y11",
-      "type": "exhibit"
-    },
-    {
-      "title": "해가 지면 바람 방향이 바뀌어요",
-      "path": "/docs/halls/kids/Y05",
-      "type": "exhibit"
-    },
-    {
       "title": "해설 제목",
       "path": "/docs/guid/form2",
       "type": "guide"
     },
     {
-      "title": "행성마다 하루가 달라요",
-      "path": "/docs/halls/kids/Y06",
-      "type": "exhibit"
-    },
-    {
-      "title": "허공에 떠 있는 나무와 물고기의 원리는?",
+      "title": "G02 허공에 떠 있는 나무와 물고기의 원리는?",
       "path": "/docs/halls/green/G02",
       "type": "exhibit"
     },
     {
-      "title": "활동하는 시간이 달라요",
-      "path": "/docs/halls/kids/Y04",
+      "title": "G03 북한산에 사는 동식물",
+      "path": "/docs/halls/green/G03",
       "type": "exhibit"
     },
     {
-      "title": "희망을 위한 선택",
+      "title": "G04 개구리를 잡을 수 없는 이유는?",
+      "path": "/docs/halls/green/G04",
+      "type": "exhibit"
+    },
+    {
+      "title": "G05 도시화로 인한 생태계의 위기",
+      "path": "/docs/halls/green/G05",
+      "type": "exhibit"
+    },
+    {
+      "title": "G06 생태계의 보고 밤섬",
+      "path": "/docs/halls/green/G06",
+      "type": "exhibit"
+    },
+    {
+      "title": "G08 도시로 내려온 야생동물",
+      "path": "/docs/halls/green/G08",
+      "type": "exhibit"
+    },
+    {
+      "title": "G09 로드킬 현장 디오라마",
+      "path": "/docs/halls/green/G09",
+      "type": "exhibit"
+    },
+    {
+      "title": "G10 길 위에서 사라져 가는 동물들",
+      "path": "/docs/halls/green/G10",
+      "type": "exhibit"
+    },
+    {
+      "title": "G11 우리가 사는 땅은 어떻게 형성되었을까?",
+      "path": "/docs/halls/green/G11",
+      "type": "exhibit"
+    },
+    {
+      "title": "G12 동물을 해부하지 않고 골격을 관찰할 수 있을까?",
+      "path": "/docs/halls/green/G12",
+      "type": "exhibit"
+    },
+    {
+      "title": "G13 강물이 먹는 물로 정화되는 과정은?",
+      "path": "/docs/halls/green/G13",
+      "type": "exhibit"
+    },
+    {
+      "title": "G14 태풍의 세기는 얼마나 강할까?",
+      "path": "/docs/halls/green/G14",
+      "type": "exhibit"
+    },
+    {
+      "title": "G15 공기의 흐름을 어떻게 볼 수 있을까?",
+      "path": "/docs/halls/green/G15",
+      "type": "exhibit"
+    },
+    {
+      "title": "G16 안전한 다리 구조에는 어떤 원리가 있을까?",
+      "path": "/docs/halls/green/G16",
+      "type": "exhibit"
+    },
+    {
+      "title": "G17 건축에서 수학을 찾아보면?",
+      "path": "/docs/halls/green/G17",
+      "type": "exhibit"
+    },
+    {
+      "title": "G18 도시의 기온이 더 높은 이유는 무엇일까?",
+      "path": "/docs/halls/green/G18",
+      "type": "exhibit"
+    },
+    {
+      "title": "G19 우리 주변의 미세먼지 농도는?",
+      "path": "/docs/halls/green/G19",
+      "type": "exhibit"
+    },
+    {
+      "title": "G20 공기대포는 어떤 모양으로 날아갈까?",
+      "path": "/docs/halls/green/G20",
+      "type": "exhibit"
+    },
+    {
+      "title": "G21 지진의 이해",
+      "path": "/docs/halls/green/G21",
+      "type": "exhibit"
+    },
+    {
+      "title": "G22 지진은 어떻게 기록될까?",
+      "path": "/docs/halls/green/G22",
+      "type": "exhibit"
+    },
+    {
+      "title": "G23 실시간 지진 모니터링",
+      "path": "/docs/halls/green/G23",
+      "type": "exhibit"
+    },
+    {
+      "title": "G24 지진의 발생 원인 및 현황",
+      "path": "/docs/halls/green/G24",
+      "type": "exhibit"
+    },
+    {
+      "title": "G25 지진에 잘 견디는 구조는 어떻게 만들까? (1)",
+      "path": "/docs/halls/green/G25",
+      "type": "exhibit"
+    },
+    {
+      "title": "G26 지진에 잘 견디는 구조는 어떻게 만들까? (2)",
+      "path": "/docs/halls/green/G26",
+      "type": "exhibit"
+    },
+    {
+      "title": "G27 세계의 주요지진",
+      "path": "/docs/halls/green/G27",
+      "type": "exhibit"
+    },
+    {
+      "title": "G28 지진이 발생되면 어떻게 할까요?",
+      "path": "/docs/halls/green/G28",
+      "type": "exhibit"
+    },
+    {
+      "title": "G29 우리나라 원전이 지진에 안전한 이유는 무엇일까요?",
+      "path": "/docs/halls/green/G29",
+      "type": "exhibit"
+    },
+    {
+      "title": "G30 3030년의 지질학자",
+      "path": "/docs/halls/green/G30",
+      "type": "exhibit"
+    },
+    {
+      "title": "G31 인류세의 대표화석은?",
+      "path": "/docs/halls/green/G31",
+      "type": "exhibit"
+    },
+    {
+      "title": "G32 인간이 없어진 지구",
+      "path": "/docs/halls/green/G32",
+      "type": "exhibit"
+    },
+    {
+      "title": "G33 무슨 일이 일어났을까?",
+      "path": "/docs/halls/green/G33",
+      "type": "exhibit"
+    },
+    {
+      "title": "G34 6번째 대멸종의 이유",
+      "path": "/docs/halls/green/G34",
+      "type": "exhibit"
+    },
+    {
+      "title": "G35 지금, 지구를 살펴보다",
+      "path": "/docs/halls/green/G35",
+      "type": "exhibit"
+    },
+    {
+      "title": "G36 학자들의 메시지",
+      "path": "/docs/halls/green/G36",
+      "type": "exhibit"
+    },
+    {
+      "title": "G37 생태계의 닥친 위기",
+      "path": "/docs/halls/green/G37",
+      "type": "exhibit"
+    },
+    {
+      "title": "G38 지속가능한 미래는?",
+      "path": "/docs/halls/green/G38",
+      "type": "exhibit"
+    },
+    {
+      "title": "G39 희망을 위한 선택",
       "path": "/docs/halls/green/G39",
       "type": "exhibit"
     },
     {
-      "title": "DNA 정보로 내가 누구인지 알 수 있을까?",
+      "title": "O01 모두의 서울",
+      "path": "/docs/halls/orange/O01",
+      "type": "exhibit"
+    },
+    {
+      "title": "O02 실험실 거울의 비밀은?",
+      "path": "/docs/halls/orange/O02",
+      "type": "exhibit"
+    },
+    {
+      "title": "O03 DNA 정보로 내가 누구인지 알 수 있을까?",
       "path": "/docs/halls/orange/O03",
+      "type": "exhibit"
+    },
+    {
+      "title": "O04 유전은 어떻게 일어나나?",
+      "path": "/docs/halls/orange/O04",
+      "type": "exhibit"
+    },
+    {
+      "title": "O05 인체의 내외부 기관을 살펴보면? (1) 외부기관",
+      "path": "/docs/halls/orange/O05",
+      "type": "exhibit"
+    },
+    {
+      "title": "O06 내 심장이 두근거리는 이유는?",
+      "path": "/docs/halls/orange/O06",
+      "type": "exhibit"
+    },
+    {
+      "title": "O07 인체의 내외부 기관을 살펴보면? (2) 내부기관",
+      "path": "/docs/halls/orange/O07",
+      "type": "exhibit"
+    },
+    {
+      "title": "O08 탄생부터 성장, 생애주기에 따른 신체 변화는? (1) 생애주기별 안내패널",
+      "path": "/docs/halls/orange/O08",
+      "type": "exhibit"
+    },
+    {
+      "title": "O09 탄생부터 성장, 생애주기에 따른 신체 변화는? (2) 나의 과거와 미래",
+      "path": "/docs/halls/orange/O09",
+      "type": "exhibit"
+    },
+    {
+      "title": "O10 유전자가 반반 섞이면 어떻게 될까? (1) 너반나반",
+      "path": "/docs/halls/orange/O10",
+      "type": "exhibit"
+    },
+    {
+      "title": "O11 귀를 막아도 소리가 들릴까?",
+      "path": "/docs/halls/orange/O11",
+      "type": "exhibit"
+    },
+    {
+      "title": "O12 유전자가 반반 섞이면 어떻게 될까? (2) 거울룰렛",
+      "path": "/docs/halls/orange/O12",
+      "type": "exhibit"
+    },
+    {
+      "title": "O13 우리에게 금지된 것들, 왜 안된다고 하는 걸까?",
+      "path": "/docs/halls/orange/O13",
+      "type": "exhibit"
+    },
+    {
+      "title": "O14 눈이 침침한 이유는?",
+      "path": "/docs/halls/orange/O14",
+      "type": "exhibit"
+    },
+    {
+      "title": "O15 내 동공은 어떤 모습일까?",
+      "path": "/docs/halls/orange/O15",
+      "type": "exhibit"
+    },
+    {
+      "title": "O16 내 눈에 보이는 색은 무엇일까?",
+      "path": "/docs/halls/orange/O16",
+      "type": "exhibit"
+    },
+    {
+      "title": "O17 곤충과 쥐에 의한 질병의 감염 경로는?",
+      "path": "/docs/halls/orange/O17",
+      "type": "exhibit"
+    },
+    {
+      "title": "O18 생물을 확대해서 보면 어떤 모습일까?",
+      "path": "/docs/halls/orange/O18",
+      "type": "exhibit"
+    },
+    {
+      "title": "O19 인체에 질병을 일으키는 미생물은? (1) 현미경으로 보는 작은 세계",
+      "path": "/docs/halls/orange/O19",
+      "type": "exhibit"
+    },
+    {
+      "title": "O20 인체에 질병을 일으키는 미생물은? (2) 단계별 연구실",
+      "path": "/docs/halls/orange/O20",
+      "type": "exhibit"
+    },
+    {
+      "title": "O21 분자는 어떤 구조일까?",
+      "path": "/docs/halls/orange/O21",
+      "type": "exhibit"
+    },
+    {
+      "title": "O22 탄소로 이루어진 세상은? (1) 탄소동소체 실물모형",
+      "path": "/docs/halls/orange/O22",
+      "type": "exhibit"
+    },
+    {
+      "title": "O23 탄소로 이루어진 세상은? (2) 탄소인터렉티브",
+      "path": "/docs/halls/orange/O23",
+      "type": "exhibit"
+    },
+    {
+      "title": "O24 내가 들을 수 있는 주파수는?",
+      "path": "/docs/halls/orange/O24",
+      "type": "exhibit"
+    },
+    {
+      "title": "O25 주기율표에서 원소를 찾아보면?",
+      "path": "/docs/halls/orange/O25",
+      "type": "exhibit"
+    },
+    {
+      "title": "O26 기체의 고유한 색을 관찰하면?",
+      "path": "/docs/halls/orange/O26",
+      "type": "exhibit"
+    },
+    {
+      "title": "O27 철의 다양한 변신",
+      "path": "/docs/halls/orange/O27",
+      "type": "exhibit"
+    },
+    {
+      "title": "O28 눈동자만으로 게임을 할 수 있을까?",
+      "path": "/docs/halls/orange/O28",
+      "type": "exhibit"
+    },
+    {
+      "title": "O29 방출 스펙트럼 원소 주기율표",
+      "path": "/docs/halls/orange/O29",
+      "type": "exhibit"
+    },
+    {
+      "title": "O30 방출 스펙트럼을 들어보면",
+      "path": "/docs/halls/orange/O30",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y01 새벽이 되었어요",
+      "path": "/docs/halls/kids/Y01",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y02 아침 하늘이 흐려요",
+      "path": "/docs/halls/kids/Y02",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y03 빗방울이 톡톡톡",
+      "path": "/docs/halls/kids/Y03",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y04 활동하는 시간이 달라요",
+      "path": "/docs/halls/kids/Y04",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y05 해가 지면 바람 방향이 바뀌어요",
+      "path": "/docs/halls/kids/Y05",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y06 행성마다 하루가 달라요",
+      "path": "/docs/halls/kids/Y06",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y07 지구 저편 친구들이 사는 곳은?",
+      "path": "/docs/halls/kids/Y07",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y08 달의 모양이 달라요",
+      "path": "/docs/halls/kids/Y08",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y09 하루가 모여 일년이 돼요",
+      "path": "/docs/halls/kids/Y09",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y10 건강한 지구를 만들 수 있는 방법",
+      "path": "/docs/halls/kids/Y10",
+      "type": "exhibit"
+    },
+    {
+      "title": "Y11 해가 만드는 사계절",
+      "path": "/docs/halls/kids/Y11",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY01 노래하는 의자",
+      "path": "/docs/halls/kids/Yy01",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY02 딩동, 우리 집 앞이에요",
+      "path": "/docs/halls/kids/Yy02",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY03 콘센트 속 전기를 따라가요",
+      "path": "/docs/halls/kids/Yy03",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY04 탈수기가 빨래를 짜요",
+      "path": "/docs/halls/kids/Yy04",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY05 전기가 필요해요",
+      "path": "/docs/halls/kids/Yy05",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY06 집안에서 뛰어다녔어요",
+      "path": "/docs/halls/kids/Yy06",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY07 이 구역 인터넷 윤리왕은 바로 나!",
+      "path": "/docs/halls/kids/Yy07",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY08 창문을 열면 시원해요",
+      "path": "/docs/halls/kids/Yy08",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY09 내 방 물건을 정리해요",
+      "path": "/docs/halls/kids/Yy09",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY10 옷 매무새를 다듬어요",
+      "path": "/docs/halls/kids/Yy10",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY11 어두운 길을 비춰줘요",
+      "path": "/docs/halls/kids/Yy11",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY12 다양한 길을 만들어 보아요",
+      "path": "/docs/halls/kids/Yy12",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY13 몇 층에서 나는 소리죠?",
+      "path": "/docs/halls/kids/Yy13",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY14 자전거 바퀴가 굴러가요",
+      "path": "/docs/halls/kids/Yy14",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY15 소중한 동물친구들을 소개해요",
+      "path": "/docs/halls/kids/Yy15",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY16 발밑 땅 속 세상이 궁금해요",
+      "path": "/docs/halls/kids/Yy16",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY17 사물이 달라 보여요",
+      "path": "/docs/halls/kids/Yy17",
+      "type": "exhibit"
+    },
+    {
+      "title": "YY18 함께 도시를 만들어요",
+      "path": "/docs/halls/kids/Yy18",
       "type": "exhibit"
     }
   ],
@@ -2303,6 +2293,42 @@ window.tagIndex = {
       "title": "O27Guid",
       "path": "/docs/guid/Eachexhibit/O27Guid",
       "type": "guide"
+    }
+  ],
+  "사이아트": [
+    {
+      "title": "B01 세상은 어떻게 연결되어 있을까?",
+      "path": "/docs/halls/blue/B01",
+      "type": "exhibit"
+    }
+  ],
+  "SI기본단위": [
+    {
+      "title": "B02 과학의 알파벳, 기본 단위는?-(1) 길이(m)",
+      "path": "/docs/halls/blue/B02",
+      "type": "exhibit"
+    },
+    {
+      "title": "B03 과학의 알파벳, 기본 단위는?-(2)시간(s)",
+      "path": "/docs/halls/blue/B03",
+      "type": "exhibit"
+    },
+    {
+      "title": "B04 과학의 알파벳, 기본단위는? (3)질량(kg)",
+      "path": "/docs/halls/blue/B04",
+      "type": "exhibit"
+    }
+  ],
+  "생물분류": [
+    {
+      "title": "G01 한강에는 어떤 동식물이 살까?",
+      "path": "/docs/halls/green/G01",
+      "type": "exhibit"
+    },
+    {
+      "title": "G07 생물을 분류하는 방법은?",
+      "path": "/docs/halls/green/G07",
+      "type": "exhibit"
     }
   ]
 };

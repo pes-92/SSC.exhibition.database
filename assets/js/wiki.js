@@ -25,7 +25,12 @@ const roleSecrets = {
 const hallIndexMap = {
   blue: "B-hall",
   orange: "O-hall",
-  green: "G-hall"
+  green: "G-hall",
+  kids: "Y-hall",
+  yy: {
+    folder: "kids",
+    page: "Yy-hall"
+  }
 };
 
 async function sha256(text) {
@@ -505,9 +510,12 @@ function goHome() {
 }
 
 function goHall(hall) {
-  const page = hallIndexMap[hall];
-  if (!page) return;
-  location.hash = `#/docs/halls/${hall}/${page}`;
+  const target = hallIndexMap[hall];
+  if (!target) return;
+
+  const folder = typeof target === "string" ? hall : target.folder;
+  const page = typeof target === "string" ? target : target.page;
+  location.hash = `#/docs/halls/${folder}/${page}`;
 }
 
 function goBack() {
@@ -519,10 +527,12 @@ function goCurrentHall() {
   if (!match) return;
 
   const hall = match[1];
-  const page = hallIndexMap[hall];
-  if (!page) return;
+  const target = hallIndexMap[hall];
+  if (!target) return;
 
-  location.hash = `#/docs/halls/${hall}/${page}`;
+  const folder = typeof target === "string" ? hall : target.folder;
+  const page = typeof target === "string" ? target : target.page;
+  location.hash = `#/docs/halls/${folder}/${page}`;
 }
 
 async function loadExcerpts() {

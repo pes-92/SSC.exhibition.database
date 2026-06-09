@@ -19,17 +19,17 @@
 <div class="exhibit-map" aria-label="Y전시실 전시물 배치도">
   <img src="docs/image/exhibition/yellow/map.png" alt="Y전시실 전시물 배치도">
 
-  <a class="map-marker" style="left: 79.85%; top: 55.07%;" href="#/docs/halls/notice" aria-label="Y01 전시물 안내">1</a>
-  <a class="map-marker" style="left: 82.42%; top: 13.51%;" href="#/docs/halls/notice" aria-label="Y02 전시물 안내">2</a>
-  <a class="map-marker" style="left: 65.75%; top: 14.04%;" href="#/docs/halls/notice" aria-label="Y03 전시물 안내">3</a>
-  <a class="map-marker" style="left: 45.96%; top: 12.04%;" href="#/docs/halls/notice" aria-label="Y04 전시물 안내">4</a>
-  <a class="map-marker" style="left: 30.03%; top: 13.11%;" href="#/docs/halls/notice" aria-label="Y05 전시물 안내">5</a>
-  <a class="map-marker" style="left: 16.86%; top: 51.69%;" href="#/docs/halls/notice" aria-label="Y06 전시물 안내">6</a>
-  <a class="map-marker" style="left: 31.40%; top: 54.87%;" href="#/docs/halls/notice" aria-label="Y07 전시물 안내">7</a>
-  <a class="map-marker" style="left: 45.56%; top: 50.11%;" href="#/docs/halls/notice" aria-label="Y08 전시물 안내">8</a>
-  <a class="map-marker" style="left: 43.07%; top: 70.58%;" href="#/docs/halls/notice" aria-label="Y09 전시물 안내">9</a>
-  <a class="map-marker" style="left: 53.40%; top: 59.99%;" href="#/docs/halls/notice" aria-label="Y10 전시물 안내">10</a>
-  <a class="map-marker" style="left: 64.75%; top: 59.38%;" href="#/docs/halls/notice" aria-label="Y11 전시물 안내">11</a>
+  <a class="map-marker" style="left: 84.38%; top: 53.66%;" href="#/docs/halls/kids/Y01" aria-label="Y01 전시물 안내">1</a>
+  <a class="map-marker" style="left: 87.11%; top: 11.53%;" href="#/docs/halls/kids/Y02" aria-label="Y02 전시물 안내">2</a>
+  <a class="map-marker" style="left: 69.46%; top: 12.07%;" href="#/docs/halls/kids/Y03" aria-label="Y03 전시물 안내">3</a>
+  <a class="map-marker" style="left: 48.51%; top: 10.04%;" href="#/docs/halls/kids/Y04" aria-label="Y04 전시물 안내">4</a>
+  <a class="map-marker" style="left: 31.65%; top: 11.14%;" href="#/docs/halls/kids/Y05" aria-label="Y05 전시물 안내">5</a>
+  <a class="map-marker" style="left: 17.71%; top: 50.19%;" href="#/docs/halls/kids/Y06" aria-label="Y06 전시물 안내">6</a>
+  <a class="map-marker" style="left: 33.09%; top: 53.46%;" href="#/docs/halls/kids/Y07" aria-label="Y07 전시물 안내">7</a>
+  <a class="map-marker" style="left: 48.09%; top: 48.59%;" href="#/docs/halls/kids/Y08" aria-label="Y08 전시물 안내">8</a>
+  <a class="map-marker" style="left: 45.45%; top: 69.37%;" href="#/docs/halls/kids/Y09" aria-label="Y09 전시물 안내">9</a>
+  <a class="map-marker" style="left: 56.80%; top: 58.60%;" href="#/docs/halls/kids/Y10" aria-label="Y10 전시물 안내">10</a>
+  <a class="map-marker" style="left: 68.85%; top: 58.02%;" href="#/docs/halls/kids/Y11" aria-label="Y11 전시물 안내">11</a>
 </div>
 
 ### 2.2 전시물 리스트
@@ -49,17 +49,17 @@
 
 | 전시물 번호 | 전시물 명 | 분류 | 비고 |
 | ------ | ------- | --- | --- |
-| Y01 | [새벽이 되었어요](/docs/halls/notice.md) |  |  |
-| Y02 | [아침 하늘이 흐려요](/docs/halls/notice.md) |  |  |
-| Y03 | [빗방울이 톡톡톡](/docs/halls/notice.md) |  |  |
-| Y04 | [활동하는 시간이 달라요](/docs/halls/notice.md) |  |  |
-| Y05 | [해가 지면 바람 방향이 바뀌어요](/docs/halls/notice.md) |  |  |
-| Y06 | [행성마다 하루가 달라요](/docs/halls/notice.md) |  |  |
-| Y07 | [지구 저편 친구들이 사는 곳은?](/docs/halls/notice.md) |  |  |
-| Y08 | [달의 모양이 달라요](/docs/halls/notice.md) |  |  |
-| Y09 | [하루가 모여 일년이 돼요](/docs/halls/notice.md) |  |  |
-| Y10 | [건강한 지구를 만들 수 있는 방법](/docs/halls/notice.md) |  |  |
-| Y11 | [해가 만드는 사계절](/docs/halls/notice.md) |  |  |
+| Y01 | [새벽이 되었어요](/docs/halls/kids/Y01.md) |  |  |
+| Y02 | [아침 하늘이 흐려요](/docs/halls/kids/Y02.md) |  |  |
+| Y03 | [빗방울이 톡톡톡](/docs/halls/kids/Y03.md) |  |  |
+| Y04 | [활동하는 시간이 달라요](/docs/halls/kids/Y04.md) |  |  |
+| Y05 | [해가 지면 바람 방향이 바뀌어요](/docs/halls/kids/Y05.md) |  |  |
+| Y06 | [행성마다 하루가 달라요](/docs/halls/kids/Y06.md) |  |  |
+| Y07 | [지구 저편 친구들이 사는 곳은?](/docs/halls/kids/Y07.md) |  |  |
+| Y08 | [달의 모양이 달라요](/docs/halls/kids/Y08.md) |  |  |
+| Y09 | [하루가 모여 일년이 돼요](/docs/halls/kids/Y09.md) |  |  |
+| Y10 | [건강한 지구를 만들 수 있는 방법](/docs/halls/kids/Y10.md) |  |  |
+| Y11 | [해가 만드는 사계절](/docs/halls/kids/Y11.md) |  |  |
 
 <div class="admin-only">
 

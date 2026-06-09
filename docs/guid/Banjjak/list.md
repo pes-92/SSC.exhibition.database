@@ -187,6 +187,42 @@
 		 </a></td>
 	</tr>
 	<tr>
+	 <th>O전시실</th>
+	 <td>귀신이 산다</td>
+	 <td>모수진 실무관</td>
+	 <td>2021. 03.</td>
+	 <td><a href="#/docs/guid/Banjjak/qr_book_ghost_lives.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>기타(1층 로비)</th>
+	 <td>과학관에서 별을 담다</td>
+	 <td>엄정용 실무관</td>
+	 <td>2020. 11.</td>
+	 <td><a href="#/docs/guid/Banjjak/qr_book_stars_in_science_museum.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>Y전시실</th>
+	 <td>Yy전시실 해설 시나리오</td>
+	 <td>신유성 실무관</td>
+	 <td>2020.04.</td>
+	 <td><a href="#/docs/guid/Banjjak/yy_hall_guide.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>Y전시실</th>
+	 <td>Y전시실 해설 시나리오</td>
+	 <td>심수민 실무관</td>
+	 <td>2020. 04.</td>
+	 <td><a href="#/docs/guid/Banjjak/y_hall_guide.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
 	 <th>B전시실</th>
 	 <td>내 안의 우주_뇌</td>
 	 <td>김주희</td>
@@ -309,6 +345,51 @@
 	 <td>이정선</td>
 	 <td>2018. 10.</td>
 	 <td><a href="#/docs/guid/Banjjak/Subject_mars_lee.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>R전시실</th>
+	 <td>R전시실 해설 시나리오</td>
+	 <td>박윤실 실무관</td>
+	 <td>2018.03.</td>
+	 <td><a href="#/docs/guid/Banjjak/r_hall_guide.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>G전시실</th>
+	 <td>G전시실 해설 시나리오 ver.1</td>
+	 <td>엄정용 실무관</td>
+	 <td>2018.03.</td>
+	 <td><a href="#/docs/guid/Banjjak/g_hall_guide_ver1.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>B전시실</th>
+	 <td>B전시실 기본 해설 시나리오</td>
+	 <td>- 작성일 : 2018.03.</td>
+	 <td>2018.03.</td>
+	 <td><a href="#/docs/guid/Banjjak/b_hall_basic_guide.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>O전시실</th>
+	 <td>O전시실 해설 시나리오</td>
+	 <td>- 작성일 : 2018.03.</td>
+	 <td>2018.03.</td>
+	 <td><a href="#/docs/guid/Banjjak/o_hall_guide.md">
+		   🔗 해설 보러 가기
+		 </a></td>
+	</tr>
+	<tr>
+	 <th>G전시실</th>
+	 <td>G전시실 해설 시나리오 ver.2</td>
+	 <td>엄정용 실무관</td>
+	 <td>2018.02.</td>
+	 <td><a href="#/docs/guid/Banjjak/g_hall_guide_ver2.md">
 		   🔗 해설 보러 가기
 		 </a></td>
 	</tr>

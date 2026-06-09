@@ -1,0 +1,243 @@
+<div class="admin-only">
+---
+문서양식: 전시물
+전시물 타입: 관람형, 패널
+전시실: B전시실
+---
+#명화_속_과학 #공진효과 #파장
+</div>
+
+<hr>
+
+<div class="page-nav">
+  <button class="nav-btn" onclick="goHome()">🏠 홈</button>
+  <button class="nav-btn" onclick="goHall('blue')">🔵 Blue 전시실 개요</button>
+  <button class="nav-btn" onclick="goBack()">⬅ 이전 페이지</button>
+</div>
+
+<hr>
+
+# 전시물명
+
+## 1. 전시물 기본 내용
+### 1.1 전시물 이미지
+
+(사진없음)
+<!--![전시물 이미지](../../image/exhibition/blue/B44.JPG)-->
+
+<div class="callout note">
+  <div class="callout-title">전시 목적</div>
+  <div class="callout-body">
+    내용
+    <ul><li>내용<li></ul>
+    </ul>
+      <br><a style="color:red"> ※ 주의사항 있는 경우. </a>
+  </div>
+</div>
+
+
+<div class="callout note">
+  <div class="callout-title">전시 유형 : 관람형</div>
+  <div class="callout-body">
+    내용..한 전시물
+  </div>
+</div>
+
+
+<div class="ssc-only">
+
+### 1.2 학교 교육과정  
+<!--
+curriculum-table은 전시물과 연결된 학교 교육과정을 학년별로 비교하는 표이다.
+내용체계 칸에는 정적 웹에 포함된 내부 교육과정 문서 링크를 넣는다.
+챕터 및 단원명 칸에는 외부 교과서/교과 챕터 링크를 넣는다.
+전시물과 연계성 칸에는 전시물에서 어떤 개념과 연결되는지 적는다.
+비고 칸에는 학년별 수준 변화, 해설 시 유의점, 확인이 필요한 내용을 적는다.
+
+
+<table class="curriculum-table">
+  <caption><b>학교 교육과정</b></caption>
+  <thead>
+    <tr>
+      <th colspan="2">교육과정 내용체계</th>
+      <th colspan="2">해당 교과과정(교과서)</th>
+      <th rowspan="2">전시물과 연계성</th>
+      <th rowspan="2">비고</th>
+    </tr>
+    <tr>
+      <th>학년(학군)</th>
+      <th>내용체계</th>
+      <th>학년 및 학기</th>
+      <th>챕터 및 단원명</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td colspan="6">교과 챕터는 외부 사이트 링크를 통해 해당 단원을 확인한다.</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <th>초등1~2학년</th>
+      <td>
+      </td>
+      <td>1학년 1학기</td>
+      <td>
+        <a class="curriculum-link-button external" href="https://example.com" target="_blank" rel="noopener">
+          교과 챕터 링크예시
+        </a>
+      </td>
+      <td>연계성</td>
+      <td>비고</td>
+    </tr>
+    <tr>
+      <th>초등5~6학년</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>중학교</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>고등학교(공통)</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>고등학교(선택)</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+-->
+</div>
+
+### 1.3 체험
+##### 체험1) 체험제목
+1. 체험방법
+2. 체험방법
+
+### 1.4 패널내용
+
+<details class="callout note">
+  <summary class="callout-title">
+    패널 타이틀
+  </summary>
+
+  <div class="callout-body">
+    <img src="docs/image/exhibition/blue/pannel/B48_pannel.jpg">
+  </div>
+</details>
+
+
+<div class="ssc-only">
+
+## 2. 기본 과학 이론
+### 2.1 핵심 과학이론
+
+<!--
+data-theories에는 연결할 이론 문서의 제목을 입력한다.
+쉼표(,)로 여러 이론을 구분할 수 있으며, assets/js/theory-links.js에 등록된 제목과 일치하면 버튼형 링크로 표시된다.
+등록되지 않은 제목은 비활성 표시로 나타난다.
+
+
+<div data-theories="반사, 굴절"></div>
+-->
+
+### 2.2 연관 과학이론
+
+## 3. 연관 전시물
+
+<!--
+related-exhibit-link-list는 연관 전시물 문서로 이동하는 버튼 목록이다.
+a 태그의 href에는 연결할 전시물 문서 경로를 입력한다.
+버튼을 여러 개 넣으면 세로로 정렬된다.
+
+
+<div class="related-exhibit-link-list">
+  <a class="related-exhibit-link-button" href="#/docs/halls/blue/B01">B01 세상은 어떻게 연결되어 있을까?</a>
+</div>
+-->
+
+## 4. 기존 해설에서의 쓰임 예시
+<!--
+<div class="guide-loader"
+  data-guide-src="해설경로ex)docs/guid/rounding/healthier_and_tastier.md"
+  data-guide-id="전시물번호ex)G03"
+  data-guide-title="해당 해설의 제목">
+</div>
+-->
+## 5. 확장 자료
+
+### 심화 이론
+
+<!--
+resource-link-list는 확장 자료 링크를 세로로 정렬하는 목록이다.
+내부 문서는 href에 #/docs/... 형식의 정적 웹 문서 경로를 입력한다.
+버튼을 여러 개 넣으면 세로로 정렬된다.
+
+
+<div class="resource-link-list">
+  <a class="resource-link-button" href="#/docs/theory/zzz_incomplete">이론 양식 문서 보기</a>
+</div>
+-->
+
+### 최신 연구
+
+<!--
+resource-link-list는 확장 자료 링크를 세로로 정렬하는 목록이다.
+외부 자료는 href에 전체 URL을 입력하고 target="_blank" rel="noopener"를 함께 사용한다.
+버튼을 여러 개 넣으면 세로로 정렬된다.
+
+
+<div class="resource-link-list">
+  <a class="resource-link-button external" href="https://www.google.com" target="_blank" rel="noopener">외부 연구 자료 보기</a>
+</div>
+-->
+<hr>
+
+<!--
+doc-tags는 문서에 해시태그를 표시하는 영역이다.
+data-tags에 쉼표로 구분한 태그 이름을 입력한다.
+태그 이름에는 #을 직접 붙이지 않는다.
+
+
+<div class="doc-tags" data-tags="문서양식"></div>
+-->
+</div>
+
+<div class="admin-only">
+
+
+## 변경기록
+| 변경일        | 작성자 | 내용 및 사유 |
+| ---------- | --- | ------- |
+| 2026.01.22 | 박은선 | 최초 작성   |
+|            |     |         |
+
+</div>
+
+<hr>
+
+<div class="page-nav">
+  <button class="nav-btn" onclick="goHome()">🏠 홈</button>
+  <button class="nav-btn" onclick="goHall('blue')">🔵 Blue 전시실 개요</button>
+  <button class="nav-btn" onclick="goBack()">⬅ 이전 페이지</button>
+</div>
+
+<hr>
