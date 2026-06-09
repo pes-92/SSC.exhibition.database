@@ -84,10 +84,10 @@
 | G04 | [개구리를 잡을 수 없는 이유는?](/docs/halls/green/G04.md) | 체험형 |  |
 | G05 | [도시화로 인한 생태계의 위기](/docs/halls/green/G05.md) | 관람형 |  |
 | G06 | [생태계의 보고 밤섬](/docs/halls/green/G06.md) | 체험형 |  |
-| G07 | [생물을 분류하는 방법은?](/docs/halls/green/G07.md) | 체험형 |  |
+| G07 | [생물을 분류하는 방법은?](/docs/halls/green/G07.md) | 체험형/게임형 |  |
 | G08 | [도시로 내려온 야생동물](/docs/halls/green/G08.md) | 관람형 |  |
 | G09 | [로드킬 현장 디오라마](/docs/halls/green/G09.md) | 관람형 |  |
-| G10 | [길 위에서 사라져 가는 동물들](/docs/halls/green/G10.md) | 관람형 |  |
+| G10 | [길 위에서 사라져 가는 동물들](/docs/halls/green/G10.md) | 체험형 |  |
 | G11 | [우리가 사는 땅은 어떻게 형성되었을까?](/docs/halls/green/G11.md) | 체험형 |  |
 | G12 | [동물을 해부하지 않고 골격을 관찰할 수 있을까?](/docs/halls/green/G12.md) | 관람형 |  |
 | G13 | [강물이 먹는 물로 정화되는 과정은?](/docs/halls/green/G13.md) | 관람형 |  |

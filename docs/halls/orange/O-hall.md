@@ -73,7 +73,7 @@
 | O03 | [DNA 정보로 내가 누구인지 알 수 있을까?](/docs/halls/orange/O03.md) | 체험형 |  |
 | O04 | [유전은 어떻게 일어나나?](/docs/halls/orange/O04.md) | 체험형 |  |
 | O05 | [인체의 내외부 기관을 살펴보면? (1) 외부기관](/docs/halls/orange/O05.md) | 체험형/실험탐구 |  |
-| O06 | [내 심장이 두근거리는 이유는?](/docs/halls/orange/O06.md) | 관람형 |  |
+| O06 | [내 심장이 두근거리는 이유는?](/docs/halls/orange/O06.md) | 체험형 |  |
 | O07 | [인체의 내외부 기관을 살펴보면? (2) 내부기관](/docs/halls/orange/O07.md) | 체험형 |  |
 | O08 | [탄생부터 성장, 생애주기에 따른 신체 변화는? (1) 생애주기별 안내패널](/docs/halls/orange/O08.md) | 관람형 |  |
 | O09 | [탄생부터 성장, 생애주기에 따른 신체 변화는? (2) 나의 과거와 미래](/docs/halls/orange/O09.md) | 체험형 |  |
