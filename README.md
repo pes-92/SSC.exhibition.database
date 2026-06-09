@@ -36,7 +36,7 @@
 
   </ul>
  
- <h2> 위키 개발 진행정도(2026.07.01 업데이트 함)
+ <h2> 위키 개발 진행정도(2026.06.09 업데이트 함)
 
 <table class="curriculum-table">
   <caption><b> 전시물 내용</b></caption>
@@ -59,16 +59,16 @@
     <tr>
       <th>G전시실</th>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 완료 </td>
+      <td> (추가중) </td>
+      <td> (추가중) </td>
       <td> - </td>
       <td> - </td>
     </tr>
     <tr>
       <th> O전시실 </th>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 완료 </td>
+      <td> (추가중) </td>
+      <td> (추가중) </td>
       <td> - </td>
       <td> - </td>
     </tr>
@@ -83,16 +83,16 @@
     <tr>
       <th> Y전시실</th>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 완료 </td>
+      <td> (추가중) </td>
+      <td> (추가중) </td>
       <td> - </td>
       <td> - </td>
     </tr>
     <tr>
       <th> Y<sub>Y</sub>전시실</th>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 완료 </td>
+      <td> (추가중) </td>
+      <td> (추가중) </td>
       <td> - </td>
       <td> - </td>
     </tr>
