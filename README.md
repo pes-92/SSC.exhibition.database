@@ -83,16 +83,16 @@
     <tr>
       <th> Y전시실</th>
       <td> 완료 </td>
-      <td> (추가중) </td>
-      <td> (추가중) </td>
+      <td> 완료 </td>
+      <td> 완료 </td>
       <td> - </td>
       <td> - </td>
     </tr>
     <tr>
       <th> Y<sub>Y</sub>전시실</th>
       <td> 완료 </td>
-      <td> (추가중) </td>
-      <td> (추가중) </td>
+      <td> 완료 </td>
+      <td> 완료 </td>
       <td> - </td>
       <td> - </td>
     </tr>

@@ -68,36 +68,36 @@
 
 | 전시물 번호 | 전시물 명 | 분류 | 비고 |
 | ------ | ------- | --- | --- |
-| O01 | [모두의 서울](/docs/halls/orange/O01.md) |  |  |
-| O02 | [실험실 거울의 비밀은?](/docs/halls/orange/O02.md) |  |  |
-| O03 | [DNA 정보로 내가 누구인지 알 수 있을까?](/docs/halls/orange/O03.md) |  |  |
-| O04 | [유전은 어떻게 일어나나?](/docs/halls/orange/O04.md) |  |  |
-| O05 | [인체의 내외부 기관을 살펴보면? (1) 외부기관](/docs/halls/orange/O05.md) |  |  |
-| O06 | [내 심장이 두근거리는 이유는?](/docs/halls/orange/O06.md) |  |  |
-| O07 | [인체의 내외부 기관을 살펴보면? (2) 내부기관](/docs/halls/orange/O07.md) |  |  |
-| O08 | [탄생부터 성장, 생애주기에 따른 신체 변화는? (1) 생애주기별 안내패널](/docs/halls/orange/O08.md) |  |  |
-| O09 | [탄생부터 성장, 생애주기에 따른 신체 변화는? (2) 나의 과거와 미래](/docs/halls/orange/O09.md) |  |  |
-| O10 | [유전자가 반반 섞이면 어떻게 될까? (1) 너반나반](/docs/halls/orange/O10.md) |  |  |
-| O11 | [귀를 막아도 소리가 들릴까?](/docs/halls/orange/O11.md) |  |  |
-| O12 | [유전자가 반반 섞이면 어떻게 될까? (2) 거울룰렛](/docs/halls/orange/O12.md) |  |  |
-| O13 | [우리에게 금지된 것들, 왜 안된다고 하는 걸까?](/docs/halls/orange/O13.md) |  |  |
-| O14 | [눈이 침침한 이유는?](/docs/halls/orange/O14.md) |  |  |
-| O15 | [내 동공은 어떤 모습일까?](/docs/halls/orange/O15.md) |  |  |
-| O16 | [내 눈에 보이는 색은 무엇일까?](/docs/halls/orange/O16.md) |  |  |
-| O17 | [곤충과 쥐에 의한 질병의 감염 경로는?](/docs/halls/orange/O17.md) |  |  |
-| O18 | [생물을 확대해서 보면 어떤 모습일까?](/docs/halls/orange/O18.md) |  |  |
-| O19 | [인체에 질병을 일으키는 미생물은? (1) 현미경으로 보는 작은 세계](/docs/halls/orange/O19.md) |  |  |
-| O20 | [인체에 질병을 일으키는 미생물은? (2) 단계별 연구실](/docs/halls/orange/O20.md) |  |  |
-| O21 | [분자는 어떤 구조일까?](/docs/halls/orange/O21.md) |  |  |
-| O22 | [탄소로 이루어진 세상은? (1) 탄소동소체 실물모형](/docs/halls/orange/O22.md) |  |  |
-| O23 | [탄소로 이루어진 세상은? (2) 탄소인터렉티브](/docs/halls/orange/O23.md) |  |  |
-| O24 | [내가 들을 수 있는 주파수는?](/docs/halls/orange/O24.md) |  |  |
-| O25 | [주기율표에서 원소를 찾아보면?](/docs/halls/orange/O25.md) |  |  |
-| O26 | [기체의 고유한 색을 관찰하면?](/docs/halls/orange/O26.md) |  |  |
-| O27 | [철의 다양한 변신](/docs/halls/orange/O27.md) |  |  |
-| O28 | [눈동자만으로 게임을 할 수 있을까?](/docs/halls/orange/O28.md) |  |  |
-| O29 | [방출 스펙트럼 원소 주기율표](/docs/halls/orange/O29.md) |  |  |
-| O30 | [방출 스펙트럼을 들어보면](/docs/halls/orange/O30.md) |  |  |
+| O01 | [모두의 서울](/docs/halls/orange/O01.md) | 관람형 |  |
+| O02 | [실험실 거울의 비밀은?](/docs/halls/orange/O02.md) | 체험형 |  |
+| O03 | [DNA 정보로 내가 누구인지 알 수 있을까?](/docs/halls/orange/O03.md) | 체험형 |  |
+| O04 | [유전은 어떻게 일어나나?](/docs/halls/orange/O04.md) | 체험형 |  |
+| O05 | [인체의 내외부 기관을 살펴보면? (1) 외부기관](/docs/halls/orange/O05.md) | 체험형/실험탐구 |  |
+| O06 | [내 심장이 두근거리는 이유는?](/docs/halls/orange/O06.md) | 관람형 |  |
+| O07 | [인체의 내외부 기관을 살펴보면? (2) 내부기관](/docs/halls/orange/O07.md) | 체험형 |  |
+| O08 | [탄생부터 성장, 생애주기에 따른 신체 변화는? (1) 생애주기별 안내패널](/docs/halls/orange/O08.md) | 관람형 |  |
+| O09 | [탄생부터 성장, 생애주기에 따른 신체 변화는? (2) 나의 과거와 미래](/docs/halls/orange/O09.md) | 체험형 |  |
+| O10 | [유전자가 반반 섞이면 어떻게 될까? (1) 너반나반](/docs/halls/orange/O10.md) | 체험형 |  |
+| O11 | [귀를 막아도 소리가 들릴까?](/docs/halls/orange/O11.md) | 체험형 |  |
+| O12 | [유전자가 반반 섞이면 어떻게 될까? (2) 거울룰렛](/docs/halls/orange/O12.md) | 관람형 |  |
+| O13 | [우리에게 금지된 것들, 왜 안된다고 하는 걸까?](/docs/halls/orange/O13.md) | 체험형/게임형 |  |
+| O14 | [눈이 침침한 이유는?](/docs/halls/orange/O14.md) | 체험형 |  |
+| O15 | [내 동공은 어떤 모습일까?](/docs/halls/orange/O15.md) | 체험형 |  |
+| O16 | [내 눈에 보이는 색은 무엇일까?](/docs/halls/orange/O16.md) | 체험형 |  |
+| O17 | [곤충과 쥐에 의한 질병의 감염 경로는?](/docs/halls/orange/O17.md) | 관람형 |  |
+| O18 | [생물을 확대해서 보면 어떤 모습일까?](/docs/halls/orange/O18.md) | 체험형 |  |
+| O19 | [인체에 질병을 일으키는 미생물은? (1) 현미경으로 보는 작은 세계](/docs/halls/orange/O19.md) | 체험형 |  |
+| O20 | [인체에 질병을 일으키는 미생물은? (2) 단계별 연구실](/docs/halls/orange/O20.md) | 관람형 |  |
+| O21 | [분자는 어떤 구조일까?](/docs/halls/orange/O21.md) | 체험형 |  |
+| O22 | [탄소로 이루어진 세상은? (1) 탄소동소체 실물모형](/docs/halls/orange/O22.md) | 관람형 |  |
+| O23 | [탄소로 이루어진 세상은? (2) 탄소인터렉티브](/docs/halls/orange/O23.md) | 체험형 |  |
+| O24 | [내가 들을 수 있는 주파수는?](/docs/halls/orange/O24.md) | 체험형 |  |
+| O25 | [주기율표에서 원소를 찾아보면?](/docs/halls/orange/O25.md) | 체험형 |  |
+| O26 | [기체의 고유한 색을 관찰하면?](/docs/halls/orange/O26.md) | 체험형 |  |
+| O27 | [철의 다양한 변신](/docs/halls/orange/O27.md) | 체험형 |  |
+| O28 | [눈동자만으로 게임을 할 수 있을까?](/docs/halls/orange/O28.md) | 체험형/게임형 |  |
+| O29 | [방출 스펙트럼 원소 주기율표](/docs/halls/orange/O29.md) | 관람형 |  |
+| O30 | [방출 스펙트럼을 들어보면](/docs/halls/orange/O30.md) | 체험형 |  |
 
 <div class="admin-only">
 

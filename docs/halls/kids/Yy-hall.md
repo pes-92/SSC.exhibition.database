@@ -56,24 +56,24 @@
 
 | 전시물 번호 | 전시물 명 | 분류 | 비고 |
 | ------ | ------- | --- | --- |
-| YY01 | [노래하는 의자](/docs/halls/kids/Yy01.md) |  |  |
-| YY02 | [딩동, 우리 집 앞이에요](/docs/halls/kids/Yy02.md) |  |  |
-| YY03 | [콘센트 속 전기를 따라가요](/docs/halls/kids/Yy03.md) |  |  |
-| YY04 | [탈수기가 빨래를 짜요](/docs/halls/kids/Yy04.md) |  |  |
-| YY05 | [전기가 필요해요](/docs/halls/kids/Yy05.md) |  |  |
-| YY06 | [집안에서 뛰어다녔어요](/docs/halls/kids/Yy06.md) |  |  |
-| YY07 | [이 구역 인터넷 윤리왕은 바로 나!](/docs/halls/kids/Yy07.md) |  |  |
-| YY08 | [창문을 열면 시원해요](/docs/halls/kids/Yy08.md) |  |  |
-| YY09 | [내 방 물건을 정리해요](/docs/halls/kids/Yy09.md) |  |  |
-| YY10 | [옷 매무새를 다듬어요](/docs/halls/kids/Yy10.md) |  |  |
-| YY11 | [어두운 길을 비춰줘요](/docs/halls/kids/Yy11.md) |  |  |
-| YY12 | [다양한 길을 만들어 보아요](/docs/halls/kids/Yy12.md) |  |  |
-| YY13 | [몇 층에서 나는 소리죠?](/docs/halls/kids/Yy13.md) |  |  |
-| YY14 | [자전거 바퀴가 굴러가요](/docs/halls/kids/Yy14.md) |  |  |
-| YY15 | [소중한 동물친구들을 소개해요](/docs/halls/kids/Yy15.md) |  |  |
-| YY16 | [발밑 땅 속 세상이 궁금해요](/docs/halls/kids/Yy16.md) |  |  |
-| YY17 | [사물이 달라 보여요](/docs/halls/kids/Yy17.md) |  |  |
-| YY18 | [함께 도시를 만들어요](/docs/halls/kids/Yy18.md) |  |  |
+| YY01 | [노래하는 의자](/docs/halls/kids/Yy01.md) | 체험형/실험탐구 |  |
+| YY02 | [딩동, 우리 집 앞이에요](/docs/halls/kids/Yy02.md) | 체험형/게임형 |  |
+| YY03 | [콘센트 속 전기를 따라가요](/docs/halls/kids/Yy03.md) | 체험형 |  |
+| YY04 | [탈수기가 빨래를 짜요](/docs/halls/kids/Yy04.md) | 체험형 |  |
+| YY05 | [전기가 필요해요](/docs/halls/kids/Yy05.md) | 체험형/실험탐구 |  |
+| YY06 | [집안에서 뛰어다녔어요](/docs/halls/kids/Yy06.md) | 체험형 |  |
+| YY07 | [이 구역 인터넷 윤리왕은 바로 나!](/docs/halls/kids/Yy07.md) | 체험형/게임형 |  |
+| YY08 | [창문을 열면 시원해요](/docs/halls/kids/Yy08.md) | 체험형 |  |
+| YY09 | [내 방 물건을 정리해요](/docs/halls/kids/Yy09.md) | 체험형 |  |
+| YY10 | [옷 매무새를 다듬어요](/docs/halls/kids/Yy10.md) | 체험형 |  |
+| YY11 | [어두운 길을 비춰줘요](/docs/halls/kids/Yy11.md) | 체험형 |  |
+| YY12 | [다양한 길을 만들어 보아요](/docs/halls/kids/Yy12.md) | 체험형 |  |
+| YY13 | [몇 층에서 나는 소리죠?](/docs/halls/kids/Yy13.md) | 체험형/게임형 |  |
+| YY14 | [자전거 바퀴가 굴러가요](/docs/halls/kids/Yy14.md) | 관람형 |  |
+| YY15 | [소중한 동물친구들을 소개해요](/docs/halls/kids/Yy15.md) | 체험형 |  |
+| YY16 | [발밑 땅 속 세상이 궁금해요](/docs/halls/kids/Yy16.md) | 관람형 |  |
+| YY17 | [사물이 달라 보여요](/docs/halls/kids/Yy17.md) | 관람형 |  |
+| YY18 | [함께 도시를 만들어요](/docs/halls/kids/Yy18.md) | 체험형 |  |
 
 <div class="admin-only">
 

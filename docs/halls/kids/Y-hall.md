@@ -49,17 +49,17 @@
 
 | 전시물 번호 | 전시물 명 | 분류 | 비고 |
 | ------ | ------- | --- | --- |
-| Y01 | [새벽이 되었어요](/docs/halls/kids/Y01.md) |  |  |
-| Y02 | [아침 하늘이 흐려요](/docs/halls/kids/Y02.md) |  |  |
-| Y03 | [빗방울이 톡톡톡](/docs/halls/kids/Y03.md) |  |  |
-| Y04 | [활동하는 시간이 달라요](/docs/halls/kids/Y04.md) |  |  |
-| Y05 | [해가 지면 바람 방향이 바뀌어요](/docs/halls/kids/Y05.md) |  |  |
-| Y06 | [행성마다 하루가 달라요](/docs/halls/kids/Y06.md) |  |  |
-| Y07 | [지구 저편 친구들이 사는 곳은?](/docs/halls/kids/Y07.md) |  |  |
-| Y08 | [달의 모양이 달라요](/docs/halls/kids/Y08.md) |  |  |
-| Y09 | [하루가 모여 일년이 돼요](/docs/halls/kids/Y09.md) |  |  |
-| Y10 | [건강한 지구를 만들 수 있는 방법](/docs/halls/kids/Y10.md) |  |  |
-| Y11 | [해가 만드는 사계절](/docs/halls/kids/Y11.md) |  |  |
+| Y01 | [새벽이 되었어요](/docs/halls/kids/Y01.md) | 관람형 |  |
+| Y02 | [아침 하늘이 흐려요](/docs/halls/kids/Y02.md) | 체험형 |  |
+| Y03 | [빗방울이 톡톡톡](/docs/halls/kids/Y03.md) | 체험형 |  |
+| Y04 | [활동하는 시간이 달라요](/docs/halls/kids/Y04.md) | 체험형 |  |
+| Y05 | [해가 지면 바람 방향이 바뀌어요](/docs/halls/kids/Y05.md) | 체험형 |  |
+| Y06 | [행성마다 하루가 달라요](/docs/halls/kids/Y06.md) | 관람형 |  |
+| Y07 | [지구 저편 친구들이 사는 곳은?](/docs/halls/kids/Y07.md) | 체험형 |  |
+| Y08 | [달의 모양이 달라요](/docs/halls/kids/Y08.md) | 체험형 |  |
+| Y09 | [하루가 모여 일년이 돼요](/docs/halls/kids/Y09.md) | 체험형 |  |
+| Y10 | [건강한 지구를 만들 수 있는 방법](/docs/halls/kids/Y10.md) | 체험형 |  |
+| Y11 | [해가 만드는 사계절](/docs/halls/kids/Y11.md) | 체험형 |  |
 
 <div class="admin-only">
 

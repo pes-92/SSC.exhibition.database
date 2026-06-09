@@ -78,45 +78,45 @@
 
 | 전시물 번호 | 전시물 명 | 분류 | 비고 |
 | ------ | ------- | --- | --- |
-| G01 | [한강에는 어떤 동식물이 살까?](/docs/halls/green/G01.md) |  |  |
-| G02 | [허공에 떠 있는 나무와 물고기의 원리는?](/docs/halls/green/G02.md) |  |  |
-| G03 | [북한산에 사는 동식물](/docs/halls/green/G03.md) |  |  |
-| G04 | [개구리를 잡을 수 없는 이유는?](/docs/halls/green/G04.md) |  |  |
-| G05 | [도시화로 인한 생태계의 위기](/docs/halls/green/G05.md) |  |  |
-| G06 | [생태계의 보고 밤섬](/docs/halls/green/G06.md) |  |  |
-| G07 | [생물을 분류하는 방법은?](/docs/halls/green/G07.md) |  |  |
-| G08 | [도시로 내려온 야생동물](/docs/halls/green/G08.md) |  |  |
-| G09 | [로드킬 현장 디오라마](/docs/halls/green/G09.md) |  |  |
-| G10 | [길 위에서 사라져 가는 동물들](/docs/halls/green/G10.md) |  |  |
-| G11 | [우리가 사는 땅은 어떻게 형성되었을까?](/docs/halls/green/G11.md) |  |  |
-| G12 | [동물을 해부하지 않고 골격을 관찰할 수 있을까?](/docs/halls/green/G12.md) |  |  |
-| G13 | [강물이 먹는 물로 정화되는 과정은?](/docs/halls/green/G13.md) |  |  |
-| G14 | [태풍의 세기는 얼마나 강할까?](/docs/halls/green/G14.md) |  |  |
-| G15 | [공기의 흐름을 어떻게 볼 수 있을까?](/docs/halls/green/G15.md) |  |  |
-| G16 | [안전한 다리 구조에는 어떤 원리가 있을까?](/docs/halls/green/G16.md) |  |  |
-| G17 | [건축에서 수학을 찾아보면?](/docs/halls/green/G17.md) |  |  |
-| G18 | [도시의 기온이 더 높은 이유는 무엇일까?](/docs/halls/green/G18.md) |  |  |
-| G19 | [우리 주변의 미세먼지 농도는?](/docs/halls/green/G19.md) |  |  |
-| G20 | [공기대포는 어떤 모양으로 날아갈까?](/docs/halls/green/G20.md) |  |  |
-| G21 | [지진의 이해](/docs/halls/green/G21.md) |  |  |
-| G22 | [지진은 어떻게 기록될까?](/docs/halls/green/G22.md) |  |  |
-| G23 | [실시간 지진 모니터링](/docs/halls/green/G23.md) |  |  |
-| G24 | [지진의 발생 원인 및 현황](/docs/halls/green/G24.md) |  |  |
-| G25 | [지진에 잘 견디는 구조는 어떻게 만들까? (1)](/docs/halls/green/G25.md) |  |  |
-| G26 | [지진에 잘 견디는 구조는 어떻게 만들까? (2)](/docs/halls/green/G26.md) |  |  |
-| G27 | [세계의 주요지진](/docs/halls/green/G27.md) |  |  |
-| G28 | [지진이 발생되면 어떻게 할까요?](/docs/halls/green/G28.md) |  |  |
-| G29 | [우리나라 원전이 지진에 안전한 이유는 무엇일까요?](/docs/halls/green/G29.md) |  |  |
-| G30 | [3030년의 지질학자](/docs/halls/green/G30.md) |  |  |
-| G31 | [인류세의 대표화석은?](/docs/halls/green/G31.md) |  |  |
-| G32 | [인간이 없어진 지구](/docs/halls/green/G32.md) |  |  |
-| G33 | [무슨 일이 일어났을까?](/docs/halls/green/G33.md) |  |  |
-| G34 | [6번째 대멸종의 이유](/docs/halls/green/G34.md) |  |  |
-| G35 | [지금, 지구를 살펴보다](/docs/halls/green/G35.md) |  |  |
-| G36 | [학자들의 메시지](/docs/halls/green/G36.md) |  |  |
-| G37 | [생태계의 닥친 위기](/docs/halls/green/G37.md) |  |  |
-| G38 | [지속가능한 미래는?](/docs/halls/green/G38.md) |  |  |
-| G39 | [희망을 위한 선택](/docs/halls/green/G39.md) |  |  |
+| G01 | [한강에는 어떤 동식물이 살까?](/docs/halls/green/G01.md) | 관람형 |  |
+| G02 | [허공에 떠 있는 나무와 물고기의 원리는?](/docs/halls/green/G02.md) | 관람형 |  |
+| G03 | [북한산에 사는 동식물](/docs/halls/green/G03.md) | 관람형 |  |
+| G04 | [개구리를 잡을 수 없는 이유는?](/docs/halls/green/G04.md) | 체험형 |  |
+| G05 | [도시화로 인한 생태계의 위기](/docs/halls/green/G05.md) | 관람형 |  |
+| G06 | [생태계의 보고 밤섬](/docs/halls/green/G06.md) | 체험형 |  |
+| G07 | [생물을 분류하는 방법은?](/docs/halls/green/G07.md) | 체험형 |  |
+| G08 | [도시로 내려온 야생동물](/docs/halls/green/G08.md) | 관람형 |  |
+| G09 | [로드킬 현장 디오라마](/docs/halls/green/G09.md) | 관람형 |  |
+| G10 | [길 위에서 사라져 가는 동물들](/docs/halls/green/G10.md) | 관람형 |  |
+| G11 | [우리가 사는 땅은 어떻게 형성되었을까?](/docs/halls/green/G11.md) | 체험형 |  |
+| G12 | [동물을 해부하지 않고 골격을 관찰할 수 있을까?](/docs/halls/green/G12.md) | 관람형 |  |
+| G13 | [강물이 먹는 물로 정화되는 과정은?](/docs/halls/green/G13.md) | 관람형 |  |
+| G14 | [태풍의 세기는 얼마나 강할까?](/docs/halls/green/G14.md) | 체험형 |  |
+| G15 | [공기의 흐름을 어떻게 볼 수 있을까?](/docs/halls/green/G15.md) | 체험형/실험탐구 |  |
+| G16 | [안전한 다리 구조에는 어떤 원리가 있을까?](/docs/halls/green/G16.md) | 체험형/실험탐구 |  |
+| G17 | [건축에서 수학을 찾아보면?](/docs/halls/green/G17.md) | 체험형 |  |
+| G18 | [도시의 기온이 더 높은 이유는 무엇일까?](/docs/halls/green/G18.md) | 체험형 |  |
+| G19 | [우리 주변의 미세먼지 농도는?](/docs/halls/green/G19.md) | 관람형 |  |
+| G20 | [공기대포는 어떤 모양으로 날아갈까?](/docs/halls/green/G20.md) | 관람형 |  |
+| G21 | [지진의 이해](/docs/halls/green/G21.md) | 체험형 |  |
+| G22 | [지진은 어떻게 기록될까?](/docs/halls/green/G22.md) | 관람형 |  |
+| G23 | [실시간 지진 모니터링](/docs/halls/green/G23.md) | 관람형 |  |
+| G24 | [지진의 발생 원인 및 현황](/docs/halls/green/G24.md) | 체험형 |  |
+| G25 | [지진에 잘 견디는 구조는 어떻게 만들까? (1)](/docs/halls/green/G25.md) | 체험형 |  |
+| G26 | [지진에 잘 견디는 구조는 어떻게 만들까? (2)](/docs/halls/green/G26.md) | 체험형 |  |
+| G27 | [세계의 주요지진](/docs/halls/green/G27.md) | 관람형 |  |
+| G28 | [지진이 발생되면 어떻게 할까요?](/docs/halls/green/G28.md) | 관람형 |  |
+| G29 | [우리나라 원전이 지진에 안전한 이유는 무엇일까요?](/docs/halls/green/G29.md) | 관람형 |  |
+| G30 | [3030년의 지질학자](/docs/halls/green/G30.md) | 관람형 |  |
+| G31 | [인류세의 대표화석은?](/docs/halls/green/G31.md) | 체험형 |  |
+| G32 | [인간이 없어진 지구](/docs/halls/green/G32.md) | 관람형 |  |
+| G33 | [무슨 일이 일어났을까?](/docs/halls/green/G33.md) | 관람형 |  |
+| G34 | [6번째 대멸종의 이유](/docs/halls/green/G34.md) | 체험형 |  |
+| G35 | [지금, 지구를 살펴보다](/docs/halls/green/G35.md) | 관람형 |  |
+| G36 | [학자들의 메시지](/docs/halls/green/G36.md) | 관람형 |  |
+| G37 | [생태계의 닥친 위기](/docs/halls/green/G37.md) | 체험형 |  |
+| G38 | [지속가능한 미래는?](/docs/halls/green/G38.md) | 관람형 |  |
+| G39 | [희망을 위한 선택](/docs/halls/green/G39.md) | 체험형 |  |
 
 <div class="admin-only">
 
