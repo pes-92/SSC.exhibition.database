@@ -22,6 +22,9 @@ window.$docsify = {
           if (window.renderTheoryLinks) {
             window.renderTheoryLinks();
           }
+          if (window.renderTheoryLibrary) {
+            window.renderTheoryLibrary();
+          }
           if (window.processTags) {
             window.processTags();
           }

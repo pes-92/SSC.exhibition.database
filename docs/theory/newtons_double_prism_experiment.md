@@ -48,3 +48,4 @@
 
 [^8]: 이미지 출처 : https://commons.wikimedia.org/wiki/File:NewtonDualPrismExperiment.jpg
 
+<div class="theory-meta" data-category="미분류"></div>

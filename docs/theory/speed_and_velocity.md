@@ -16,3 +16,5 @@ $$\text{속력}=\frac{\text{이동한 거리}}{\text{걸린 시간}}$$
 $$\text{속력}=\frac{\text{변위}}{\text{걸린 시간}}$$
 
 [^1]: EBSi 유튜브 > EBS[과학탐구]물리1-속력과 속도의 차이는 무엇인가요? (https://www.youtube.com/watch?v=dc9ifGNfe4I&t=142s)
+
+<div class="theory-meta" data-category="미분류"></div>

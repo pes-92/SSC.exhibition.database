@@ -40,13 +40,42 @@ keywords:
 - 해수는 바람, 밀도 차 등 다양한 요인들에 의해 운동하고 순환한다.
 - 기온의 연직 분포에 따라 대기 안정도가 변화하며, 대기에 작용하는 여러 가지 힘에 의해 지균풍, 경도풍, 지상풍 등이 발생한다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 지구 탄생과 생동하는 지구 | 지구의 탄생 · 지권의 형성 · 규산염 광물의 성질 · 지진파 · 지구 내부구조 · 판구조와 플룸 |
-| | 해수의 운동 | 에크만 수송 · 지형류 · 천해파와 심해파 · 풍랑과 너울 · 쓰나미 · 폭풍 해일 · 조석과 기조력 |
-| | 강수 과정과 대기의 운동 | 태양복사 · 지구복사 · 열수지 · 온실효과 · 대기 안정도 · 강수과정 · 지균풍 · 경도풍 · 지상풍 · 편서풍 파동 · 제트류 |
-| **과정⋅기능** | | 지구와 우주 관련 현상에서 문제를 인식하고 가설을 설정하기 · 변인을 조작적으로 정의하여 탐구 설계하기 · 다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기 · 수학적 사고와 모형을 활용하여 지구와 우주 및 지구계 관련 현상 설명하기 · 증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기 · 과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">지구 탄생과 생동하는 지구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구의 탄생</li><li>지권의 형성</li><li>규산염 광물의 성질</li><li>지진파</li><li>지구 내부구조</li><li>판구조와 플룸</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">해수의 운동</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>에크만 수송</li><li>지형류</li><li>천해파와 심해파</li><li>풍랑과 너울</li><li>쓰나미</li><li>폭풍 해일</li><li>조석과 기조력</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">강수 과정과 대기의 운동</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>태양복사</li><li>지구복사</li><li>열수지</li><li>온실효과</li><li>대기 안정도</li><li>강수과정</li><li>지균풍</li><li>경도풍</li><li>지상풍</li><li>편서풍 파동</li><li>제트류</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구와 우주 관련 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기</li><li>수학적 사고와 모형을 활용하여 지구와 우주 및 지구계 관련 현상 설명하기</li><li>증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기</li><li>과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 나. 성취기준
 

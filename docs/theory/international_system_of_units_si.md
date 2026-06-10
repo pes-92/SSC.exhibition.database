@@ -60,4 +60,6 @@ KRISS에서는 극저온 절대 복사계(absolute cryogenic radiometer)를 광�
 
 [^6]: 1875년 5월 20일이 미터협약이었으며, 세계 측정의 날은 이를 기념하여 생겨났다.
 
-[^7]: 공기가 없는 고순도 물을 유리 용기에 담은 것	
+[^7]: 공기가 없는 고순도 물을 유리 용기에 담은 것
+
+<div class="theory-meta" data-category="미분류"></div>

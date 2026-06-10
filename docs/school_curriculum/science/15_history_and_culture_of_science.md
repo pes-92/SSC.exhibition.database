@@ -37,13 +37,42 @@ keywords:
 - 과학기술은 미래 사회를 변화시키는 원동력이며, 미래의 변화를 예측하고 대응하는 데 중요한 역할을 한다.
 - 미래 과학기술과 관련된 사회 문제 해결을 위해서는 과학자의 윤리 의식과 시민의 참여가 필요하다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 과학과 문명의 탄생과 통합 | 과학의 문명과 태동 · 그리스 문명과 과학 · 중세 과학과 종교 · 르네상스와 과학혁명 · 과학과 예술의 통합 · 과학자의 신념과 세계관 |
-| | 변화하는 과학과 세계 | 현대 과학과 사회문화 · 현대 과학과 예술 · 감염병과 백신 · 교통수단 속의 과학 · 산업혁명 이후 과학기술의 명암 |
-| | 과학과 인류의 미래 | 과학기술 기반 문화 콘텐츠 · 미디어 속 과학의 언어 · 과학기술과 음악 · 인간과 사물의 대화 · 증강 현실과 가상 현실의 세계 · 과학기술과 시민 참여 |
-| **과정⋅기능** | | 과학과 사회문화 사이의 상호작용과 관련된 문제 인식하기 · 문제를 해결하기 위해 변인이 포함된 탐구 설계하기 · 다양한 도구를 활용해 자료를 수집⋅기술⋅변환하기 · 융합적 사고를 바탕으로 자료를 분석⋅평가⋅추론하기 · 결론 도출 및 결론의 사회적 가치 판단하기 · 과학기술을 이용한 사회 문제 해결 방안 마련하기 · 과학기술의 발달에 따른 미래 사회 변화 예측하기 · 타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기 · 다양한 매체를 활용하여 표현하고 협력적 소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학의 사회적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 과학 문제 해결의 학문 간 융합적 접근 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">과학과 문명의 탄생과 통합</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 문명과 태동</li><li>그리스 문명과 과학</li><li>중세 과학과 종교</li><li>르네상스와 과학혁명</li><li>과학과 예술의 통합</li><li>과학자의 신념과 세계관</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">변화하는 과학과 세계</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>현대 과학과 사회문화</li><li>현대 과학과 예술</li><li>감염병과 백신</li><li>교통수단 속의 과학</li><li>산업혁명 이후 과학기술의 명암</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">과학과 인류의 미래</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학기술 기반 문화 콘텐츠</li><li>미디어 속 과학의 언어</li><li>과학기술과 음악</li><li>인간과 사물의 대화</li><li>증강 현실과 가상 현실의 세계</li><li>과학기술과 시민 참여</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학과 사회문화 사이의 상호작용과 관련된 문제 인식하기</li><li>문제를 해결하기 위해 변인이 포함된 탐구 설계하기</li><li>다양한 도구를 활용해 자료를 수집⋅기술⋅변환하기</li><li>융합적 사고를 바탕으로 자료를 분석⋅평가⋅추론하기</li><li>결론 도출 및 결론의 사회적 가치 판단하기</li><li>과학기술을 이용한 사회 문제 해결 방안 마련하기</li><li>과학기술의 발달에 따른 미래 사회 변화 예측하기</li><li>타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기</li><li>다양한 매체를 활용하여 표현하고 협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학의 사회적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>과학 문제 해결의 학문 간 융합적 접근</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 나. 성취기준
 

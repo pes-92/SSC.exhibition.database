@@ -41,13 +41,42 @@ keywords:
 - 염색체에 유전자가 존재하고, 생식세포 형성과정을 통해 유전적 다양성이 자손에게 전달된다.
 - 생물은 환경에 적응하여 진화하며, 분류 체계에 따라 생물들의 유연관계는 계통수로 표현된다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 생명 시스템의 구성 | 생명과학의 이해 · 생명의 구성 단계 · 물질대사와 에너지 · 사람 기관계의 통합적 작용 · 대사성 질환 · 생태계의 구조와 기능 · 개체군의 특성 · 군집의 특성 |
-| | 항상성과 몸의 조절 | 뉴런의 구조와 기능 · 신경 자극의 전도와 시냅스 전달 · 신경계의 구조와 기능 · 내분비계의 특성 · 항상성 유지 원리 · 선천적⋅후천적 면역 · 항원⋅항체 반응 · 백신의 작용 원리 |
-| | 생명의 연속성과 다양성 | 염색체의 구조 · DNA와 유전자 · 생식 세포의 형성과 의의 · 진화의 원리 · 생물 분류 체계 · 동물과 식물의 다양성과 계통수 |
-| **과정⋅기능** | | 생물 특징과 생명 활동 관계 추론하기 · 생명 현상에서 문제 발견 및 가설 설정하기 · 생명과학 탐구 설계, 수행 및 조사하기 · 생명과학적 근거를 기반으로 자료 해석, 분석 및 결론 도출하기 · 모형 생성하여 생명 현상 설명하기 · 다양한 매체를 활용하여 협력적 소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">생명 시스템의 구성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생명과학의 이해</li><li>생명의 구성 단계</li><li>물질대사와 에너지</li><li>사람 기관계의 통합적 작용</li><li>대사성 질환</li><li>생태계의 구조와 기능</li><li>개체군의 특성</li><li>군집의 특성</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">항상성과 몸의 조절</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>뉴런의 구조와 기능</li><li>신경 자극의 전도와 시냅스 전달</li><li>신경계의 구조와 기능</li><li>내분비계의 특성</li><li>항상성 유지 원리</li><li>선천적⋅후천적 면역</li><li>항원⋅항체 반응</li><li>백신의 작용 원리</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">생명의 연속성과 다양성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>염색체의 구조</li><li>DNA와 유전자</li><li>생식 세포의 형성과 의의</li><li>진화의 원리</li><li>생물 분류 체계</li><li>동물과 식물의 다양성과 계통수</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생물 특징과 생명 활동 관계 추론하기</li><li>생명 현상에서 문제 발견 및 가설 설정하기</li><li>생명과학 탐구 설계, 수행 및 조사하기</li><li>생명과학적 근거를 기반으로 자료 해석, 분석 및 결론 도출하기</li><li>모형 생성하여 생명 현상 설명하기</li><li>다양한 매체를 활용하여 협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

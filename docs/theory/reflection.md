@@ -9,3 +9,5 @@
 <img src="docs/image/theory/reflection_01_71f7d935.png" alt="반사의 법칙(저작권 서울시립과학관 일러스트로 제작)">
 
 [^1]: Eugene Hecht(2001). 광학 4판, 자유아카데미
+
+<div class="theory-meta" data-category="미분류"></div>

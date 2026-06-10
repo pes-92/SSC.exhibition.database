@@ -9,3 +9,5 @@
 ## 출처 및 주석
 
 [^1]: 두산백과>doopedia>순수과학>의학>뇌과학 (2026.01.30)(https://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000793517)
+
+<div class="theory-meta" data-category="미분류"></div>

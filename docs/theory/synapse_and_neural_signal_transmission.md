@@ -38,3 +38,5 @@
 
 [^7]: Alberto E. Pereda, Electrical synapses and their functional interactions with chemical synapses, nature review neuroscience 15, 2014,  pp250–263 (https://www.nature.com/articles/nrn3708). 
 	이미지에 ppt로 한글 주석을 더했음.
+
+<div class="theory-meta" data-category="미분류"></div>

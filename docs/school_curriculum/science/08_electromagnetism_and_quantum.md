@@ -41,13 +41,42 @@ keywords:
 - 미시 입자는 입자-파동 이중성 및 중첩을 토대로 확률적인 방식으로 기묘하게 거동하며, 이를 활용한 양자 기술은 미래 사회를 획기적으로 바꿀 것으로 기대된다.
 - 원자 같은 미시 입자는 불확정성 원리를 따르면서 터널 효과 같이 거시적으로는 불가능한 방식으로 거동하며, 이에 대한 인식은 세계관의 변화로 이어진다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 전자기적 상호작용 | 전기력선과 등전위면 · 유전분극 · 로런츠 힘 · 유도기전력 · 반도체 소자 |
-| | 빛과 정보 통신 | 렌즈와 수차 · 간섭과 회절 · 편광 · 광전효과 · 레이저 |
-| | 양자와 미시세계 | 입자-파동 이중성 · 확률 파동 · 중첩 · 터널 효과 · 불확정성 원리 · 핵융합 |
-| **과정⋅기능** | | 물리 현상에서 문제를 인식하고 가설을 설정하기 · 변인을 조작적으로 정의하여 탐구 설계하기 · 다양한 도구와 수학적 사고를 활용하여 정보를 수집⋅기술하기 · 증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 기술 상황에 적용⋅설명하기 · 모형을 생성하고 활용하기 · 다양한 매체를 활용하여 표현하고 의사소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">전자기적 상호작용</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>전기력선과 등전위면</li><li>유전분극</li><li>로런츠 힘</li><li>유도기전력</li><li>반도체 소자</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">빛과 정보 통신</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>렌즈와 수차</li><li>간섭과 회절</li><li>편광</li><li>광전효과</li><li>레이저</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">양자와 미시세계</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>입자-파동 이중성</li><li>확률 파동</li><li>중첩</li><li>터널 효과</li><li>불확정성 원리</li><li>핵융합</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물리 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구와 수학적 사고를 활용하여 정보를 수집⋅기술하기</li><li>증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 기술 상황에 적용⋅설명하기</li><li>모형을 생성하고 활용하기</li><li>다양한 매체를 활용하여 표현하고 의사소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

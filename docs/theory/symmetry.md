@@ -46,3 +46,5 @@
 [^7]: 네이버 지식백과>수학백과>면대칭도형 (https://terms.naver.com/entry.naver?docId=3405066&cid=47324&categoryId=47324)
 
 [^8]: 네이버 지식백과>생화학백과>대칭 (https://terms.naver.com/entry.naver?docId=5733324&cid=60266&categoryId=60266)
+
+<div class="theory-meta" data-category="미분류"></div>

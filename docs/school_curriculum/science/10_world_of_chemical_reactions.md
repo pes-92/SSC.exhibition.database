@@ -41,13 +41,42 @@ keywords:
 - 물질의 산화⋅환원 반응의 경향성은 정량적으로 측정 가능하며, 이는 산화⋅환원 반응의 조절 및 화학 전지 개발의 기본 원리가 된다.
 - 탄소 화합물의 성질은 작용기를 기준으로 분류되고 이해될 수 있으며, 탄소 화합물의 변화는 고분자 재료 및 신약 개발 등 최신 과학⋅기술⋅사회 발달에 중요한 축이 된다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 산 염기 평형 | 산과 염기의 정의와 성질 · 이온화 상수와 산 염기의 세기 · 약산과 약염기 수용액의 pH · 중화 적정 곡선 · 염의 가수 분해 · 완충 작용 |
-| | 산화⋅환원 반응 | 산화⋅환원 반응과 산화수 · 산화⋅환원 반응식 · 표준 환원 전위 · 화학 전지 · 전기 분해 · 화학 전지의 유용성 |
-| | 탄소 화합물과 반응 | 작용기와 반응 · 고분자 물질 · 신물질 개발 |
-| **과정⋅기능** | | 물질 현상에서 문제 발견 및 가설 설정하기 · 변인을 조작적으로 정의하고, 탐구 설계하기 · 디지털 탐구 도구와 수학적 사고를 활용하여 정보를 수집⋅변환⋅해석하기 · 증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기 · 결론을 도출하고 물질 현상을 설명⋅예측하기 · 모형을 만들어 물질 현상을 해석하기 · 도출된 결론을 바탕으로 해결 방안에 대한 합리적 의사 결정하기 · 매체를 활용하여 의사소통⋅협업하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">산 염기 평형</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>산과 염기의 정의와 성질</li><li>이온화 상수와 산 염기의 세기</li><li>약산과 약염기 수용액의 pH</li><li>중화 적정 곡선</li><li>염의 가수 분해</li><li>완충 작용</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">산화⋅환원 반응</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>산화⋅환원 반응과 산화수</li><li>산화⋅환원 반응식</li><li>표준 환원 전위</li><li>화학 전지</li><li>전기 분해</li><li>화학 전지의 유용성</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">탄소 화합물과 반응</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>작용기와 반응</li><li>고분자 물질</li><li>신물질 개발</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물질 현상에서 문제 발견 및 가설 설정하기</li><li>변인을 조작적으로 정의하고, 탐구 설계하기</li><li>디지털 탐구 도구와 수학적 사고를 활용하여 정보를 수집⋅변환⋅해석하기</li><li>증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 물질 현상을 설명⋅예측하기</li><li>모형을 만들어 물질 현상을 해석하기</li><li>도출된 결론을 바탕으로 해결 방안에 대한 합리적 의사 결정하기</li><li>매체를 활용하여 의사소통⋅협업하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

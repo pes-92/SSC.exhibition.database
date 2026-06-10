@@ -112,3 +112,5 @@
 [^11]: 그림 출처 : 위키백과 Lobes of the brain NL (https://commons.wikimedia.org/wiki/File:Lobes_of_the_brain_NL.svg)
 
 [^12]: 그림출처 : 위키백과 Human brain frontal(coronal) section (https://commons.wikimedia.org/wiki/File:Human_brain_frontal_(coronal)_section.JPG)
+
+<div class="theory-meta" data-category="미분류"></div>

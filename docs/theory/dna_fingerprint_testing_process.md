@@ -8,3 +8,5 @@ DNA 지문검사 단계 1. 1 단계: PCR (DNA 소량이 증폭되어 다량으�
 
 - 원문 자료: 2020 O전시실_가이드북_20201230_교사용 최종.pptx 부록
 - 이 문서는 PPTX 원문에서 추출한 텍스트를 우선 정리한 초안입니다.
+
+<div class="theory-meta" data-category="미분류"></div>

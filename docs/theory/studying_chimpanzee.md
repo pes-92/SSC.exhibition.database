@@ -11,3 +11,5 @@
 [^1]: 한국생명공학연구원(2015), easy science series 19-인류의 가족,인간의 동반자 영장류-, (주)동아사이언스
 
 [^2]: 브런치>생명다양성재단>긴팔원숭이 과학자들의 이야기#3-일본에서의 침팬지 연구 (2019.04.02) (https://brunch.co.kr/@diversityinlife/97)
+
+<div class="theory-meta" data-category="미분류"></div>

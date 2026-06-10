@@ -41,13 +41,42 @@ keywords:
 - 지구계는 기권, 수권, 지권, 생물권 등 여러 하위 권역들로 구성되며, 지구계 구성 권역들이 물질과 에너지를 교환하는 과정에서 다양한 자연 현상들이 발생한다.
 - 생명체는 생명 시스템의 기본 단위인 세포로 구성되어 있으며, 세포에서 일어나는 다양한 반응을 통해 생명 현상이 유지된다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 과학의 기초 | 기본량과 단위 · 측정과 어림 · 정보와 신호 |
-| | 물질과 규칙성 | 원소 형성 · 별의 진화 · 원소의 주기성 · 이온 결합 · 공유 결합 · 지각과 생명체 구성 물질의 규칙성 · 물질의 전기적 성질 |
-| | 시스템과 상호작용 | 지구시스템의 구성과 상호작용 · 판구조론과 지각 변동 · 중력장 내의 운동 · 충격량과 운동량 · 생명 시스템의 기본 단위 · 물질대사 · 유전자와 단백질 |
-| **과정⋅기능** | | 자연 현상에서 문제를 인식하고 가설을 설정하기 · 변인을 조작적으로 정의하여 탐구 설계하기 · 다양한 도구를 수학적 사고를 활용하여 정보를 조사⋅수집⋅해석하기 · 수학적 사고와 모형을 활용하여 통합 및 융합 과학 관련 현상 설명하기 · 증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기 · 과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">과학의 기초</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>기본량과 단위</li><li>측정과 어림</li><li>정보와 신호</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">물질과 규칙성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>원소 형성</li><li>별의 진화</li><li>원소의 주기성</li><li>이온 결합</li><li>공유 결합</li><li>지각과 생명체 구성 물질의 규칙성</li><li>물질의 전기적 성질</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">시스템과 상호작용</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구시스템의 구성과 상호작용</li><li>판구조론과 지각 변동</li><li>중력장 내의 운동</li><li>충격량과 운동량</li><li>생명 시스템의 기본 단위</li><li>물질대사</li><li>유전자와 단백질</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구를 수학적 사고를 활용하여 정보를 조사⋅수집⋅해석하기</li><li>수학적 사고와 모형을 활용하여 통합 및 융합 과학 관련 현상 설명하기</li><li>증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기</li><li>과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 
@@ -141,13 +170,42 @@ keywords:
 - 에너지는 여러 형태로 존재하면서 끊임없이 형태를 전환하는데, 이를 활용하여 전기 에너지를 얻을 수 있으며, 에너지의 지속가능하고 효율적인 활용이 중요하다.
 - 인공지능과 로봇이 미래 사회에서 인간의 삶과 문명에 막대한 영향을 준다는 것과 과학기술 발전의 양면성을 인식하고, 건전한 가치 판단에 따라 책임 있게 과학기술을 사회에 적용하고 활용한다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 변화와 다양성 | 지질시대의 생물과 화석 · 지질시대 환경 변화와 대멸종 · 자연선택 · 생물다양성 · 산화와 환원 · 산성과 염기성 · 중화 반응 · 물질 변화에서 에너지 출입 |
-| | 환경과 에너지 | 생태계 구성 요소 · 생태계 평형 · 대기와 해양의 상호작용 · 온실기체와 지구온난화 · 핵융합 · 발전 · 에너지 전환과 효율 |
-| | 과학과 미래 사회 | 감염병과 병원체 · 인공지능과 과학 탐구 · 로봇 · 과학기술과 윤리 |
-| **과정⋅기능** | | 자연 현상에서 문제를 인식하고 가설을 설정하기 · 변인을 조작적으로 정의하여 탐구 설계하기 · 다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기 · 수학적 사고와 모형을 활용하여 통합 및 융합 과학 관련 현상 설명하기 · 증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기 · 과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">변화와 다양성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지질시대의 생물과 화석</li><li>지질시대 환경 변화와 대멸종</li><li>자연선택</li><li>생물다양성</li><li>산화와 환원</li><li>산성과 염기성</li><li>중화 반응</li><li>물질 변화에서 에너지 출입</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">환경과 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생태계 구성 요소</li><li>생태계 평형</li><li>대기와 해양의 상호작용</li><li>온실기체와 지구온난화</li><li>핵융합</li><li>발전</li><li>에너지 전환과 효율</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">과학과 미래 사회</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>감염병과 병원체</li><li>인공지능과 과학 탐구</li><li>로봇</li><li>과학기술과 윤리</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기</li><li>수학적 사고와 모형을 활용하여 통합 및 융합 과학 관련 현상 설명하기</li><li>증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기</li><li>과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

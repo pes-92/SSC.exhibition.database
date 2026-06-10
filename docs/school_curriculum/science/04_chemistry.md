@@ -39,14 +39,46 @@ keywords:
 - 가역 반응이 평형에 도달하게 되는 것은 생명 현상을 이해하는 핵심 원리이며 산업에서 중요하게 쓰인다.
 - 몰 농도 개념을 응용한 pH는 여러 분야에서 사용되며, 중화 반응의 양적 관계에 대한 이해는 지속가능한 삶에 활용된다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 화학의 언어 | 화학의 유용성 · 몰 · 화학 반응의 양적 관계 |
-| | 물질의 구조와 성질 | 전기 음성도 · 공유 결합의 극성 · 루이스 전자점식 · 전자쌍 반발 이론 · 분자의 구조 |
-| | 화학 평형 | 가역 반응과 동적 평형 · 평형 상수 · 평형의 이동 |
-| | 역동적인 화학 반응 | 몰 농도 · 물의 자동 이온화와 pH · 중화 반응의 양적 관계 |
-| **과정⋅기능** | | 물질 현상에서 문제 발견 및 가설 설정하기 · 변인을 조작적으로 정의하고, 탐구 설계하기 · 디지털 탐구 도구와 수학적 사고를 활용하여 정보를 수집⋅변환⋅해석하기 · 증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기 · 결론을 도출하고 물질 현상을 설명⋅예측하기 · 모형을 만들어 물질 현상을 해석하기 · 도출된 결론을 바탕으로 해결 방안에 대한 합리적 의사 결정하기 · 매체를 활용하여 의사소통⋅협업하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="4"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">화학의 언어</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>화학의 유용성</li><li>몰</li><li>화학 반응의 양적 관계</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">물질의 구조와 성질</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>전기 음성도</li><li>공유 결합의 극성</li><li>루이스 전자점식</li><li>전자쌍 반발 이론</li><li>분자의 구조</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">화학 평형</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>가역 반응과 동적 평형</li><li>평형 상수</li><li>평형의 이동</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">역동적인 화학 반응</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>몰 농도</li><li>물의 자동 이온화와 pH</li><li>중화 반응의 양적 관계</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물질 현상에서 문제 발견 및 가설 설정하기</li><li>변인을 조작적으로 정의하고, 탐구 설계하기</li><li>디지털 탐구 도구와 수학적 사고를 활용하여 정보를 수집⋅변환⋅해석하기</li><li>증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 물질 현상을 설명⋅예측하기</li><li>모형을 만들어 물질 현상을 해석하기</li><li>도출된 결론을 바탕으로 해결 방안에 대한 합리적 의사 결정하기</li><li>매체를 활용하여 의사소통⋅협업하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

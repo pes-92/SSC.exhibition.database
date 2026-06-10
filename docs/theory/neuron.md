@@ -22,3 +22,5 @@
 [^2]: 미래앤 생명과학 교과서 pp87-88(https://22txbook.m-teacher.co.kr/book/view.mrn?id=100)
 
 [^3]: 미래앤 생명과학 교과서 93p (https://22txbook.m-teacher.co.kr/book/view.mrn?id=100)
+
+<div class="theory-meta" data-category="미분류"></div>

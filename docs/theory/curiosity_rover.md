@@ -8,3 +8,5 @@ NASA 의 화성 과학 실험실 (MSL) 계획의 일부인 큐리오시티 (Curi
 
 - 원문 자료: B전시실_이론파트.pptx 부록
 - 이 문서는 PPTX 원문에서 추출한 텍스트를 우선 정리한 초안입니다.
+
+<div class="theory-meta" data-category="미분류"></div>

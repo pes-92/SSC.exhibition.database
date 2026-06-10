@@ -38,13 +38,42 @@ keywords:
 - 디지털 탐구 도구와 기술, 데이터에 기반한 과학적 탐구 능력은 미래 사회에 요구되는 중요한 과학적 소양이다.
 - 미래 사회의 변화에 대응하기 위해 융합적 사고능력 함양이 필요하며, 미래 사회의 문제해결을 위해서 시민의 참여가 요구된다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 융합과학 탐구의 이해 | 융합과학의 역할과 유용성 · 다양한 탐구 과정의 특성 · 데이터의 이해와 활용 · 디지털 탐구 도구의 이해와 활용 |
-| | 융합과학 탐구의 과정 | 융합과학 탐구의 요소와 절차 · 융합적 탐구 문제 발견 · 가설과 과학적 모형 · 디지털 탐구 도구와 데이터 수집 · 데이터의 시각화와 평가 · 결론 도출 및 과학적 의사소통 |
-| | 융합과학 탐구의 전망 | 미래 사회와 융합과학기술 · 융합과학기술과 사회적 난제 해결 · 융합과학 탐구와 윤리 · 사회 문제와 시민참여 |
-| **과정⋅기능** | | 자연과 일상생활에서 문제 인식하기 · 문제를 해결하기 위해 변인이 포함된 탐구 설계하기 · 컴퓨터, 인공지능 등 다양한 도구를 활용해 데이터를 수집⋅기술⋅변환하기 · 융합적 사고, 수학적 사고를 바탕으로 데이터를 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 일상생활에 적용⋅설명하기 · 과학적 모형을 생성하고 활용하기 · 과학기술을 이용한 사회 문제 해결 방안 마련하기 · 과학기술 발달에 따른 미래 사회 변화 예측하기 · 타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기 · 다양한 매체를 활용하여 표현하고 협력적 소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학의 사회적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 과학 문제 해결의 학문 간 융합적 접근 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">융합과학 탐구의 이해</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>융합과학의 역할과 유용성</li><li>다양한 탐구 과정의 특성</li><li>데이터의 이해와 활용</li><li>디지털 탐구 도구의 이해와 활용</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">융합과학 탐구의 과정</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>융합과학 탐구의 요소와 절차</li><li>융합적 탐구 문제 발견</li><li>가설과 과학적 모형</li><li>디지털 탐구 도구와 데이터 수집</li><li>데이터의 시각화와 평가</li><li>결론 도출 및 과학적 의사소통</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">융합과학 탐구의 전망</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>미래 사회와 융합과학기술</li><li>융합과학기술과 사회적 난제 해결</li><li>융합과학 탐구와 윤리</li><li>사회 문제와 시민참여</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 문제 인식하기</li><li>문제를 해결하기 위해 변인이 포함된 탐구 설계하기</li><li>컴퓨터, 인공지능 등 다양한 도구를 활용해 데이터를 수집⋅기술⋅변환하기</li><li>융합적 사고, 수학적 사고를 바탕으로 데이터를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 일상생활에 적용⋅설명하기</li><li>과학적 모형을 생성하고 활용하기</li><li>과학기술을 이용한 사회 문제 해결 방안 마련하기</li><li>과학기술 발달에 따른 미래 사회 변화 예측하기</li><li>타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기</li><li>다양한 매체를 활용하여 표현하고 협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학의 사회적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>과학 문제 해결의 학문 간 융합적 접근</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

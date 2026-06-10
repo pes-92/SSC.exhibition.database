@@ -5,7 +5,7 @@
 keywords:
 ---
 *공통교육과정은 중학교까지의 과정입니다.*
-# 공통 교육과정>수학과
+# 공통 교육과정 > 수학
 
 ## 교육과정 설계의 개요
 총론 교육과정에서는 교육 환경 변화에 대처하고 국가⋅사회적 요구를 반영하여 미래 사회가 요구하는 ‘포용성과 창의성을 갖춘 주도적인 사람’이라는 인간상을 제시하였다. 또한 학생의 삶과 성장을 지원하며 ‘자기 관리, 지식정보처리, 창의적 사고, 심미적 감성, 협력적 소통, 공동체’ 역량을 중점적으로 기르고, 수리 소양, 디지털 소양, 언어 소양의 기초 소양 함양도 강조하였다. 이에 수학과 교육과정은 총론의 핵심역량과 연계하여 ‘문제해결, 추론, 의사소통, 연결, 정보처리’ 역량을 수학 교과 역량으로 설정하고, 핵심 아이디어와 지식⋅이해, 과정⋅기능, 가치⋅태도의 세 범주로 내용 체계를 구성하여 수학 교과 역량 함양을 지원하도록 설계하였다. 아울러 기초 소양의 함양과 생태전환 교육, 민주 시민 교육, 학생 맞춤형 교육을 도모하는 교수⋅학습 및 평가 방법을 제시하였다. 또한 학생 주도성 개념을 바탕으로 학생의 삶과 성장을 지원하고 온라인 교육 환경에서 교수⋅학습 및 평가를 할 수 있도록 하였다.
@@ -46,15 +46,177 @@ keywords:
 ## 2. 내용 체계 및 성취 기준
 ### 가. 내용 체계
 #### (1) 수와 연산
-![[공통교육과정_수학과_수와 연산.png]]
 
-#### (2)변화와 관계
-![[공통교육과정_수학과_변화와 관계.png]]
+**핵심 아이디어**
+
+- 사물의 양은 자연수, 분수, 소수 등으로 표현되며, 수는 자연수에서 정수, 유리수, 실수로 확장된다.
+- 사칙계산은 자연수에 대해 정의되며 정수, 유리수, 실수의 사칙계산으로 확장되고 이때 연산의 성질이 일관되게 성립한다.
+- 수와 사칙계산은 수학 학습의 기본이 되며, 실생활 문제를 포함한 다양한 문제를 해결하는 데 유용하게 활용된다.
+
+<table class="curriculum-content-table">
+  <thead>
+    <tr>
+      <th class="curriculum-axis-header">범주</th>
+      <th class="curriculum-elements-header">초등학교 1~2학년</th>
+      <th class="curriculum-elements-header">초등학교 3~4학년</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="curriculum-category-cell"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>네 자리 이하의 수</li><li>두 자리 수 범위의 덧셈과 뺄셈</li><li>한 자리 수의 곱셈</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>다섯 자리 이상의 수</li><li>분수</li><li>소수</li><li>세 자리 수의 덧셈과 뺄셈</li><li>자연수의 곱셈과 나눗셈</li><li>분모가 같은 분수의 덧셈과 뺄셈</li><li>소수의 덧셈과 뺄셈</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>약수와 배수</li><li>수의 범위와 올림, 버림, 반올림</li><li>자연수의 혼합 계산</li><li>분모가 다른 분수의 덧셈과 뺄셈</li><li>분수의 곱셈과 나눗셈</li><li>소수의 곱셈과 나눗셈</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>소인수분해</li><li>정수와 유리수</li><li>유리수와 순환소수</li><li>제곱근과 실수</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연수, 분수, 소수 등 수 관련 개념과 원리를 탐구하기</li><li>수를 세고 읽고 쓰기</li><li>자연수, 분수, 소수의 크기를 비교하고 그 방법을 설명하기</li><li>사칙계산의 의미와 계산 원리를 탐구하고 계산하기</li><li>수 감각과 연산 감각 기르기</li><li>연산 사이의 관계, 분수와 소수의 관계를 탐구하기</li><li>수의 범위와 올림, 버림, 반올림한 어림값을 실생활과 연결하기</li><li>자연수, 분수, 소수, 사칙계산을 실생활 및 타 교과와 연결하여 문제해결하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연수, 분수, 소수 등 수 관련 개념과 원리를 탐구하기</li><li>수를 세고 읽고 쓰기</li><li>자연수, 분수, 소수의 크기를 비교하고 그 방법을 설명하기</li><li>사칙계산의 의미와 계산 원리를 탐구하고 계산하기</li><li>수 감각과 연산 감각 기르기</li><li>연산 사이의 관계, 분수와 소수의 관계를 탐구하기</li><li>수의 범위와 올림, 버림, 반올림한 어림값을 실생활과 연결하기</li><li>자연수, 분수, 소수, 사칙계산을 실생활 및 타 교과와 연결하여 문제해결하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연수, 분수, 소수 등 수 관련 개념과 원리를 탐구하기</li><li>수를 세고 읽고 쓰기</li><li>자연수, 분수, 소수의 크기를 비교하고 그 방법을 설명하기</li><li>사칙계산의 의미와 계산 원리를 탐구하고 계산하기</li><li>수 감각과 연산 감각 기르기</li><li>연산 사이의 관계, 분수와 소수의 관계를 탐구하기</li><li>수의 범위와 올림, 버림, 반올림한 어림값을 실생활과 연결하기</li><li>자연수, 분수, 소수, 사칙계산을 실생활 및 타 교과와 연결하여 문제해결하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>최대공약수와 최소공배수 구하기</li><li>정수, 유리수, 실수의 대소 관계 판단하기</li><li>정수, 유리수, 근호를 포함한 식의 사칙계산의 원리를 탐구하고 계산하기</li><li>유리수와 순환소수의 관계 설명하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연수, 분수, 소수의 필요성 인식</li><li>사칙계산, 어림의 유용성 인식</li><li>분수 표현의 편리함 인식</li><li>수와 연산 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연수, 분수, 소수의 필요성 인식</li><li>사칙계산, 어림의 유용성 인식</li><li>분수 표현의 편리함 인식</li><li>수와 연산 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연수, 분수, 소수의 필요성 인식</li><li>사칙계산, 어림의 유용성 인식</li><li>분수 표현의 편리함 인식</li><li>수와 연산 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>음수, 무리수의 필요성 인식</li><li>실생활에서 사칙계산의 유용성 인식</li><li>수 체계의 논리적 아름다움에 대한 관심</li><li>정수와 유리수의 사칙계산의 원리를 이용하는 문제의 풀이 과정과 결과를 반성하는 태도</li></ul></td>
+    </tr>
+  </tbody>
+</table>
+
+#### (2) 변화와 관계
+
+**핵심 아이디어**
+
+- 변화하는 현상에 반복적인 요소로 들어있는 규칙은 수나 식으로 표현될 수 있으며, 규칙을 탐구하는 것은 수학적으로 추측하고 일반화하는 데 기반이 된다.
+- 동치 관계, 대응 관계, 비례 관계 등은 여러 현상에 들어있는 대상들 사이의 다양한 관계를 기술하고 복잡한 문제를 해결하는 데 유용하게 활용된다.
+- 수와 그 계산은 문자와 식을 사용하여 일반화되며, 특정한 관계를 만족시키는 미지의 값은 방정식과 부등식을 해결하는 적절한 절차를 거쳐 구해진다.
+- 한 양이 변함에 따라 다른 양이 하나씩 정해지는 두 양 사이의 대응 관계를 나타내는 함수와 그 그래프는 변화하는 현상 속의 다양한 관계를 수학적으로 표현한다.
+
+<table class="curriculum-content-table">
+  <thead>
+    <tr>
+      <th class="curriculum-axis-header">범주</th>
+      <th class="curriculum-elements-header">초등학교 1~2학년</th>
+      <th class="curriculum-elements-header">초등학교 3~4학년</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="curriculum-category-cell"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>규칙</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>규칙</li><li>동치 관계</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>대응 관계</li><li>비와 비율</li><li>비례식과 비례배분</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>문자의 사용과 식</li><li>일차방정식</li><li>좌표평면과 그래프</li><li>식의 계산</li><li>일차부등식</li><li>연립일차방정식</li><li>일차함수와 그 그래프</li><li>일차함수와 일차방정식의 관계</li><li>다항식의 곱셈과 인수분해</li><li>이차방정식</li><li>이차함수와 그 그래프</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물체, 무늬, 수, 계산식의 배열에서 규칙을 탐구하기</li><li>규칙을 찾아 여러 가지 방법으로 표현하기</li><li>두 양의 관계를 탐구하고, 등호를 사용하여 나타내기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물체, 무늬, 수, 계산식의 배열에서 규칙을 탐구하기</li><li>규칙을 찾아 여러 가지 방법으로 표현하기</li><li>두 양의 관계를 탐구하고, 등호를 사용하여 나타내기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>대응 관계를 탐구하고, □, △ 등을 사용하여 식으로 나타내고 설명하기</li><li>두 양의 관계를 비나 비율로 나타내기</li><li>비율을 분수, 소수, 백분율로 나타내기</li><li>비율을 실생활 및 타 교과와 연결하여 문제해결하기</li><li>비례식을 풀고, 주어진 양을 비례배분하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>식의 값과 함숫값 구하기</li><li>다항식의 연산 원리에 따라 계산하기</li><li>식을 간단히 하기</li><li>등식의 성질과 부등식의 성질 설명하기</li><li>방정식과 부등식 풀기</li><li>방정식, 부등식, 함수와 관련된 문제해결하기</li><li>상황이나 관계를 표, 식, 그래프로 나타내기</li><li>주어진 그래프 해석하기</li><li>일차함수의 그래프와 이차함수의 그래프의 성질 설명하기</li><li>일차함수의 그래프와 미지수가 2개인 일차방정식의 해 사이의 관계 설명하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>규칙, 동치 관계 탐구에 대한 흥미</li><li>변화와 관계 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>규칙, 동치 관계 탐구에 대한 흥미</li><li>변화와 관계 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>대응 관계, 비 표현의 편리함 인식</li><li>비와 비율의 유용성 인식</li><li>변화와 관계 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>문자의 유용성 인식</li><li>순서쌍과 좌표, 그래프 등 수학적 표현의 유용성과 편리함 인식</li><li>방정식, 부등식, 함수의 필요성 인식</li><li>실생활, 사회 및 자연 현상과 관련된 문제를 수학적 모델링을 통해 해결하려는 도전적인 태도</li><li>체계적으로 사고하여 합리적으로 의사 결정하는 태도</li><li>타당한 근거에 따라 논리적으로 설명하는 태도</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (3) 도형과 측정
-![[공통교육과정_수학과_도형과 측정.png]]
+
+**핵심 아이디어**
+
+- 평면도형과 입체도형은 여러 가지 모양을 범주화한 것이며, 각각의 평면도형과 입체도형은 고유한 성질을 갖는다.
+- 도형의 성질과 관계를 탐구하고 정당화하는 것은 논리적이고 비판적으로 사고하는 데 기반이 된다.
+- 측정은 여러 가지 속성의 양을 비교하고 속성에 따른 단위를 이용하여 양을 수치화함으로써 여러 가지 현상을 해석하거나 실생활 문제를 해결하는 데 활용된다.
+
+<table class="curriculum-content-table">
+  <thead>
+    <tr>
+      <th class="curriculum-axis-header">범주</th>
+      <th class="curriculum-elements-header">초등학교 1~2학년</th>
+      <th class="curriculum-elements-header">초등학교 3~4학년</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="curriculum-category-cell"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>입체도형의 모양</li><li>평면도형과 그 구성 요소</li><li>양의 비교</li><li>시각과 시간(시, 분)</li><li>길이(cm, m)</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>도형의 기초</li><li>원의 구성 요소</li><li>여러 가지 삼각형</li><li>여러 가지 사각형</li><li>다각형</li><li>평면도형의 이동</li><li>시각과 시간(초)</li><li>길이(mm, km)</li><li>들이(L, mL)</li><li>무게(kg, g, t)</li><li>각도(°)</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>합동과 대칭</li><li>직육면체와 정육면체</li><li>각기둥과 각뿔</li><li>원기둥, 원뿔, 구</li><li>다각형의 둘레와 넓이</li><li>원주율과 원의 넓이</li><li>직육면체와 정육면체의 겉넓이와 부피</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>기본 도형</li><li>작도와 합동</li><li>평면도형의 성질</li><li>입체도형의 성질</li><li>삼각형과 사각형의 성질</li><li>도형의 닮음</li><li>피타고라스 정리</li><li>삼각비</li><li>원의 성질</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>여러 가지 사물과 도형을 기준에 따라 분류하기</li><li>도형의 개념, 구성 요소, 성질 탐구하고 설명하기</li><li>평면도형이나 입체도형 그리기와 만들기</li><li>평면도형을 밀기, 뒤집기, 돌리기 한 모양을 추측하고 그리기</li><li>쌓은 모양 추측하고 쌓기나무의 개수 구하기</li><li>공간 감각 기르기</li><li>여러 가지 양을 비교, 측정, 어림하는 방법 탐구하기</li><li>측정 단위 사이의 관계 탐구하기</li><li>측정 단위를 사용하여 양을 표현하기</li><li>실생활 문제 상황에서 길이, 들이, 무게, 시간의 덧셈과 뺄셈하기</li><li>도형의 둘레, 넓이, 부피 구하는 방법 탐구하기</li><li>측정을 실생활 및 타 교과와 연결하여 문제해결하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>여러 가지 사물과 도형을 기준에 따라 분류하기</li><li>도형의 개념, 구성 요소, 성질 탐구하고 설명하기</li><li>평면도형이나 입체도형 그리기와 만들기</li><li>평면도형을 밀기, 뒤집기, 돌리기 한 모양을 추측하고 그리기</li><li>쌓은 모양 추측하고 쌓기나무의 개수 구하기</li><li>공간 감각 기르기</li><li>여러 가지 양을 비교, 측정, 어림하는 방법 탐구하기</li><li>측정 단위 사이의 관계 탐구하기</li><li>측정 단위를 사용하여 양을 표현하기</li><li>실생활 문제 상황에서 길이, 들이, 무게, 시간의 덧셈과 뺄셈하기</li><li>도형의 둘레, 넓이, 부피 구하는 방법 탐구하기</li><li>측정을 실생활 및 타 교과와 연결하여 문제해결하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>여러 가지 사물과 도형을 기준에 따라 분류하기</li><li>도형의 개념, 구성 요소, 성질 탐구하고 설명하기</li><li>평면도형이나 입체도형 그리기와 만들기</li><li>평면도형을 밀기, 뒤집기, 돌리기 한 모양을 추측하고 그리기</li><li>쌓은 모양 추측하고 쌓기나무의 개수 구하기</li><li>공간 감각 기르기</li><li>여러 가지 양을 비교, 측정, 어림하는 방법 탐구하기</li><li>측정 단위 사이의 관계 탐구하기</li><li>측정 단위를 사용하여 양을 표현하기</li><li>실생활 문제 상황에서 길이, 들이, 무게, 시간의 덧셈과 뺄셈하기</li><li>도형의 둘레, 넓이, 부피 구하는 방법 탐구하기</li><li>측정을 실생활 및 타 교과와 연결하여 문제해결하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>점, 직선, 평면의 위치 관계를 다양한 상황과 연결하기</li><li>도형의 성질 설명하기</li><li>삼각형의 작도 과정 설명하기</li><li>삼각형의 합동과 닮음 판별하기</li><li>도형의 길이, 넓이, 겉넓이, 부피 구하기</li><li>구체적인 모형이나 공학 도구 이용하기</li><li>도형의 성질을 정당화하기</li><li>닮음비 구하기</li><li>간단한 삼각비의 값 구하기</li><li>삼각비를 활용하여 문제해결하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>평면도형, 입체도형에 대한 흥미와 관심</li><li>합동인 도형, 선대칭도형, 점대칭도형의 아름다움 인식</li><li>표준 단위의 필요성 인식</li><li>넓이와 부피를 구하는 방법의 편리함 인식</li><li>도형과 측정 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>평면도형, 입체도형에 대한 흥미와 관심</li><li>합동인 도형, 선대칭도형, 점대칭도형의 아름다움 인식</li><li>표준 단위의 필요성 인식</li><li>넓이와 부피를 구하는 방법의 편리함 인식</li><li>도형과 측정 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>평면도형, 입체도형에 대한 흥미와 관심</li><li>합동인 도형, 선대칭도형, 점대칭도형의 아름다움 인식</li><li>표준 단위의 필요성 인식</li><li>넓이와 부피를 구하는 방법의 편리함 인식</li><li>도형과 측정 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>증명의 필요성 인식</li><li>피타고라스 정리, 삼각비의 유용성 인식</li><li>피타고라스 정리, 삼각비에 대한 흥미와 관심</li><li>도형의 성질을 이용한 건축물, 문화유산, 예술 작품에 대한 흥미와 관심</li><li>다양한 정당화 방법을 이용하여 체계적으로 사고하고 타인을 합리적으로 설득하려는 태도</li><li>정당화를 통해 수학적 근거를 바탕으로 비판적으로 사고하는 태도</li></ul></td>
+    </tr>
+  </tbody>
+</table>
+
 #### (4) 자료와 가능성
-![[공통교육과정_수학과_자료와 가능성.png]]
+
+**핵심 아이디어**
+
+- 자료를 수집, 정리, 해석하는 통계는 자료의 특징을 파악하고 두 집단을 비교하며 자료의 관계를 탐구하는 데 활용된다.
+- 사건이 일어날 가능성을 여러 가지 방법으로 표현하는 것은 불확실성을 이해하는 데 도움이 되며, 가능성을 확률로 수치화하면 불확실성을 수학적으로 다룰 수 있게 된다.
+- 자료를 이용하여 통계적 문제해결 과정을 실천하고 생활 속의 가능성을 탐구하는 것은 미래를 예측하고 합리적인 의사 결정을 하는 데 기반이 된다.
+
+<table class="curriculum-content-table">
+  <thead>
+    <tr>
+      <th class="curriculum-axis-header">범주</th>
+      <th class="curriculum-elements-header">초등학교 1~2학년</th>
+      <th class="curriculum-elements-header">초등학교 3~4학년</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="curriculum-category-cell"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자료의 분류</li><li>표</li><li>○, ×, ／를 이용한 그래프</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>그림그래프</li><li>막대그래프</li><li>꺾은선그래프</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>평균</li><li>띠그래프, 원그래프</li><li>가능성</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>대푯값</li><li>도수분포표와 상대도수</li><li>경우의 수와 확률</li><li>산포도</li><li>상자그림과 산점도</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자료를 기준에 따라 분류하고 설명하기</li><li>탐구 문제를 설정하고 그에 맞는 자료를 수집하기</li><li>자료를 표나 그래프로 나타내고 해석하기</li><li>자료의 평균을 구하고 해석하기</li><li>자료를 수집하고 정리하여 문제해결하기</li><li>사건이 일어날 가능성을 비교하고 표현하기</li><li>실생활과 연결하여 사건이 일어날 가능성을 예상하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자료를 기준에 따라 분류하고 설명하기</li><li>탐구 문제를 설정하고 그에 맞는 자료를 수집하기</li><li>자료를 표나 그래프로 나타내고 해석하기</li><li>자료의 평균을 구하고 해석하기</li><li>자료를 수집하고 정리하여 문제해결하기</li><li>사건이 일어날 가능성을 비교하고 표현하기</li><li>실생활과 연결하여 사건이 일어날 가능성을 예상하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자료를 기준에 따라 분류하고 설명하기</li><li>탐구 문제를 설정하고 그에 맞는 자료를 수집하기</li><li>자료를 표나 그래프로 나타내고 해석하기</li><li>자료의 평균을 구하고 해석하기</li><li>자료를 수집하고 정리하여 문제해결하기</li><li>사건이 일어날 가능성을 비교하고 표현하기</li><li>실생활과 연결하여 사건이 일어날 가능성을 예상하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>적절한 대푯값을 선택하여 구하기</li><li>자료를 표, 그래프로 나타내고 해석하기</li><li>통계적 탐구 문제 설정하기</li><li>공학 도구를 이용하여 자료를 수집하고 분석하기</li><li>확률의 기본 성질 탐구하기</li><li>자료의 분포를 비교하고 설명하기</li><li>자료의 상관관계 설명하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>표와 그래프의 편리함 인식</li><li>평균의 유용성 인식</li><li>자료를 이용한 통계적 문제해결 과정의 가치 인식</li><li>가능성에 근거하여 판단하는 태도</li><li>자료와 가능성 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>표와 그래프의 편리함 인식</li><li>평균의 유용성 인식</li><li>자료를 이용한 통계적 문제해결 과정의 가치 인식</li><li>가능성에 근거하여 판단하는 태도</li><li>자료와 가능성 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>표와 그래프의 편리함 인식</li><li>평균의 유용성 인식</li><li>자료를 이용한 통계적 문제해결 과정의 가치 인식</li><li>가능성에 근거하여 판단하는 태도</li><li>자료와 가능성 관련 문제해결에서 비판적으로 사고하는 태도</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>대푯값, 상대도수, 상자그림의 유용성 인식</li><li>공학 도구를 이용한 자료 수집과 분석의 편리함과 유용성 인식</li><li>자신의 삶과 연계된 확률과 통계에 대한 흥미와 관심</li><li>통계적 문제해결 과정에 주도적으로 참여하는 태도</li><li>체계적으로 사고하여 합리적으로 의사 결정하는 태도</li><li>확률 및 통계적 근거를 바탕으로 비판적으로 사고하는 태도</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 나. 성취기준
 #### 초등학교 1~2학년
@@ -793,7 +955,7 @@ keywords:
  >> (9수03-17) 삼각비를 활용하여 직접 측정하기 어려운 거리나 높이 등을 구해 보는 활동을 통해 유용성을 인식하고 흥미를 느낄 수 있게 한다.
  > 
  >>[!NOTE]+ (나) 성취기준 적용시 고려사항
- >> - ‘도형과 측정’ 영역에서는 용어와 기호로 ‘교점, 교선, 두 점 사이의 거리, 중점, 수직이등분선, 꼬인 위치, 교각, 맞꼭지각, 엇각, 동위각, 평각, 직교, 수선의 발, 작도, 대변, 대각, 삼각형의 합동 조건, 내각, 외각, 부채꼴, 중심각, 호, 현, 활꼴, 할선, 다면체, 각뿔대, 정다면체, 회전체, 회전축, 원뿔대, 증명, 접선, 접점, 접한다, 외심, 외접, 외접원, 내심, 내접, 내접원, 중선, 무게중심, 닮음, 닮음비, 삼각형의 닮음 조건, 피타고라스 정리, 삼각비, 사인, 코사인, 탄젠트, 원주각, ![[수학 선분표시 기호 이미지.png]], //, ∠ABC, ⊥, △ABC, ,≡,π, ▢ABCD, ∾, sinA, cosA, tanA 를 다룬다.
+>> - ‘도형과 측정’ 영역에서는 용어와 기호로 ‘교점, 교선, 두 점 사이의 거리, 중점, 수직이등분선, 꼬인 위치, 교각, 맞꼭지각, 엇각, 동위각, 평각, 직교, 수선의 발, 작도, 대변, 대각, 삼각형의 합동 조건, 내각, 외각, 부채꼴, 중심각, 호, 현, 활꼴, 할선, 다면체, 각뿔대, 정다면체, 회전체, 회전축, 원뿔대, 증명, 접선, 접점, 접한다, 외심, 외접, 외접원, 내심, 내접, 내접원, 중선, 무게중심, 닮음, 닮음비, 삼각형의 닮음 조건, 피타고라스 정리, 삼각비, 사인, 코사인, 탄젠트, 원주각, $\overleftrightarrow{AB}$, $\overrightarrow{AB}$, $\overline{AB}$, //, ∠ABC, ⊥, △ABC, ,≡,π, ▢ABCD, ∾, sinA, cosA, tanA 를 다룬다.
  >> - 다양한 교구나 공학 도구를 이용하여 합동과 닮음의 의미를 이해하게 한다.
  >> - 다각형과 다면체는 그 모양이 볼록인 경우만 다룬다.
  >> - 간단한 입체도형의 단면을 관찰하는 활동과 전개도를 접어 간단한 입체도형을 만드는 활동을 통해 평면도형과 입체도형의 관계를 직관적으로 이해하게 한다.

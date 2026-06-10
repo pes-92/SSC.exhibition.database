@@ -34,3 +34,5 @@ $$\frac{X_{\text{입사}}}{X_{\text{굴절}}}$$
 ## 출처 및 주석
 
 [^1]: Eugene Hecht(2001). 광학 4판, 자유아카데미, pp100~105
+
+<div class="theory-meta" data-category="미분류"></div>

@@ -26,3 +26,5 @@ $$\text{속력}=\frac{\text{이동거리}}{\text{시간}}$$
 	이는 시단당 변위를 계산하는 속도와의 큰 차이점으로, 자세한 것은 [[속력과 속도|속력과 속도의 차이]] 참고
 
 [^3]: 위키백과>속력(https://ko.wikipedia.org/wiki/%EC%86%8D%EB%A0%A5)
+
+<div class="theory-meta" data-category="미분류"></div>

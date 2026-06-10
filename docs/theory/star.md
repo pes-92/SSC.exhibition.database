@@ -47,3 +47,4 @@ $$\text{색지수}=M_p-M_v$$
 
 [^4]: 한국천문연구원>천문우주 지식정보>천문학습관>천체물리학>밝기>절대등급(https://astro.kasi.re.kr/learning/pageView/5207)
 
+<div class="theory-meta" data-category="미분류"></div>

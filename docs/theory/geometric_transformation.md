@@ -67,3 +67,5 @@ $y = x$에 대한 대칭이동에서는 $P(x,y)$는 $P′(y, x)$로 이동�
 [^3]: 네이버 지식백과 > 학생백과 > 수학백과 > 회전축 https://terms.naver.com/entry.naver?docId=3405424&cid=47324&categoryId=47324
 
 [^4]: 네이버 지식백과 > 학생백과 > 수학백과 > 회전체 https://terms.naver.com/entry.naver?docId=3559615&cid=58663&categoryId=58734
+
+<div class="theory-meta" data-category="미분류"></div>

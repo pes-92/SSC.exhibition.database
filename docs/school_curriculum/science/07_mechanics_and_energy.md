@@ -41,13 +41,42 @@ keywords:
 - 탄성파가 매질을 통해 진행⋅투과⋅반사하는 성질과 간섭 현상은 소음 제어 기술에 중요하게 이용된다.
 - 도플러 효과는 실생활 속에서 물체의 속도 측정에 활용되며, 소리의 중첩, 정상파, 공명 현상에 대한 이해는 악기에 중요하게 활용된다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 시공간과 운동 | 벡터의 합성 · 포물선 운동과 원운동 · 역학적 에너지 · 중력과 천체 운동 · 탈출 속도 · 등가 원리 |
-| | 열과 에너지 | 열의 이동 · 이상 기체 법칙 · 열역학 제1법칙 · 열기관 · 열역학 제2법칙 |
-| | 탄성파와 소리 | 탄성파 · 투과와 반사 · 도플러 효과 · 간섭과 소음 제어 · 정상파 |
-| **과정⋅기능** | | 물리 현상에서 문제를 인식하고 가설을 설정하기 · 변인을 조작적으로 정의하여 탐구 설계하기 · 다양한 도구와 수학적 사고를 활용하여 정보를 수집⋅기술하기 · 증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 기술 상황에 적용⋅설명하기 · 모형을 생성하고 활용하기 · 다양한 매체를 활용하여 표현하고 의사소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">시공간과 운동</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>벡터의 합성</li><li>포물선 운동과 원운동</li><li>역학적 에너지</li><li>중력과 천체 운동</li><li>탈출 속도</li><li>등가 원리</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">열과 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>열의 이동</li><li>이상 기체 법칙</li><li>열역학 제1법칙</li><li>열기관</li><li>열역학 제2법칙</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">탄성파와 소리</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>탄성파</li><li>투과와 반사</li><li>도플러 효과</li><li>간섭과 소음 제어</li><li>정상파</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물리 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구와 수학적 사고를 활용하여 정보를 수집⋅기술하기</li><li>증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 기술 상황에 적용⋅설명하기</li><li>모형을 생성하고 활용하기</li><li>다양한 매체를 활용하여 표현하고 의사소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

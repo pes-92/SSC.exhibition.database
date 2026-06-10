@@ -16,3 +16,5 @@
 [^1]: 금성출판사 티칭백과>중등>과학>과학2>광원(금성교과서56쪽) (https://dic.kumsung.co.kr/web/smart/detail.do?headwordId=840&findCategory=B002004&findBookId=25)
 
 [^2]: 금성출판사 티칭백과>중등>과학>과학2>점광원과 면광원 (https://dic.kumsung.co.kr/web/smart/detail.do?headwordId=843&findCategory=B002004&findBookId=25)
+
+<div class="theory-meta" data-category="미분류"></div>

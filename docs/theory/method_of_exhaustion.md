@@ -10,3 +10,5 @@ $$ \sum_{k=1}^{n}(\frac{k-1}{n})^2\frac{1}{n} < S < \sum_{k=1}^{n}(\frac{k}{n})^
 ## 출처 및 주석
 
 [^1]:  네이버>지식백과>수학백과(대한수학회 제공)>(2015.05)(https://terms.naver.com/entry.naver?docId=3338242&cid=47324&categoryId=47324)
+
+<div class="theory-meta" data-category="미분류"></div>

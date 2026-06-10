@@ -28,3 +28,5 @@ $$\text{EQ}=\frac{\text{실제 뇌 질량}(g)(M_{Br})}{\text{예상 뇌 질량}(
 [^3]: Larry R. Squire(2009), Encyclopedia of Neuroscience, Academic Press pp239-244
 
 [^4]: Begoña Ruiz-Núñez외 3명 (2013) Lifestyle and nutritional imbalances associated with Western diseases: causes and consequences of chronic systemic low-grade inflammation in an evolutionary context. Journal of Nutritional Biochemistry 24 (2013) pp1183– 1201
+
+<div class="theory-meta" data-category="미분류"></div>

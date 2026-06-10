@@ -43,13 +43,42 @@ keywords:
 - 행성의 겉보기 운동은 태양계 모형으로 나타낼 수 있으며, 태양계의 식 현상은 태양-지구-달 시스템의 운동을 통해 추론한다.
 - 별의 관측을 통해 질량에 따른 진화 과정과 물리량을 결정할 수 있으며, 별과 성간 물질 등으로 구성된 은하 관측에 근거하여 우주가 팽창하고 있음을 추론한다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 대기와 해양의 상호작용 | 해수의 성질 · 표층 순환 · 심층 순환 · 수온과 염분 · 일기 예보 · 이동성 고기압과 저기압 · 악기상 · 용승과 침강 · 남방진동 · 지구온난화 · 기후변화 요인 |
-| | 지구의 역사와 한반도의 암석 | 퇴적구조와 퇴적암 · 화성암 · 변성작용과 변성암 · 변동대 · 지사 해석 방법 · 상대연령과 절대연령 · 지질시대의 환경과 생물 · 국가지질공원 |
-| | 태양계 천체와 별과 우주의 진화 | 태양계 모형 · 행성의 겉보기 운동 · 일식과 월식 · 별의 물리량 · 별의 진화와 H-R도 · 은하의 구성과 분류 · 우주의 팽창 |
-| **과정⋅기능** | | 지구와 우주 관련 현상에서 문제를 인식하고 가설을 설정하기 · 변인을 조작적으로 정의하여 탐구 설계하기 · 다양한 도구와 수학적 사고를 활용하여 정보를 조사⋅수집⋅해석하기 · 수학적 사고와 모형을 활용하여 지구와 우주 및 STEM 관련 현상 설명하기 · 증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 STEM 상황에 적용⋅설명하기 · 과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">대기와 해양의 상호작용</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>해수의 성질</li><li>표층 순환</li><li>심층 순환</li><li>수온과 염분</li><li>일기 예보</li><li>이동성 고기압과 저기압</li><li>악기상</li><li>용승과 침강</li><li>남방진동</li><li>지구온난화</li><li>기후변화 요인</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">지구의 역사와 한반도의 암석</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>퇴적구조와 퇴적암</li><li>화성암</li><li>변성작용과 변성암</li><li>변동대</li><li>지사 해석 방법</li><li>상대연령과 절대연령</li><li>지질시대의 환경과 생물</li><li>국가지질공원</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">태양계 천체와 별과 우주의 진화</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>태양계 모형</li><li>행성의 겉보기 운동</li><li>일식과 월식</li><li>별의 물리량</li><li>별의 진화와 H-R도</li><li>은하의 구성과 분류</li><li>우주의 팽창</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구와 우주 관련 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구와 수학적 사고를 활용하여 정보를 조사⋅수집⋅해석하기</li><li>수학적 사고와 모형을 활용하여 지구와 우주 및 STEM 관련 현상 설명하기</li><li>증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 STEM 상황에 적용⋅설명하기</li><li>과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

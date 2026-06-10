@@ -28,3 +28,5 @@
 [^1]: 한국천문연구원>천문우주지식정보>천문학습관>망원경>역사(2017.06.16) (https://astro.kasi.re.kr/learning/pageView/5064)
 
 [^2]: 한국천문연구원>천문우주지식정보>천문학습관>망원경>종류(2017.06.19) (https://astro.kasi.re.kr/learning/pageView/5390)
+
+<div class="theory-meta" data-category="미분류"></div>

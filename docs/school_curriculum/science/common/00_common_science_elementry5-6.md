@@ -49,14 +49,46 @@ keywords:
 - 열은 온도가 높은 곳에서 낮은 곳으로 이동하며, 일상생활에서는 단열 등 다양한 분야에 물질의 열적 성질이나 열의 이동 방식이 이용된다.
 - 빛과 소리는 반사, 굴절, 진동 등 파동의 특성을 가지며, 그 특성은 거울, 렌즈, 악기, 색의 구현 등 편리하고 심미적인 삶에 도움이 된다.
 
-| 범주 | 구분 | 초등학교 5~6학년군 |
-| --- | --- | --- |
-| **지식⋅이해** | 힘과 에너지 | 위치의 변화<br>속력<br>속력과 안전 |
-|  | 전기와 자기 | 전기 회로<br>전지의 직렬연결<br>전자석<br>전기 안전 |
-|  | 열 | 온도<br>열의 이동<br>단열 |
-|  | 빛과 파동 | 빛의 직진<br>평면거울에서 빛의 반사<br>빛의 굴절<br>렌즈의 이용 |
-| **과정⋅기능** |  | 자연과 일상생활에서 운동과 에너지 관련 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>수학적 사고와 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 자연과 일상생활에서 운동과 에너지 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 |
-| **가치⋅태도** |  | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="4"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">힘과 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>위치의 변화</li><li>속력</li><li>속력과 안전</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">전기와 자기</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>전기 회로</li><li>전지의 직렬연결</li><li>전자석</li><li>전기 안전</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">열</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>온도</li><li>열의 이동</li><li>단열</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">빛과 파동</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>빛의 직진</li><li>평면거울에서 빛의 반사</li><li>빛의 굴절</li><li>렌즈의 이용</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 운동과 에너지 관련 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>수학적 사고와 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 자연과 일상생활에서 운동과 에너지 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (2) 물질
 
@@ -67,13 +99,42 @@ keywords:
 - 물질은 서로 구분할 수 있는 고유한 특성을 가지며, 물질의 특성은 일상생활의 다양한 혼합물 분리에 이용된다.
 - 화학 반응을 통해 물질은 다른 물질로 변하며, 화학 반응의 규칙성은 새로운 물질의 생성 원리가 된다.
 
-| 범주 | 구분 | 초등학교 5~6학년군 |
-| --- | --- | --- |
-| **지식⋅이해** | 물질의 성질 | 용액, 용매, 용질<br>용해<br>용액의 진하기<br>혼합물의 분리 |
-|  | 물질의 변화 | 지시약<br>산성 용액<br>염기성 용액<br>연소 조건<br>연소 생성물 |
-|  | 물질의 구조 |  |
-| **과정⋅기능** |  | 자연과 일상생활에서 물질과 관련된 문제 인식하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>탐구 결과를 해석하여 결론을 도출하기<br>물질과 관련된 일상생활의 문제를 해결하기 위한 탐구 설계하기<br>결론을 도출하고, 자연과 일상생활에서 물질 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 |
-| **가치⋅태도** |  | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">물질의 성질</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>용액, 용매, 용질</li><li>용해</li><li>용액의 진하기</li><li>혼합물의 분리</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">물질의 변화</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지시약</li><li>산성 용액</li><li>염기성 용액</li><li>연소 조건</li><li>연소 생성물</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">물질의 구조</td>
+      <td class="curriculum-elements-cell"></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 물질과 관련된 문제 인식하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>탐구 결과를 해석하여 결론을 도출하기</li><li>물질과 관련된 일상생활의 문제를 해결하기 위한 탐구 설계하기</li><li>결론을 도출하고, 자연과 일상생활에서 물질 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (3) 생명
 
@@ -85,15 +146,50 @@ keywords:
 - 생물은 생식을 통해 자손을 생산하고, 생물의 형질은 유전자에 의해 자손에게 전달되며, 생물의 유전 현상은 사람의 가계에서도 관찰된다.
 - 우리 주변의 다양한 생물은 환경과 영향을 주고받으며 밀접한 관계를 맺고 있으며, 생물다양성은 생태계와 인간의 삶과도 밀접하게 관련되어 있다.
 
-| 범주 | 구분 | 초등학교 5~6학년군 |
-| --- | --- | --- |
-| **지식⋅이해** | 생물의 구조와 에너지 | 세포의 구조<br>뼈와 근육의 구조와 기능<br>소화⋅순환⋅호흡⋅배설 기관의 구조와 기능<br>뿌리, 줄기, 잎, 꽃의 구조와 기능<br>증산 작용<br>광합성 산물 |
-|  | 항상성과 몸의 조절 |  |
-|  | 생명의 연속성 |  |
-|  | 환경과 생태계 | 먹이사슬과 먹이그물 |
-|  | 생명과학과 인간의 생활 |  |
-| **과정⋅기능** |  | 자연과 일상생활에서 생명 현상 관련 문제 인식하기<br>생물 특징과 생명 활동 관계 추론하기<br>생물 분류하기<br>문제를 해결하기 위한 탐구 설계하기<br>생물 관찰 및 분류하기<br>자료 조사 및 해석하기<br>모형으로 설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 협력적 소통하기 |
-| **가치⋅태도** |  | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="5"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">생물의 구조와 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>세포의 구조</li><li>뼈와 근육의 구조와 기능</li><li>소화⋅순환⋅호흡⋅배설 기관의 구조와 기능</li><li>뿌리, 줄기, 잎, 꽃의 구조와 기능</li><li>증산 작용</li><li>광합성 산물</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">항상성과 몸의 조절</td>
+      <td class="curriculum-elements-cell"></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">생명의 연속성</td>
+      <td class="curriculum-elements-cell"></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">환경과 생태계</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>먹이사슬과 먹이그물</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">생명과학과 인간의 생활</td>
+      <td class="curriculum-elements-cell"></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 생명 현상 관련 문제 인식하기</li><li>생물 특징과 생명 활동 관계 추론하기</li><li>생물 분류하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>생물 관찰 및 분류하기</li><li>자료 조사 및 해석하기</li><li>모형으로 설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (4) 지구와 우주
 
@@ -106,13 +202,42 @@ keywords:
 - 태양계는 행성 및 소천체 등으로 구성되며, 생성 과정에 따라 태양계 천체의 표면은 다양하게 나타난다.
 - 별의 표면 온도, 크기, 질량, 거리 등을 결정하는 데 관측 자료와 증거 기반 해석 등이 활용된다.
 
-| 범주 | 구분 | 초등학교 5~6학년군 |
-| --- | --- | --- |
-| **지식⋅이해** | 고체 지구 | 지층<br>퇴적암<br>화석의 생성<br>과거 생물과 환경 |
-|  | 유체 지구 | 날씨와 기상 요소<br>이슬, 안개, 구름<br>고기압과 저기압 |
-|  | 천체 | 지구의 자전과 공전<br>계절별 별자리 변화<br>태양 고도의 일변화<br>계절별 낮의 길이 |
-| **과정⋅기능** |  | 자연과 일상생활에서 지구와 우주 관련 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>수학적 사고, 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 지구와 우주 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 |
-| **가치⋅태도** |  | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">고체 지구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지층</li><li>퇴적암</li><li>화석의 생성</li><li>과거 생물과 환경</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">유체 지구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>날씨와 기상 요소</li><li>이슬, 안개, 구름</li><li>고기압과 저기압</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">천체</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구의 자전과 공전</li><li>계절별 별자리 변화</li><li>태양 고도의 일변화</li><li>계절별 낮의 길이</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 지구와 우주 관련 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>수학적 사고, 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 지구와 우주 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (5) 과학과 사회
 
@@ -122,13 +247,42 @@ keywords:
 - 과학기술은 자원과 에너지 등의 효율적 이용 방안을 제공하여 지속가능한 사회에 기여한다.
 - 과학기술의 발달은 미래 사회의 모습과 직업에 영향을 미치며, 개인은 이러한 미래 사회의 모습과 새로운 진로를 탐색하며 자신의 삶을 준비한다.
 
-| 범주 | 구분 | 초등학교 5~6학년군 |
-| --- | --- | --- |
-| **지식⋅이해** | 과학과 안전 |  |
-|  | 과학과 지속가능한 사회 | 자원의 종류<br>자원의 효율적인 이용<br>지속가능한 에너지 이용 |
-|  | 과학과 진로 | 진로와 과학의 관련성<br>진로 계획 |
-| **과정⋅기능** |  | 자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>신뢰성 있는 출처를 활용하여 자료를 수집하고 정리하기<br>융합적 사고와 수학적 사고, 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 |
-| **가치⋅태도** |  | 과학의 심미적 가치<br>과학의 사회적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>과학 문제 해결의 학문 간 융합적 접근<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">과학과 안전</td>
+      <td class="curriculum-elements-cell"></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">과학과 지속가능한 사회</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자원의 종류</li><li>자원의 효율적인 이용</li><li>지속가능한 에너지 이용</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">과학과 진로</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>진로와 과학의 관련성</li><li>진로 계획</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>신뢰성 있는 출처를 활용하여 자료를 수집하고 정리하기</li><li>융합적 사고와 수학적 사고, 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학의 사회적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>과학 문제 해결의 학문 간 융합적 접근</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 나. 성취기준
 

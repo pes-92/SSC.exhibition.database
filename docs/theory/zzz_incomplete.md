@@ -25,3 +25,5 @@ data-tags에 쉼표로 구분한 태그 이름을 입력한다.
 -->
 
 <div class="doc-tags" data-tags="문서양식"></div>
+
+<div class="theory-meta" data-category="미분류"></div>

@@ -42,3 +42,5 @@
 [^5]: 서울아산병원>건강정보>인체정보>부교감신경(Parasympathetic nerve) (https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=80&partId=B000020)
 
 [^6]: 출처 : 금성백과>티칭백과>중등>과학>과학2>부교감신경 (https://dic.kumsung.co.kr/web/smart/detail.do?headwordId=1424&findCategory=B002004&findBookId=25)
+
+<div class="theory-meta" data-category="미분류"></div>

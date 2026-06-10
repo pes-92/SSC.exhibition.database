@@ -15,3 +15,5 @@
 
 [^1]: 양동원, 기억의 메커니즘 및 기억장애 질환, Dementia and Neurocognitive Disorders, 2004; 3: 65-72.
 	전문 다운로드 가능 링크 : https://dl.nanet.go.kr/detail/KINX2009142446
+
+<div class="theory-meta" data-category="미분류"></div>

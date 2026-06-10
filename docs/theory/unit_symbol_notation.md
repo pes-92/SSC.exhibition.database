@@ -24,3 +24,5 @@
 ## 출처 및 주석
 
 [^1]: 한국표준과학연구원(2001), 이지사이언스 시리즈8 단위를 알면 세상이 보인다 단위이야기, 한국표준과학연구원, 한국과학창의재단, pp68-69(e북 다운로드 : https://www.kriss.re.kr/gallery.es?mid=a10306010000&bid=0013)
+
+<div class="theory-meta" data-category="미분류"></div>

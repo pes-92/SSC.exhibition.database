@@ -19,3 +19,5 @@
 [^1]: 네이버 백과사전>시사상식사전> IC 카드 (https://terms.naver.com/entry.naver?docId=74589&cid=43667&categoryId=43667)
 
 [^2]: KBS뉴스>TV뉴스>1TV뉴스>뉴스라인W>다음 달부터 ‘IC칩 현금카드’ 전면 도입 (https://news.kbs.co.kr/news/pc/view/view.do?ncd=2785656)
+
+<div class="theory-meta" data-category="미분류"></div>

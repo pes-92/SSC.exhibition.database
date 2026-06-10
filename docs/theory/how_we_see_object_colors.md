@@ -25,3 +25,5 @@
 [^1]: 김은정, 박옥련(2007), Color:색, 형설출판사 (https://terms.naver.com/entry.naver?docId=2797595&cid=55595&categoryId=55595&expCategoryId=55595)
 
 [^2]: 천재교육>과학교과서>중학교>과학2 pp110~112 (http://view.chunjae.co.kr/streamdocs/view/sd;streamdocsId=oorhmlO0M5lA47Bety9bx1qZ3NKbAFuQS6ezBUhTW10;currentPage=1)
+
+<div class="theory-meta" data-category="미분류"></div>

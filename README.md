@@ -36,7 +36,7 @@
 
   </ul>
  
- <h2> 위키 개발 진행정도(2026.06.09 업데이트 함)
+ <h2> 위키 개발 진행정도(2026.06.10 업데이트 함)
 
 <table class="curriculum-table">
   <caption><b> 전시물 내용</b></caption>
@@ -126,8 +126,8 @@
     </tr>
     <tr>
       <th>교과과정 안내</th>
-      <td> 내용 입력 중 </td>
-      <td> <sapn style="color:red">아직 쓰지 마세요!!</span> </td>      
+      <td> 원문 입력완료, 전시물과 연결중 </td>
+      <td> 사이드바로 들어가서 나오는 원문은 보셔도 됩니다. <br><sapn style="color:red">전시물 내의 정보는 정확하지 않음 주의!!</span> </td>      
     </tr>
   </tbody>
 </table>
@@ -142,17 +142,6 @@
 
 </div>
 
-
-<div class="admin-only">
-  <h2>⚙ 관리자 안내</h2>
-  <ul>
-    <li>현재 변경사항 2026.04.18</li>
-    <li>현 기능 : 자원봉사용 내용만 업로드 상태</li>
-  </ul>
-
----
-
-</div>
 
 <div class="volunteer">
 

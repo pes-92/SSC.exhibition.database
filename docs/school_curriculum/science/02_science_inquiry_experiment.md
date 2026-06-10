@@ -39,12 +39,38 @@ keywords:
 - 주제에 따라 다양한 과학 탐구 방법을 활용하고, 과학에 대한 흥미와 호기심, 즐거움 등을 함양한다.
 - 과학 탐구는 흥미와 호기심, 협력, 증거에 근거한 결과 해석 등 다양한 과학적 태도가 필요하다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 과학의 본성과 역사 속의 과학 탐구 | 패러다임의 전환을 가져온 결정적 실험 ⋅ 과학의 본성 ⋅ 선조들의 과학 |
-| | 과학 탐구의 과정과 절차 | 귀납적 탐구 ⋅ 연역적 탐구 ⋅ 탐구 과정과 절차 |
-| **과정⋅기능** | | 자연 현상에서 문제를 인식하고 가설을 설정하기 ⋅ 변인을 조작적으로 정의하여 탐구 설계하기 ⋅ 다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기 ⋅ 수학적 사고와 모형을 활용하여 통합 및 융합 과학 관련 현상 설명하기 ⋅ 증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기 ⋅ 결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기 ⋅ 과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 ⋅ 과학 유용성 ⋅ 자연과 과학에 대한 감수성 ⋅ 과학 창의성 ⋅ 과학 활동의 윤리성 ⋅ 과학 문제해결에 대한 개방성 ⋅ 안전⋅지속가능 사회에 기여 ⋅ 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="2"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">과학의 본성과 역사 속의 과학 탐구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>패러다임의 전환을 가져온 결정적 실험</li><li>과학의 본성</li><li>선조들의 과학</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">과학 탐구의 과정과 절차</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>귀납적 탐구</li><li>연역적 탐구</li><li>탐구 과정과 절차</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기</li><li>수학적 사고와 모형을 활용하여 통합 및 융합 과학 관련 현상 설명하기</li><li>증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기</li><li>과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 
@@ -99,12 +125,38 @@ keywords:
 - 과학 탐구의 산출물은 첨단 과학기술 등 다양한 분야로 공유 및 확산된다.
 - 과학 탐구에서는 생명 존중, 연구 진실성, 지식 재산권 존중 등과 같은 연구 윤리와 함께 안전 사항을 준수해야 한다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 생활 속의 과학 탐구 | 제품 속 과학 ⋅ 놀이 속 과학 ⋅ 스포츠 속 과학 ⋅ 문화예술 속 과학 |
-| | 미래 사회와 첨단 과학 탐구 | 첨단 과학기술 ⋅ 탐구 산출물 ⋅ 안전 사항 ⋅ 연구 윤리 |
-| **과정⋅기능** | | 자연 현상에서 문제를 인식하고 가설을 설정하기 ⋅ 변인을 조작적으로 정의하여 탐구 설계하기 ⋅ 다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기 ⋅ 수학적 사고와 모형을 활용하여 STEM 관련 현상 설명하기 ⋅ 증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기 ⋅ 결론을 도출하고 자연 현상 및 STEM 상황에 적용⋅설명하기 ⋅ 과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 ⋅ 과학 유용성 ⋅ 자연과 과학에 대한 감수성 ⋅ 과학 창의성 ⋅ 과학 활동의 윤리성 ⋅ 과학 문제해결에 대한 개방성 ⋅ 안전⋅지속가능 사회에 기여 ⋅ 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="2"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">생활 속의 과학 탐구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>제품 속 과학</li><li>놀이 속 과학</li><li>스포츠 속 과학</li><li>문화예술 속 과학</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">미래 사회와 첨단 과학 탐구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>첨단 과학기술</li><li>탐구 산출물</li><li>안전 사항</li><li>연구 윤리</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기</li><li>수학적 사고와 모형을 활용하여 STEM 관련 현상 설명하기</li><li>증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 STEM 상황에 적용⋅설명하기</li><li>과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

@@ -39,13 +39,42 @@ keywords:
 - 기후변화 시나리오에 따라 미래의 생태계 변화가 다양하게 나타난다.
 - 탄소중립 사회 구현을 위해 새로운 탄소 저감 기술의 개발 및 국제사회의 공동 대응 노력과 더불어 민주 시민의 적극적인 참여가 필요하다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 기후와 환경생태의 특성 | 기후요소와 기후인자 · 지구시스템의 상호작용 · 기후와 환경생태의 상호작용 |
-| | 기후위기와 환경생태 변화 | 기후위기 · 해수면 상승 · 극한 기상 현상 · 기후변화 시나리오 · 육상생태계의 변화 · 수생태계의 변화 · 기후변화와 감염병 |
-| | 기후위기에 대응하는 우리의 노력 | 해양생태계의 변화와 복원 · 급격한 환경생태 변화와 대응 노력 · 탄소 저감 과학기술 · 환경생태 보전을 위한 국제적 노력과 시민참여 |
-| **과정⋅기능** | | 자연과 일상생활에서 문제 인식하기 · 문제를 해결하기 위해 변인이 포함된 탐구 설계하기 · 다양한 도구를 활용해 데이터를 수집⋅기술⋅변환하기 · 융합적 사고, 수학적 사고를 바탕으로 데이터를 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 일상생활에 적용⋅설명하기 · 과학적 모형을 생성하고 활용하기 · 과학기술을 이용한 사회 문제 해결 방안 마련하기 · 과학기술 발달에 따른 미래 사회 변화 예측하기 · 타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기 · 다양한 매체를 활용하여 표현하고 협력적 소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학의 사회적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 과학 문제 해결의 학문 간 융합적 접근 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">기후와 환경생태의 특성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>기후요소와 기후인자</li><li>지구시스템의 상호작용</li><li>기후와 환경생태의 상호작용</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">기후위기와 환경생태 변화</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>기후위기</li><li>해수면 상승</li><li>극한 기상 현상</li><li>기후변화 시나리오</li><li>육상생태계의 변화</li><li>수생태계의 변화</li><li>기후변화와 감염병</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">기후위기에 대응하는 우리의 노력</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>해양생태계의 변화와 복원</li><li>급격한 환경생태 변화와 대응 노력</li><li>탄소 저감 과학기술</li><li>환경생태 보전을 위한 국제적 노력과 시민참여</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 문제 인식하기</li><li>문제를 해결하기 위해 변인이 포함된 탐구 설계하기</li><li>다양한 도구를 활용해 데이터를 수집⋅기술⋅변환하기</li><li>융합적 사고, 수학적 사고를 바탕으로 데이터를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 일상생활에 적용⋅설명하기</li><li>과학적 모형을 생성하고 활용하기</li><li>과학기술을 이용한 사회 문제 해결 방안 마련하기</li><li>과학기술 발달에 따른 미래 사회 변화 예측하기</li><li>타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기</li><li>다양한 매체를 활용하여 표현하고 협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학의 사회적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>과학 문제 해결의 학문 간 융합적 접근</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

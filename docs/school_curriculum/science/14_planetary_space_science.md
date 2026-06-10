@@ -40,13 +40,42 @@ keywords:
 - 별의 관측 자료와 증거기반 해석 등을 활용하여 천체의 거리 및 물리량을 결정한다.
 - 은하의 회전 속도를 관측하여 암흑물질이 존재함을 알 수 있고, 우주를 구성하는 기본 천체인 은하는 여러 규모의 집단을 이루고 있음을 추론할 수 있다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 우주탐사와 행성계 | 태양계의 구성 천체 · 우주탐사 · 우주 위험 감시 · 케플러 법칙 · 신기술 망원경 · 외계 행성계 · 생명가능지대 |
-| | 태양과 별의 관측 | 태양 활동 · 태양 및 천체 관측 · 거리지수 · 별자리 · 쌍성계 · 질량-광도 관계 · 변광성 · 초신성 |
-| | 은하와 우주 | 성간 티끌 · 성간 소광 · 세페이드 변광성 · 은하의 회전과 질량 · 암흑 물질 · 전천 탐사 · 우주 거대 구조 |
-| **과정⋅기능** | | 지구와 우주 관련 현상에서 문제를 인식하고 가설을 설정하기 · 변인을 조작적으로 정의하여 탐구 설계하기 · 다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기 · 수학적 사고와 모형을 활용하여 지구와 우주 및 지구계 관련 현상 설명하기 · 증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기 · 결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기 · 과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">우주탐사와 행성계</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>태양계의 구성 천체</li><li>우주탐사</li><li>우주 위험 감시</li><li>케플러 법칙</li><li>신기술 망원경</li><li>외계 행성계</li><li>생명가능지대</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">태양과 별의 관측</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>태양 활동</li><li>태양 및 천체 관측</li><li>거리지수</li><li>별자리</li><li>쌍성계</li><li>질량-광도 관계</li><li>변광성</li><li>초신성</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">은하와 우주</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>성간 티끌</li><li>성간 소광</li><li>세페이드 변광성</li><li>은하의 회전과 질량</li><li>암흑 물질</li><li>전천 탐사</li><li>우주 거대 구조</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구와 우주 관련 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구를 활용하여 정보를 조사⋅수집⋅해석하기</li><li>수학적 사고와 모형을 활용하여 지구와 우주 및 지구계 관련 현상 설명하기</li><li>증거에 기반한 과학적 사고를 통해 자료를 과학적으로 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 융복합 문제 상황에 적용⋅설명하기</li><li>과학적 주장을 다양한 방법으로 소통하고, 의사결정을 위해 과학적 지식 활용하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 나. 성취기준
 

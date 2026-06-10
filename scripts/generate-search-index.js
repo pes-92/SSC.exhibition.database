@@ -47,6 +47,24 @@ function normalizeTag(tag) {
     .trim();
 }
 
+function parseTheoryCategories(text, filePath) {
+  if (getDocType(filePath) !== "theory") return [];
+
+  const categories = [];
+  const pattern = /class\s*=\s*["'][^"']*\btheory-meta\b[^"']*["'][^>]*data-category\s*=\s*["']([^"']+)["']/gi;
+  let match;
+
+  while ((match = pattern.exec(text)) !== null) {
+    match[1]
+      .split(/[,|]/)
+      .map(category => category.trim())
+      .filter(Boolean)
+      .forEach(category => categories.push(category));
+  }
+
+  return Array.from(new Set(categories.length ? categories : ["미분류"]));
+}
+
 function parseTitle(text, filePath) {
   const htmlTitle = text.match(/<h1[^>]*>(.*?)<\/h1>/i);
   if (htmlTitle) return stripMarkup(htmlTitle[1]);
@@ -155,6 +173,7 @@ function buildSearchIndex() {
       title: parseTitle(text, filePath),
       path: makeRoute(filePath),
       type: getDocType(filePath),
+      categories: parseTheoryCategories(text, filePath),
       segments: visibleParts.segments,
       tags: visibleParts.tags
     };

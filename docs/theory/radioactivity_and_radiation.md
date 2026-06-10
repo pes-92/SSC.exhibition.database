@@ -79,3 +79,5 @@
 [^7]: 한국원자력 연구원>소통마당>원자력 이야기>방사선 이야기>방사선의 단위 (https://www.kaeri.re.kr/eng/board?menuId=MENU00458&siteId=null)
 
 [^8]:  한국원자력 연구원>소통마당>원자력 이야기>방사선 이야기>자연방사선과 인공방사선 (https://www.kaeri.re.kr/eng/board?menuId=MENU00459&siteId=null)
+
+<div class="theory-meta" data-category="미분류"></div>

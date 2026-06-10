@@ -41,13 +41,42 @@ keywords:
 - 빛이 중첩, 간섭, 굴절하고 물질과 상호작용하는 성질은 광학 기기, 정밀 측정, 영상 장치 등 다양한 기술에 활용된다.
 - 원자 내의 전자는 양자화된 에너지 준위를 가지며, 이러한 성질은 반도체 소자의 발명으로 응용되어 현대 문명과 산업을 혁신적으로 변화시켰다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 힘과 에너지 | 평형과 안정성 ⋅ 뉴턴 운동 법칙 ⋅ 일-에너지 정리 ⋅ 역학적 에너지 보존 ⋅ 열과 에너지 전환 |
-| | 전기와 자기 | 전기장과 전위차 ⋅ 축전기 ⋅ 자성체 ⋅ 전류의 자기 작용 ⋅ 전자기 유도 |
-| | 빛과 물질 | 중첩과 간섭 ⋅ 굴절 ⋅ 빛과 물질의 이중성 ⋅ 에너지띠와 반도체 ⋅ 광속 불변 |
-| **과정⋅기능** | | 물리 현상에서 문제를 인식하고 가설을 설정하기 ⋅ 변인을 조작적으로 정의하여 탐구 설계하기 ⋅ 다양한 도구와 수학적 사고를 활용하여 정보를 수집⋅기술하기 ⋅ 증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기 ⋅ 결론을 도출하고 자연 현상 및 기술 상황에 적용하여 설명하기 ⋅ 모형을 생성하고 활용하기 ⋅ 다양한 매체를 활용하여 표현하고 의사소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 ⋅ 과학 유용성 ⋅ 자연과 과학에 대한 감수성 ⋅ 과학 창의성 ⋅ 과학 활동의 윤리성 ⋅ 과학 문제 해결에 대한 개방성 ⋅ 안전⋅지속가능 사회에 기여 ⋅ 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">힘과 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>평형과 안정성</li><li>뉴턴 운동 법칙</li><li>일-에너지 정리</li><li>역학적 에너지 보존</li><li>열과 에너지 전환</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">전기와 자기</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>전기장과 전위차</li><li>축전기</li><li>자성체</li><li>전류의 자기 작용</li><li>전자기 유도</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">빛과 물질</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>중첩과 간섭</li><li>굴절</li><li>빛과 물질의 이중성</li><li>에너지띠와 반도체</li><li>광속 불변</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물리 현상에서 문제를 인식하고 가설을 설정하기</li><li>변인을 조작적으로 정의하여 탐구 설계하기</li><li>다양한 도구와 수학적 사고를 활용하여 정보를 수집⋅기술하기</li><li>증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 자연 현상 및 기술 상황에 적용하여 설명하기</li><li>모형을 생성하고 활용하기</li><li>다양한 매체를 활용하여 표현하고 의사소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 나. 성취기준
 

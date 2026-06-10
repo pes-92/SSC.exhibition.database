@@ -23,3 +23,5 @@ $$f_0=f_s\frac{v+v_0}{v-v_s}$$
 [^1]:  톰 잭슨 저, 최진성 역(2015), 물리 – 그림과 사진으로 보는 물리학의 역사, 원더북스 2015
 
 [^2]: 1. Raymond A.Serway, Chris Vuille 저, 이재희, 이원식 역(2017), 핵심일반물리학 9판,  북스힐
+
+<div class="theory-meta" data-category="미분류"></div>

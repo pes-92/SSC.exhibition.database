@@ -49,14 +49,60 @@ keywords:
 - 열은 온도가 높은 곳에서 낮은 곳으로 이동하며, 일상생활에서는 단열 등 다양한 분야에 물질의 열적 성질이나 열의 이동 방식이 이용된다.
 - 빛과 소리는 반사, 굴절, 진동 등 파동의 특성을 가지며, 그 특성은 거울, 렌즈, 악기, 색의 구현 등 편리하고 심미적인 삶에 도움이 된다.
 
-| 범주 | 구분 | 초등학교 3~4학년군 | 초등학교 5~6학년군 | 중학교 1~3학년 |
-| --- | --- | --- | --- | --- |
-| **지식⋅이해** | 힘과 에너지 | 밀기와 당기기<br>무게<br>수평잡기<br>도구의 이용 | 위치의 변화<br>속력<br>속력과 안전 | 힘<br>중력⋅마찰력⋅탄성력⋅부력<br>등속 운동<br>자유 낙하 운동<br>일과 에너지<br>중력에 의한 위치 에너지<br>운동 에너지<br>역학적 에너지 보존 |
-| | 전기와 자기 | 자석과 물체 사이의 힘<br>자석과 자석 사이의 힘<br>자석의 극<br>자석의 이용 | 전기 회로<br>전지의 직렬연결<br>전자석<br>전기 안전 | 전기력⋅대전<br>정전기 유도<br>전압⋅전류<br>옴의 법칙<br>전기 에너지<br>자기력⋅자기장 |
-| | 열 |  | 온도<br>열의 이동<br>단열 | 열평형<br>전도⋅대류⋅복사<br>비열<br>열팽창 |
-| | 빛과 파동 | 소리의 발생<br>소리의 세기<br>소리의 높낮이<br>소리의 전달 | 빛의 직진<br>평면거울에서 빛의 반사<br>빛의 굴절<br>렌즈의 이용 | 시각과 상<br>반사와 굴절<br>거울과 렌즈<br>빛의 합성과 색<br>파동의 발생과 전달<br>파동의 요소와 소리의 특성 |
-| **과정⋅기능** | | 자연과 일상생활에서 운동과 에너지 관련 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>수학적 사고와 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 자연과 일상생활에서 운동과 에너지 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 자연과 일상생활에서 운동과 에너지 관련 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>수학적 사고와 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 자연과 일상생활에서 운동과 에너지 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 자연과 일상생활에서 운동과 에너지와 관련된 현상을 관찰하고 문제를 찾아 정의하고 가설을 설정하기<br>적절한 변인을 포함하여 탐구 설계하기<br>운동과 에너지 사이의 관계를 이끌어내기 위해 자료를 수집하고 이를 그래프로 변환하여 해석하기<br>운동과 에너지와 관련된 다양한 현상을 관찰하여 규칙성을 추리하기<br>모형을 만들어 현상을 설명하거나 예측하기<br>과학적 증거에 기반하여 주장하기 |
-| **가치⋅태도** | | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 3~4학년군</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="4"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">힘과 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>밀기와 당기기</li><li>무게</li><li>수평잡기</li><li>도구의 이용</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>위치의 변화</li><li>속력</li><li>속력과 안전</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>힘</li><li>중력⋅마찰력⋅탄성력⋅부력</li><li>등속 운동</li><li>자유 낙하 운동</li><li>일과 에너지</li><li>중력에 의한 위치 에너지</li><li>운동 에너지</li><li>역학적 에너지 보존</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">전기와 자기</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자석과 물체 사이의 힘</li><li>자석과 자석 사이의 힘</li><li>자석의 극</li><li>자석의 이용</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>전기 회로</li><li>전지의 직렬연결</li><li>전자석</li><li>전기 안전</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>전기력⋅대전</li><li>정전기 유도</li><li>전압⋅전류</li><li>옴의 법칙</li><li>전기 에너지</li><li>자기력⋅자기장</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">열</td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>온도</li><li>열의 이동</li><li>단열</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>열평형</li><li>전도⋅대류⋅복사</li><li>비열</li><li>열팽창</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">빛과 파동</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>소리의 발생</li><li>소리의 세기</li><li>소리의 높낮이</li><li>소리의 전달</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>빛의 직진</li><li>평면거울에서 빛의 반사</li><li>빛의 굴절</li><li>렌즈의 이용</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>시각과 상</li><li>반사와 굴절</li><li>거울과 렌즈</li><li>빛의 합성과 색</li><li>파동의 발생과 전달</li><li>파동의 요소와 소리의 특성</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 운동과 에너지 관련 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>수학적 사고와 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 자연과 일상생활에서 운동과 에너지 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 운동과 에너지 관련 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>수학적 사고와 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 자연과 일상생활에서 운동과 에너지 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 운동과 에너지와 관련된 현상을 관찰하고 문제를 찾아 정의하고 가설을 설정하기</li><li>적절한 변인을 포함하여 탐구 설계하기</li><li>운동과 에너지 사이의 관계를 이끌어내기 위해 자료를 수집하고 이를 그래프로 변환하여 해석하기</li><li>운동과 에너지와 관련된 다양한 현상을 관찰하여 규칙성을 추리하기</li><li>모형을 만들어 현상을 설명하거나 예측하기</li><li>과학적 증거에 기반하여 주장하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (2) 물질
 
@@ -67,13 +113,54 @@ keywords:
 - 물질은 서로 구분할 수 있는 고유한 특성을 가지며, 물질의 특성은 일상생활의 다양한 혼합물 분리에 이용된다.
 - 화학 반응을 통해 물질은 다른 물질로 변하며, 화학 반응의 규칙성은 새로운 물질의 생성 원리가 된다.
 
-| 범주 | 구분 | 초등학교 3~4학년군 | 초등학교 5~6학년군 | 중학교 1~3학년 |
-| --- | --- | --- | --- | --- |
-| **지식⋅이해** | 물질의 성질 | 물체와 물질<br>물질의 세 가지 상태<br>기체의 무게<br>온도와 압력에 따른 기체의 부피 변화<br>물의 상태 변화 | 용액, 용매, 용질<br>용해<br>용액의 진하기<br>혼합물의 분리 | 입자 운동⋅기체의 압력<br>기체의 압력과 부피 관계<br>기체의 온도와 부피 관계<br>물질의 상태와 입자 모형<br>상태 변화와 열에너지<br>밀도, 용해도, 녹는점, 끓는점<br>순물질과 혼합물 |
-| | 물질의 변화 |  | 지시약<br>산성 용액<br>염기성 용액<br>연소 조건<br>연소 생성물 | 화학 변화⋅화학 반응식<br>질량 보존 법칙⋅일정 성분비 법칙<br>기체 반응 법칙<br>화학 반응에서 열에너지의 출입 |
-| | 물질의 구조 |  |  | 원소⋅원자⋅분자⋅이온<br>화합물⋅화학식⋅주기율표 |
-| **과정⋅기능** | | 자연과 일상생활에서 물질과 관련된 문제 인식하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>탐구 결과를 해석하여 결론을 도출하기<br>물질과 관련된 일상생활의 문제를 해결하기 위한 탐구 설계하기<br>결론을 도출하고, 자연과 일상생활에서 물질 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 자연과 일상생활에서 물질과 관련된 문제 인식하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>탐구 결과를 해석하여 결론을 도출하기<br>물질과 관련된 일상생활의 문제를 해결하기 위한 탐구 설계하기<br>결론을 도출하고, 자연과 일상생활에서 물질 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 자연과 일상생활에서 물질과 관련된 현상을 관찰하여 문제를 인식하고 가설을 설정하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>적절한 변인을 포함하여 탐구 설계하기<br>탐구 결과를 해석하여 결론을 도출하기<br>수학적 사고와 디지털 탐구 도구 활용하기<br>변인 간의 관계를 이끌어내기 위해 자료를 수집하고 이를 그래프로 변환하여 해석하기<br>모형을 이용하여 현상을 설명하거나 예측하기<br>과학적 증거에 기반하여 주장하기 |
-| **가치⋅태도** | | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 3~4학년군</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">물질의 성질</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물체와 물질</li><li>물질의 세 가지 상태</li><li>기체의 무게</li><li>온도와 압력에 따른 기체의 부피 변화</li><li>물의 상태 변화</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>용액, 용매, 용질</li><li>용해</li><li>용액의 진하기</li><li>혼합물의 분리</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>입자 운동⋅기체의 압력</li><li>기체의 압력과 부피 관계</li><li>기체의 온도와 부피 관계</li><li>물질의 상태와 입자 모형</li><li>상태 변화와 열에너지</li><li>밀도, 용해도, 녹는점, 끓는점</li><li>순물질과 혼합물</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">물질의 변화</td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지시약</li><li>산성 용액</li><li>염기성 용액</li><li>연소 조건</li><li>연소 생성물</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>화학 변화⋅화학 반응식</li><li>질량 보존 법칙⋅일정 성분비 법칙</li><li>기체 반응 법칙</li><li>화학 반응에서 열에너지의 출입</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">물질의 구조</td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>원소⋅원자⋅분자⋅이온</li><li>화합물⋅화학식⋅주기율표</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 물질과 관련된 문제 인식하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>탐구 결과를 해석하여 결론을 도출하기</li><li>물질과 관련된 일상생활의 문제를 해결하기 위한 탐구 설계하기</li><li>결론을 도출하고, 자연과 일상생활에서 물질 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 물질과 관련된 문제 인식하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>탐구 결과를 해석하여 결론을 도출하기</li><li>물질과 관련된 일상생활의 문제를 해결하기 위한 탐구 설계하기</li><li>결론을 도출하고, 자연과 일상생활에서 물질 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 물질과 관련된 현상을 관찰하여 문제를 인식하고 가설을 설정하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>적절한 변인을 포함하여 탐구 설계하기</li><li>탐구 결과를 해석하여 결론을 도출하기</li><li>수학적 사고와 디지털 탐구 도구 활용하기</li><li>변인 간의 관계를 이끌어내기 위해 자료를 수집하고 이를 그래프로 변환하여 해석하기</li><li>모형을 이용하여 현상을 설명하거나 예측하기</li><li>과학적 증거에 기반하여 주장하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (3) 생명
 
@@ -85,15 +172,66 @@ keywords:
 - 생물은 생식을 통해 자손을 생산하고, 생물의 형질은 유전자에 의해 자손에게 전달되며, 생물의 유전 현상은 사람의 가계에서도 관찰된다.
 - 우리 주변의 다양한 생물은 환경과 영향을 주고받으며 밀접한 관계를 맺고 있으며, 생물다양성은 생태계와 인간의 삶과도 밀접하게 관련되어 있다.
 
-| 범주 | 구분 | 초등학교 3~4학년군 | 초등학교 5~6학년군 | 중학교 1~3학년 |
-| --- | --- | --- | --- | --- |
-| **지식⋅이해** | 생물의 구조와 에너지 | 동물의 생김새<br>식물의 생김새<br>균류, 원생생물, 세균의 특징 | 세포의 구조<br>뼈와 근육의 구조와 기능<br>소화⋅순환⋅호흡⋅배설 기관의 구조와 기능<br>뿌리, 줄기, 잎, 꽃의 구조와 기능<br>증산 작용<br>광합성 산물 | 세포와 생물 구성 단계<br>소화계, 순환계, 호흡계, 배설계의 구조와 기능<br>광합성 과정<br>광합성에 영향을 미치는 요인<br>식물의 호흡과 광합성의 관계 |
-| | 항상성과 몸의 조절 |  |  | 감각 기관의 구조와 기능<br>뉴런과 신경계의 구조와 기능<br>자극에서 반응까지의 경로<br>호르몬에 의한 항상성 유지 |
-| | 생명의 연속성 | 동물의 한살이<br>식물의 한살이<br>식물이 자라는 조건<br>다양한 환경에 사는 동물과 식물<br>특징에 따른 동물 분류<br>특징에 따른 식물 분류 |  | 세포분열<br>동물의 발생 과정<br>유전 형질과 유전 원리<br>변이와 생물다양성<br>종의 개념과 분류 체계<br>생물다양성 보전의 중요성 |
-| | 환경과 생태계 | 생물 요소와 비생물 요소<br>환경오염이 생물에 미치는 영향 | 먹이사슬과 먹이그물 |  |
-| | 생명과학과 인간의 생활 | 생활 속에서 동물과 식물의 이용<br>균류, 원생생물, 세균의 이용 |  | 생명과학과 우리 생활 |
-| **과정⋅기능** | | 자연과 일상생활에서 생명 현상 관련 문제 인식하기<br>생물 특징과 생명 활동 관계 추론하기<br>생물 분류하기<br>문제를 해결하기 위한 탐구 설계하기<br>생물 관찰 및 분류하기<br>자료 조사 및 해석하기<br>모형으로 설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 협력적 소통하기 | 자연과 일상생활에서 생명 현상 관련 문제 인식하기<br>생물 특징과 생명 활동 관계 추론하기<br>생물 분류하기<br>문제를 해결하기 위한 탐구 설계하기<br>생물 관찰 및 분류하기<br>자료 조사 및 해석하기<br>모형으로 설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 협력적 소통하기 | 생명 현상 관찰을 토대로 문제를 인식하고 가설 설정하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>적절한 변인을 포함하여 탐구 설계하기<br>탐구 결과를 해석하여 결론을 도출하기<br>모형을 만들어 생명 현상을 설명하거나 예측하기<br>협력적 소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 3~4학년군</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="5"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">생물의 구조와 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>동물의 생김새</li><li>식물의 생김새</li><li>균류, 원생생물, 세균의 특징</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>세포의 구조</li><li>뼈와 근육의 구조와 기능</li><li>소화⋅순환⋅호흡⋅배설 기관의 구조와 기능</li><li>뿌리, 줄기, 잎, 꽃의 구조와 기능</li><li>증산 작용</li><li>광합성 산물</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>세포와 생물 구성 단계</li><li>소화계, 순환계, 호흡계, 배설계의 구조와 기능</li><li>광합성 과정</li><li>광합성에 영향을 미치는 요인</li><li>식물의 호흡과 광합성의 관계</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">항상성과 몸의 조절</td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>감각 기관의 구조와 기능</li><li>뉴런과 신경계의 구조와 기능</li><li>자극에서 반응까지의 경로</li><li>호르몬에 의한 항상성 유지</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">생명의 연속성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>동물의 한살이</li><li>식물의 한살이</li><li>식물이 자라는 조건</li><li>다양한 환경에 사는 동물과 식물</li><li>특징에 따른 동물 분류</li><li>특징에 따른 식물 분류</li></ul></td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>세포분열</li><li>동물의 발생 과정</li><li>유전 형질과 유전 원리</li><li>변이와 생물다양성</li><li>종의 개념과 분류 체계</li><li>생물다양성 보전의 중요성</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">환경과 생태계</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생물 요소와 비생물 요소</li><li>환경오염이 생물에 미치는 영향</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>먹이사슬과 먹이그물</li></ul></td>
+      <td class="curriculum-elements-cell"></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">생명과학과 인간의 생활</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생활 속에서 동물과 식물의 이용</li><li>균류, 원생생물, 세균의 이용</li></ul></td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생명과학과 우리 생활</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 생명 현상 관련 문제 인식하기</li><li>생물 특징과 생명 활동 관계 추론하기</li><li>생물 분류하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>생물 관찰 및 분류하기</li><li>자료 조사 및 해석하기</li><li>모형으로 설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 협력적 소통하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 생명 현상 관련 문제 인식하기</li><li>생물 특징과 생명 활동 관계 추론하기</li><li>생물 분류하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>생물 관찰 및 분류하기</li><li>자료 조사 및 해석하기</li><li>모형으로 설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 협력적 소통하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생명 현상 관찰을 토대로 문제를 인식하고 가설 설정하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>적절한 변인을 포함하여 탐구 설계하기</li><li>탐구 결과를 해석하여 결론을 도출하기</li><li>모형을 만들어 생명 현상을 설명하거나 예측하기</li><li>협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (4) 지구와 우주
 
@@ -106,13 +244,54 @@ keywords:
 - 태양계는 행성 및 소천체 등으로 구성되며, 생성 과정에 따라 태양계 천체의 표면은 다양하게 나타난다.
 - 별의 표면 온도, 크기, 질량, 거리 등을 결정하는 데 관측 자료와 증거 기반 해석 등이 활용된다.
 
-| 범주 | 구분 | 초등학교 3~4학년군 | 초등학교 5~6학년군 | 중학교 1~3학년 |
-| --- | --- | --- | --- | --- |
-| **지식⋅이해** | 고체 지구 | 강 주변 지형<br>화산 활동<br>화성암<br>지진 대처 방법 | 지층<br>퇴적암<br>화석의 생성<br>과거 생물과 환경 | 지구계<br>광물과 암석<br>암석의 순환<br>풍화 작용<br>판과 대륙이동설<br>지진대와 화산대 |
-| | 유체 지구 | 바다의 특징<br>밀물과 썰물<br>파도<br>바닷가 주변 지형<br>갯벌 보전<br>지구의 대기 | 날씨와 기상 요소<br>이슬, 안개, 구름<br>고기압과 저기압 | 대기와 해양의 층상 구조<br>수권과 수자원<br>염분과 해류<br>온실효과와 지구온난화<br>대기 대순환⋅강수 과정<br>중위도 저기압⋅일기도 |
-| | 천체 | 달의 모양과 표면<br>달의 위상변화<br>태양계 행성<br>별과 별자리<br>태양과 별의 위치 변화 | 지구의 자전과 공전<br>계절별 별자리 변화<br>태양 고도의 일변화<br>계절별 낮의 길이 | 태양계 구성 천체<br>태양 표면과 태양 활동<br>달의 위상변화<br>일식과 월식<br>연주시차⋅별의 특성<br>우리은하⋅우주 팽창⋅우주탐사 |
-| **과정⋅기능** | | 자연과 일상생활에서 지구와 우주 관련 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>수학적 사고, 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 지구와 우주 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 자연과 일상생활에서 지구와 우주 관련 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기<br>수학적 사고, 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 지구와 우주 관련 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 지구와 우주 관련 현상 관찰을 토대로 문제를 인식하고 가설을 설정하기<br>관련 변인을 포함하여 탐구 설계하기<br>지구시스템 구성 요소들의 상호작용에 대한 자료를 조사⋅평가 및 변환하기<br>지구와 우주와 관련된 다양한 현상을 관찰하여 규칙성을 추리하기<br>모형을 만들어 현상을 설명하거나 예측하기<br>과학적 증거에 기반하여 주장하기 |
-| **가치⋅태도** | | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 3~4학년군</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">고체 지구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>강 주변 지형</li><li>화산 활동</li><li>화성암</li><li>지진 대처 방법</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지층</li><li>퇴적암</li><li>화석의 생성</li><li>과거 생물과 환경</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구계</li><li>광물과 암석</li><li>암석의 순환</li><li>풍화 작용</li><li>판과 대륙이동설</li><li>지진대와 화산대</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">유체 지구</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>바다의 특징</li><li>밀물과 썰물</li><li>파도</li><li>바닷가 주변 지형</li><li>갯벌 보전</li><li>지구의 대기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>날씨와 기상 요소</li><li>이슬, 안개, 구름</li><li>고기압과 저기압</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>대기와 해양의 층상 구조</li><li>수권과 수자원</li><li>염분과 해류</li><li>온실효과와 지구온난화</li><li>대기 대순환⋅강수 과정</li><li>중위도 저기압⋅일기도</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">천체</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>달의 모양과 표면</li><li>달의 위상변화</li><li>태양계 행성</li><li>별과 별자리</li><li>태양과 별의 위치 변화</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구의 자전과 공전</li><li>계절별 별자리 변화</li><li>태양 고도의 일변화</li><li>계절별 낮의 길이</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>태양계 구성 천체</li><li>태양 표면과 태양 활동</li><li>달의 위상변화</li><li>일식과 월식</li><li>연주시차⋅별의 특성</li><li>우리은하⋅우주 팽창⋅우주탐사</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 지구와 우주 관련 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>수학적 사고, 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 지구와 우주 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 지구와 우주 관련 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>관찰, 측정, 분류, 예상, 추리 등을 통해 자료를 수집하고 비교⋅분석하기</li><li>수학적 사고, 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 지구와 우주 관련 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>지구와 우주 관련 현상 관찰을 토대로 문제를 인식하고 가설을 설정하기</li><li>관련 변인을 포함하여 탐구 설계하기</li><li>지구시스템 구성 요소들의 상호작용에 대한 자료를 조사⋅평가 및 변환하기</li><li>지구와 우주와 관련된 다양한 현상을 관찰하여 규칙성을 추리하기</li><li>모형을 만들어 현상을 설명하거나 예측하기</li><li>과학적 증거에 기반하여 주장하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### (5) 과학과 사회
 
@@ -122,13 +301,54 @@ keywords:
 - 과학기술은 자원과 에너지 등의 효율적 이용 방안을 제공하여 지속가능한 사회에 기여한다.
 - 과학기술의 발달은 미래 사회의 모습과 직업에 영향을 미치며, 개인은 이러한 미래 사회의 모습과 새로운 진로를 탐색하며 자신의 삶을 준비한다.
 
-| 범주 | 구분 | 초등학교 3~4학년군 | 초등학교 5~6학년군 | 중학교 1~3학년 |
-| --- | --- | --- | --- | --- |
-| **지식⋅이해** | 과학과 안전 | 질병과 예방<br>감염병과 건강한 생활 |  | 재해⋅재난<br>재해⋅재난에 대한 과학적 대처 방안 |
-| | 과학과 지속가능한 사회 | 기후변화 사례<br>기후위기 대응 | 자원의 종류<br>자원의 효율적인 이용<br>지속가능한 에너지 이용 | 과학적 탐구 방법<br>과학기술의 영향<br>과학과 지속가능한 사회 |
-| | 과학과 진로 |  | 진로와 과학의 관련성<br>진로 계획 | 과학 관련 진로와 직업<br>진로 계획 실천 방안 |
-| **과정⋅기능** | | 자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>신뢰성 있는 출처를 활용하여 자료를 수집하고 정리하기<br>융합적 사고와 수학적 사고, 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제 인식하기<br>문제를 해결하기 위한 탐구 설계하기<br>신뢰성 있는 출처를 활용하여 자료를 수집하고 정리하기<br>융합적 사고와 수학적 사고, 컴퓨터 및 모형 활용하기<br>결론을 도출하고, 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기<br>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기 | 자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제를 찾아 정의하고 가설 설정하기<br>문제를 해결하기 위해 변인이 포함된 탐구 설계하기<br>다양한 도구를 활용하여 자료를 수집하고 변환하기<br>융합적 사고, 수학적 사고와 컴퓨터 등을 활용해 자료를 분석⋅평가⋅추론하기<br>결론을 도출하고, 결론의 사회적 가치를 판단하여 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기<br>타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기 |
-| **가치⋅태도** | | 과학의 심미적 가치<br>과학의 사회적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>과학 문제 해결의 학문 간 융합적 접근<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학의 사회적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>과학 문제 해결의 학문 간 융합적 접근<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 | 과학의 심미적 가치<br>과학의 사회적 가치<br>과학 유용성<br>자연과 과학에 대한 감수성<br>과학 창의성<br>과학 활동의 윤리성<br>과학 문제 해결에 대한 개방성<br>과학 문제 해결의 학문 간 융합적 접근<br>안전⋅지속가능 사회에 기여<br>과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">초등학교 3~4학년군</th>
+      <th class="curriculum-elements-header">초등학교 5~6학년군</th>
+      <th class="curriculum-elements-header">중학교 1~3학년</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">과학과 안전</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>질병과 예방</li><li>감염병과 건강한 생활</li></ul></td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>재해⋅재난</li><li>재해⋅재난에 대한 과학적 대처 방안</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">과학과 지속가능한 사회</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>기후변화 사례</li><li>기후위기 대응</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자원의 종류</li><li>자원의 효율적인 이용</li><li>지속가능한 에너지 이용</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학적 탐구 방법</li><li>과학기술의 영향</li><li>과학과 지속가능한 사회</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">과학과 진로</td>
+      <td class="curriculum-elements-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>진로와 과학의 관련성</li><li>진로 계획</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학 관련 진로와 직업</li><li>진로 계획 실천 방안</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>신뢰성 있는 출처를 활용하여 자료를 수집하고 정리하기</li><li>융합적 사고와 수학적 사고, 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제 인식하기</li><li>문제를 해결하기 위한 탐구 설계하기</li><li>신뢰성 있는 출처를 활용하여 자료를 수집하고 정리하기</li><li>융합적 사고와 수학적 사고, 컴퓨터 및 모형 활용하기</li><li>결론을 도출하고, 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기</li><li>자신의 생각과 주장을 과학적 언어를 사용하여 다양한 방식으로 표현하고 공유하기</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>자연과 일상생활에서 과학과 기술 및 사회의 상호작용과 관련된 문제를 찾아 정의하고 가설 설정하기</li><li>문제를 해결하기 위해 변인이 포함된 탐구 설계하기</li><li>다양한 도구를 활용하여 자료를 수집하고 변환하기</li><li>융합적 사고, 수학적 사고와 컴퓨터 등을 활용해 자료를 분석⋅평가⋅추론하기</li><li>결론을 도출하고, 결론의 사회적 가치를 판단하여 과학⋅기술⋅사회의 문제 해결 상황에 적용⋅설명하기</li><li>타당한 근거에 기초하여 자신의 주장을 펼치고 실천적 대안 마련하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학의 사회적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>과학 문제 해결의 학문 간 융합적 접근</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학의 사회적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>과학 문제 해결의 학문 간 융합적 접근</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학의 사회적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>과학 문제 해결의 학문 간 융합적 접근</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 나. 성취기준
 

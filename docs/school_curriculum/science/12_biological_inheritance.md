@@ -43,13 +43,42 @@ keywords:
 - 생명공학기술의 발달로 생명과학 분야가 확장되었으며, 생명공학기술은 인류 복지와 질병 치료에 기여해 왔다.
 - 생명공학기술이 발달하면서 발생할 수 있는 다양한 문제들을 사회적 책임과 생명윤리에 대한 인식을 통해 대처할 수 있다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 유전자와 유전물질 | 유전자와 유전 형질 · 상염색체 유전과 성염색체 유전 · 다유전자유전 · 사람의 유전병 · DNA 구조와 DNA가 유전물질이라는 증거 · 원핵세포와 진핵세포의 유전체의 구성 · DNA 복제 원리 |
-| | 유전자의 발현 | 중심원리 · 전사와 번역 · 원핵생물의 유전자 발현 조절 · 진핵생물의 유전자 발현 조절 · 발생과 세포 분화에서의 유전자 발현 조절 |
-| | 생명공학기술 | 생명공학기술의 발달 · 생명공학기술 관련 분야 · 유전자 변형 생물체의 개발과 이용 · 생명공학기술의 활용과 생명윤리 |
-| **과정⋅기능** | | 생물 특징과 생명 활동 관계 추론하기 · 생명 현상에서 문제 발견 및 가설 설정하기 · 생명과학 탐구 설계, 수행 및 조사하기 · 생명과학적 근거를 기반으로 자료 해석, 분석 및 결론 도출하기 · 모형 생성하여 생명 현상 설명하기 · 다양한 매체를 활용하여 협력적 소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">유전자와 유전물질</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>유전자와 유전 형질</li><li>상염색체 유전과 성염색체 유전</li><li>다유전자유전</li><li>사람의 유전병</li><li>DNA 구조와 DNA가 유전물질이라는 증거</li><li>원핵세포와 진핵세포의 유전체의 구성</li><li>DNA 복제 원리</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">유전자의 발현</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>중심원리</li><li>전사와 번역</li><li>원핵생물의 유전자 발현 조절</li><li>진핵생물의 유전자 발현 조절</li><li>발생과 세포 분화에서의 유전자 발현 조절</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">생명공학기술</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생명공학기술의 발달</li><li>생명공학기술 관련 분야</li><li>유전자 변형 생물체의 개발과 이용</li><li>생명공학기술의 활용과 생명윤리</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생물 특징과 생명 활동 관계 추론하기</li><li>생명 현상에서 문제 발견 및 가설 설정하기</li><li>생명과학 탐구 설계, 수행 및 조사하기</li><li>생명과학적 근거를 기반으로 자료 해석, 분석 및 결론 도출하기</li><li>모형 생성하여 생명 현상 설명하기</li><li>다양한 매체를 활용하여 협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

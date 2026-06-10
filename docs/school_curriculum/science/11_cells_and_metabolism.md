@@ -41,13 +41,42 @@ keywords:
 - 세포에서는 다양한 화학 반응에 의해 세포의 생명 활동이 일어나며, 효소에 의해 조절되는 에너지의 출입을 동반한 물질대사는 건강 유지의 원리가 된다.
 - 세포는 세포호흡을 통해 생명 활동에 필요한 에너지를 얻으며, 광합성을 통해 빛에너지를 화학에너지로 전환하여 합성된 유기물은 우리 생활에 다양하게 이용된다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 세포 | 생명체의 구성 물질 · 세포의 연구방법 · 세포 소기관의 유기적 관계 · 원핵세포와 진핵세포 · 세포막의 물질 수송 |
-| | 물질대사와 에너지 | 물질대사 · ATP · 생명 활동에 필요한 에너지 · 효소의 작용 · 효소의 종류 · 효소의 이용 |
-| | 세포호흡과 광합성 | 미토콘드리아의 구조와 기능 · 세포호흡 과정 · 발효 · 엽록체의 구조와 기능 · 명반응과 탄소 고정반응 · 전자전달계 · 광합성과 세포호흡의 관계 |
-| **과정⋅기능** | | 생물 특징과 생명 활동 관계 추론하기 · 생명 현상에서 문제 발견 및 가설 설정하기 · 생명과학 탐구 설계, 수행 및 조사하기 · 생명과학적 근거를 기반으로 자료 해석, 분석 및 결론 도출하기 · 모형 생성하여 생명 현상 설명하기 · 다양한 매체를 활용하여 협력적 소통하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제 해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="3"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">세포</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생명체의 구성 물질</li><li>세포의 연구방법</li><li>세포 소기관의 유기적 관계</li><li>원핵세포와 진핵세포</li><li>세포막의 물질 수송</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">물질대사와 에너지</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물질대사</li><li>ATP</li><li>생명 활동에 필요한 에너지</li><li>효소의 작용</li><li>효소의 종류</li><li>효소의 이용</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">세포호흡과 광합성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>미토콘드리아의 구조와 기능</li><li>세포호흡 과정</li><li>발효</li><li>엽록체의 구조와 기능</li><li>명반응과 탄소 고정반응</li><li>전자전달계</li><li>광합성과 세포호흡의 관계</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>생물 특징과 생명 활동 관계 추론하기</li><li>생명 현상에서 문제 발견 및 가설 설정하기</li><li>생명과학 탐구 설계, 수행 및 조사하기</li><li>생명과학적 근거를 기반으로 자료 해석, 분석 및 결론 도출하기</li><li>모형 생성하여 생명 현상 설명하기</li><li>다양한 매체를 활용하여 협력적 소통하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제 해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

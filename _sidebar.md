@@ -47,11 +47,23 @@
     <li>
       <span class="hall-menu-item resource-menu-item">교과과정 안내</span>
       <ul class="resource-submenu">
-        <li><span class="hall-menu-item resource-submenu-item">공통교육과정(초등, 중등)</span></li>
-        <li><span class="hall-menu-item resource-submenu-item">선택중심 교육과정(고등)</span></li>
+        <li>
+          <span class="hall-menu-item resource-submenu-item curriculum-subject">수학</span>
+          <ul class="resource-submenu curriculum-submenu">
+            <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/school_curriculum/math_common_list.md" data-route="#/docs/school_curriculum/math_common_list">공통교육과정(초등·중등)</a></li>
+            <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/school_curriculum/math_selection_list.md" data-route="#/docs/school_curriculum/math_selection_list">선택중심 교육과정(고등)</a></li>
+          </ul>
+        </li>
+        <li>
+          <span class="hall-menu-item resource-submenu-item curriculum-subject">과학</span>
+          <ul class="resource-submenu curriculum-submenu">
+            <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/school_curriculum/science_common_list.md" data-route="#/docs/school_curriculum/science_common_list">공통교육과정(초등·중등)</a></li>
+            <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/school_curriculum/science_selection_list.md" data-route="#/docs/school_curriculum/science_selection_list">선택중심 교육과정(고등)</a></li>
+          </ul>
+        </li>
       </ul>
     </li>
-    <li><span class="hall-menu-item resource-menu-item">이론안내</span></li>
+    <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/theory/list.md" data-route="#/docs/theory/list">이론안내</a></li>
   </ul>
 </div>
 

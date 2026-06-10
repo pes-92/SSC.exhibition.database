@@ -50,3 +50,5 @@
 [^5]: 네이버 블로그>한국표준과학연구원 KRISS 공식블로그>KRISS 단위 이야기>[단위 이야기] 모든 전기현상의 기준 ‘기본전하량’ (2019.05.17 14:52) https://m.blog.naver.com/krisspr/221539911427?referrerCode=1
 
 [^6]: 네이버 블로그>한국표준과학연구원 KRISS 공식블로그>KRISS 단위 이야기>[단위 이야기] 볼츠만 상수, 모든 온도를 고정시키다 (2019.06.25 13:38) (https://m.blog.naver.com/krisspr/221570298043?referrerCode=1)
+
+<div class="theory-meta" data-category="미분류"></div>

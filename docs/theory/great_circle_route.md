@@ -23,3 +23,4 @@
 
 [^3]:  2026년 3월 1일 23시 09분 인천공항 이륙, 2026년 3월 1일 16시 56분 로스엔젤레스 착륙한 Korean Air 8203 항공편의 운항기록 https://ko.flightaware.com/live/flight/KAL8203/history/20260301/1411Z/RKSI/KLAX
 
+<div class="theory-meta" data-category="미분류"></div>

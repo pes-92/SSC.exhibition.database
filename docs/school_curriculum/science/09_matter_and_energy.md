@@ -39,14 +39,46 @@ keywords:
 - 물질의 화학 변화 시 출입하는 에너지는 다양한 방식으로 구현되고, 에너지는 우리의 삶의 질을 향상시키는 데 중요하게 활용된다.
 - 화학 반응 속도는 농도, 온도, 촉매 등 다양한 요인에 의해 변하며, 이러한 변화는 환경적, 생물학적, 경제적으로 우리 생활에 영향을 미친다.
 
-| 범주 | 구분 | 내용 요소 |
-| --- | --- | --- |
-| **지식⋅이해** | 물질의 세 가지 상태 | 이상 기체 방정식 · 혼합 기체의 분압과 몰 분율 · 액체의 분자 간 상호작용과 성질 · 입자 배열에 따른 고체의 분류 |
-| | 용액의 성질 | 물의 성질과 수소 결합 · 용액의 농도에 따른 증기압, 끓는점, 어는점 변화 · 삼투현상 |
-| | 화학 변화의 자발성 | 엔탈피와 열화학 반응식 · 헤스 법칙 · 엔트로피 |
-| | 반응 속도 | 반응 속도의 표현과 의미 · 반응 속도식 · 1차 반응의 반감기 · 활성화 에너지 · 반응 속도에 영향을 미치는 요인 |
-| **과정⋅기능** | | 물질 현상에서 문제 발견 및 가설 설정하기 · 변인을 조작적으로 정의하고, 탐구 설계하기 · 디지털 도구와 수학적 사고를 활용하여 정보를 수집⋅변환⋅해석하기 · 증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기 · 결론을 도출하고 물질 현상을 설명⋅예측하기 · 모형을 만들어 물질 현상을 해석하기 · 도출된 결론을 바탕으로 해결 방안에 대한 합리적 의사 결정하기 · 매체를 활용하여 의사소통⋅협업하기 |
-| **가치⋅태도** | | 과학의 심미적 가치 · 과학 유용성 · 자연과 과학에 대한 감수성 · 과학 창의성 · 과학 활동의 윤리성 · 과학 문제해결에 대한 개방성 · 안전⋅지속가능 사회에 기여 · 과학 문화 향유 |
+<table class="curriculum-content-table">
+    <thead>
+    <tr>
+      <th class="curriculum-axis-header" colspan="2">
+        <span class="curriculum-axis-category">범주</span>
+        <span class="curriculum-axis-division">구분</span>
+      </th>
+      <th class="curriculum-elements-header">내용 요소</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <th class="curriculum-category-cell" rowspan="4"><strong>지식⋅이해</strong></th>
+      <td class="curriculum-division-cell">물질의 세 가지 상태</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>이상 기체 방정식</li><li>혼합 기체의 분압과 몰 분율</li><li>액체의 분자 간 상호작용과 성질</li><li>입자 배열에 따른 고체의 분류</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">용액의 성질</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물의 성질과 수소 결합</li><li>용액의 농도에 따른 증기압, 끓는점, 어는점 변화</li><li>삼투현상</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">화학 변화의 자발성</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>엔탈피와 열화학 반응식</li><li>헤스 법칙</li><li>엔트로피</li></ul></td>
+    </tr>
+    <tr>
+      <td class="curriculum-division-cell">반응 속도</td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>반응 속도의 표현과 의미</li><li>반응 속도식</li><li>1차 반응의 반감기</li><li>활성화 에너지</li><li>반응 속도에 영향을 미치는 요인</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>과정⋅기능</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>물질 현상에서 문제 발견 및 가설 설정하기</li><li>변인을 조작적으로 정의하고, 탐구 설계하기</li><li>디지털 도구와 수학적 사고를 활용하여 정보를 수집⋅변환⋅해석하기</li><li>증거와 과학적 사고에 근거하여 자료를 분석⋅평가⋅추론하기</li><li>결론을 도출하고 물질 현상을 설명⋅예측하기</li><li>모형을 만들어 물질 현상을 해석하기</li><li>도출된 결론을 바탕으로 해결 방안에 대한 합리적 의사 결정하기</li><li>매체를 활용하여 의사소통⋅협업하기</li></ul></td>
+    </tr>
+    <tr>
+      <th class="curriculum-category-cell"><strong>가치⋅태도</strong></th>
+      <td class="curriculum-division-cell"></td>
+      <td class="curriculum-elements-cell"><ul class="curriculum-element-list"><li>과학의 심미적 가치</li><li>과학 유용성</li><li>자연과 과학에 대한 감수성</li><li>과학 창의성</li><li>과학 활동의 윤리성</li><li>과학 문제해결에 대한 개방성</li><li>안전⋅지속가능 사회에 기여</li><li>과학 문화 향유</li></ul></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 나. 성취기준
 

@@ -80,3 +80,5 @@ NASA에서는 이 우주복을 아르테미스 프로젝트 뿐 아니라 ISS의
 [^9]: NASA > History > space station 20th spacewalking history (https://www.nasa.gov/history/space-station-20th-spacewalking-history/)
 
 [^10]: NASA > Image > Article > Extravehicular mobility unit EMU (https://www.nasa.gov/image-article/extravehicular-mobility-unit-emu/)
+
+<div class="theory-meta" data-category="미분류"></div>
