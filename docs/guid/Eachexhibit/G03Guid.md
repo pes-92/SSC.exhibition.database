@@ -32,7 +32,7 @@
 - 대상 전시물 : G03 북한산에 사는 동식물
 - 원문 항목 : G-07 북한산에 사는 동식물
 
-<div class="doc-tags" data-tags="전시물별표준해설, 국립공원, 생태환경"></div>
+<div class="doc-tags" data-tags="전시물별표준해설, 국립공원_생태, 생태환경"></div>
 
 ## 해설 본문
 

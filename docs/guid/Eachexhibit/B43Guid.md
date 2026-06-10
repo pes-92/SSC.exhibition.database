@@ -32,7 +32,7 @@
 - 대상 전시물 : B43 달에서도 바람이 불까?
 - 원문 항목 : G-29 달에서도 바람이 불까?
 
-<div class="doc-tags" data-tags="전시물별표준해설, 진공"></div>
+<div class="doc-tags" data-tags="전시물별표준해설, 진공_속_현상"></div>
 
 ## 해설 본문
 

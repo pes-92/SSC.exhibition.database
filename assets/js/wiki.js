@@ -165,7 +165,7 @@ function toggleSearchByRole(role) {
 }
 
 function isSearchAllowed(role) {
-  return role === "junior" || role === "ssc" || role === "admin";
+  return role === "ssc" || role === "admin";
 }
 
 function isHomePath() {
@@ -289,6 +289,8 @@ function makeSearchSnippet(item, query, role) {
 }
 
 function searchIndexItems(rawQuery, role) {
+  if (!isSearchAllowed(role)) return [];
+
   const index = window.searchIndex || [];
   const query = normalizeSearchText(rawQuery);
   if (!query) return [];
@@ -694,9 +696,59 @@ function renderFootnoteList(content, definitions, counts) {
   content.appendChild(section);
 }
 
+function processCurriculumCallouts() {
+  const content = document.querySelector(".markdown-section");
+  if (!content) return;
+
+  const typeLabels = {
+    ABSTRACT: "성취기준",
+    NOTE: "참고"
+  };
+
+  const blockquotes = Array.from(content.querySelectorAll("blockquote")).reverse();
+
+  blockquotes.forEach(blockquote => {
+    if (blockquote.closest(".curriculum-callout")) return;
+
+    const markerParagraph = Array.from(blockquote.children).find(
+      child => child.tagName === "P" && /^\s*\[![A-Z]+\][+-]?/.test(child.textContent)
+    );
+    if (!markerParagraph) return;
+
+    const marker = markerParagraph.textContent.match(/^\s*\[!([A-Z]+)\]([+-])?\s*(.*)$/s);
+    if (!marker) return;
+
+    const [, rawType, foldState, rawTitle] = marker;
+    const type = rawType.toLowerCase();
+    const title = rawTitle.trim() || typeLabels[rawType] || rawType;
+    const details = document.createElement("details");
+    const summary = document.createElement("summary");
+    const body = document.createElement("div");
+
+    details.className = `curriculum-callout curriculum-callout-${type}`;
+    summary.className = "curriculum-callout-title";
+    body.className = "curriculum-callout-body";
+    summary.textContent = title;
+
+    if (foldState !== "-") {
+      details.open = true;
+    }
+
+    Array.from(blockquote.childNodes).forEach(node => {
+      if (node !== markerParagraph) body.appendChild(node);
+    });
+
+    details.appendChild(summary);
+    details.appendChild(body);
+    blockquote.replaceWith(details);
+  });
+}
+
 function processFootnotes() {
   const content = document.querySelector(".markdown-section");
   if (!content) return;
+
+  processCurriculumCallouts();
 
   const definitions = collectFootnoteDefinitions(content);
   if (!definitions.size) return;
@@ -792,20 +844,32 @@ document.addEventListener("click", function (e) {
 
 document.addEventListener("DOMContentLoaded", function () {
   const loginBtn = document.getElementById("loginBtn");
+  const loginForm = document.getElementById("loginForm");
   const logoutBtn = document.getElementById("logoutBtn");
 
+  const submitLogin = async () => {
+    const loginId = document.getElementById("loginId").value.trim();
+    const password = document.getElementById("password").value;
+    const ok = await loginUser(loginId, password);
+
+    if (!ok) {
+      alert("ID 또는 비밀번호를 확인해주세요.");
+      return;
+    }
+
+    await updateAuthUI();
+  };
+
   if (loginBtn) {
-    loginBtn.addEventListener("click", async () => {
-      const loginId = document.getElementById("loginId").value.trim();
-      const password = document.getElementById("password").value;
-      const ok = await loginUser(loginId, password);
+    loginBtn.addEventListener("click", submitLogin);
+  }
 
-      if (!ok) {
-        alert("ID 또는 비밀번호를 확인해주세요.");
-        return;
-      }
+  if (loginForm) {
+    loginForm.addEventListener("keydown", event => {
+      if (event.key !== "Enter" || event.isComposing) return;
 
-      await updateAuthUI();
+      event.preventDefault();
+      submitLogin();
     });
   }
 
@@ -833,6 +897,7 @@ window.addEventListener("hashchange", async () => {
 
 window.updateAuthUI = updateAuthUI;
 window.loadExcerpts = loadExcerpts;
+window.processCurriculumCallouts = processCurriculumCallouts;
 window.processFootnotes = processFootnotes;
 window.goHome = goHome;
 window.goHall = goHall;

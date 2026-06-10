@@ -15,13 +15,13 @@
 화학물질(신경전달물질)을 통해 신호가 전달되는 방식이며, 단방향으로만 신호를 주고받는다.
 신경전달 물질을 분비하는 뉴런(신호를 주는 뉴런)은 시냅스 전뉴런이라고 하고, 신경전달 물질을 받는 뉴런(신호를 받는 뉴런)은 시냅스 후 뉴런이라고 한다.
 이때 주고받는 신경전달의 물질로는 아세틸콜린, 노르에피네프린, 에피네프린, 가바(GABA, Gamma aminobutyric acid), 글루탐산염, 세로토닌, 도파민, 글라이신 등이 있다.[^2]
-![[화학적 시냅스의 구조(출처 위키백과).png]]
+<img src="docs/image/theory/synapse_and_neural_signal_transmission_01_c1988f4c.png" alt="화학적 시냅스의 구조(출처 위키백과)">
 	화학적 시냅스의 구조[^6]
 ### 2.2 전기적 시냅스[^1]
 이온을 직접 전달하는 방식의 시냅스. 활동전위를 이루는 이온 자체가 이동하므로써 신호가 전달된다.
 비교적 단순한 구조이며 양방향으로 신호를 주고받는다.
 
-![[두 가지 시냅스의 구분(출처 및 저작권 nature reviews neuroscience).png]]
+<img src="docs/image/theory/synapse_and_neural_signal_transmission_02_d042b20a.png" alt="두 가지 시냅스의 구분(출처 및 저작권 nature reviews neuroscience)">
 	화학적 시냅스의 신호 전달 방식과 전기적 시냅스의 신호 전달 방식 비교.[^7]
 
 [^1]: 서울아산병원>건강정보>인체정보>시냅스(2026.02.15) https://www.amc.seoul.kr/asan/healthinfo/body/bodyDetail.do?bodyId=76

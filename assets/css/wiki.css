@@ -71,6 +71,73 @@ body {
   height: auto;
 }
 
+.curriculum-callout {
+  --callout-accent: #2f6f62;
+  --callout-bg: #f3f8f6;
+  margin: 16px 0;
+  border: 1px solid #cfdad6;
+  border-left: 4px solid var(--callout-accent);
+  border-radius: 6px;
+  background: var(--callout-bg);
+  overflow: hidden;
+}
+
+.curriculum-callout-abstract {
+  --callout-accent: #315f8c;
+  --callout-bg: #f3f7fb;
+}
+
+.curriculum-callout-note {
+  --callout-accent: #7a6531;
+  --callout-bg: #fbf8ef;
+}
+
+.curriculum-callout-title {
+  position: relative;
+  padding: 11px 42px 11px 14px;
+  color: #24312e;
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+}
+
+.curriculum-callout-title::-webkit-details-marker {
+  display: none;
+}
+
+.curriculum-callout-title::after {
+  content: "⌄";
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  color: var(--callout-accent);
+  font-size: 18px;
+  line-height: 1;
+  transform: translateY(-50%) rotate(0deg);
+  transition: transform 0.18s ease;
+}
+
+.curriculum-callout:not([open]) .curriculum-callout-title::after {
+  transform: translateY(-50%) rotate(-90deg);
+}
+
+.curriculum-callout-body {
+  padding: 2px 14px 13px;
+  border-top: 1px solid #dce4e1;
+}
+
+.curriculum-callout-body > :first-child {
+  margin-top: 10px;
+}
+
+.curriculum-callout-body > :last-child {
+  margin-bottom: 0;
+}
+
+.curriculum-callout-body .curriculum-callout {
+  margin: 12px 0;
+}
+
 .page-nav {
   margin: 24px 0;
   display: flex;

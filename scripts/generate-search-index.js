@@ -63,7 +63,7 @@ function getDocType(filePath) {
   if (relativePath.startsWith(`halls${path.sep}`)) return "exhibit";
   if (relativePath.startsWith(`theory${path.sep}`)) return "theory";
   if (relativePath.startsWith(`guid${path.sep}`)) return "guide";
-  if (relativePath.startsWith(`school_ curriculum${path.sep}`)) return "curriculum";
+  if (relativePath.startsWith(`school_curriculum${path.sep}`)) return "curriculum";
   return "document";
 }
 

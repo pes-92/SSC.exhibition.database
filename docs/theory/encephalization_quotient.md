@@ -1,7 +1,7 @@
 <h1>대뇌화지수</h1>
 
 대뇌화 지수(EQ, Encephalization quotient)는 뇌가 몸무게에서 차지하는 비율을 말한다. 몸무게를 기준으로 예상되는 뇌 무게를 계산한 다음, 실제 뇌 무게로 나눈 수치이다. 여러 가지 산출식이 있는데, 일반적으로 고양이의 EQ를 1로 두어 산출 하는 식(을 많이 사용한다(포유류의 경우)[^1]. (과학관 B전시실의 전시물, '[[halls/B전시실/B29 뇌가 크면 더 똑똑할까(미완)|뇌가 크면 더 똑똑할까?]]'에서도 이 계산식을 기준으로 계산한 값이 적용되어 있다).
-![[고양이가 1일 때의 대뇌화지수 계산식(출처Nutritional Biochemistry 24 (2013) 1183– 1201).png]]
+<img src="docs/image/theory/encephalization_quotient_01_4728f081.png" alt="고양이가 1일 때의 대뇌화지수 계산식(출처Nutritional Biochemistry 24 (2013) 1183– 1201)">
 	다양한 척추 동물의 대뇌화지수 계산 결과. 고양이가 1일 때의 상대값이다.
 	출처 : Journal of Nutritional Biochemistry[^4]
 

@@ -32,7 +32,7 @@
 - 대상 전시물 : G17 건축에서 수학을 찾아보면?
 - 원문 항목 : G-14 건축에서 수학을 찾아보면?
 
-<div class="doc-tags" data-tags="전시물별표준해설, 도형의, 성질"></div>
+<div class="doc-tags" data-tags="전시물별표준해설, 도형의_닮음, 성질"></div>
 
 ## 해설 본문
 

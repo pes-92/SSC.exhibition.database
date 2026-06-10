@@ -32,7 +32,7 @@
 - 대상 전시물 : G06 생태계의 보고 밤섬
 - 원문 항목 : G-05 생태계의 보고 밤섬
 
-<div class="doc-tags" data-tags="전시물별표준해설, 한강, 생태적, 습지"></div>
+<div class="doc-tags" data-tags="전시물별표준해설, 한강, 생태적_가치, 습지"></div>
 
 ## 해설 본문
 

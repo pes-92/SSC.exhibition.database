@@ -32,7 +32,7 @@
 - 대상 전시물 : G21 지진의 이해
 - 원문 항목 : 없음(홈페이지 번호 20번) 지진의 이해
 
-<div class="doc-tags" data-tags="전시물별표준해설, 지진의, 지진파"></div>
+<div class="doc-tags" data-tags="전시물별표준해설, 지진의_크기, 지진파"></div>
 
 ## 해설 본문
 

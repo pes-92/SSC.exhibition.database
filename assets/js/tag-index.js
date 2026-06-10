@@ -23,36 +23,6 @@ window.tagIndex = {
       "type": "guide"
     },
     {
-      "title": "G02 허공에 떠 있는 나무와 물고기의 원리는?",
-      "path": "/docs/halls/green/G02",
-      "type": "exhibit"
-    },
-    {
-      "title": "G03 북한산에 사는 동식물",
-      "path": "/docs/halls/green/G03",
-      "type": "exhibit"
-    },
-    {
-      "title": "G04 개구리를 잡을 수 없는 이유는?",
-      "path": "/docs/halls/green/G04",
-      "type": "exhibit"
-    },
-    {
-      "title": "G05 도시화로 인한 생태계의 위기",
-      "path": "/docs/halls/green/G05",
-      "type": "exhibit"
-    },
-    {
-      "title": "G06 생태계의 보고 밤섬",
-      "path": "/docs/halls/green/G06",
-      "type": "exhibit"
-    },
-    {
-      "title": "G08 도시로 내려온 야생동물",
-      "path": "/docs/halls/green/G08",
-      "type": "exhibit"
-    },
-    {
       "title": "G09 로드킬 현장 디오라마",
       "path": "/docs/halls/green/G09",
       "type": "exhibit"
@@ -919,7 +889,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "옴의": [
+  "옴의_법칙": [
     {
       "title": "B11Guid",
       "path": "/docs/guid/Eachexhibit/B11Guid",
@@ -952,6 +922,11 @@ window.tagIndex = {
       "title": "B12Guid",
       "path": "/docs/guid/Eachexhibit/B12Guid",
       "type": "guide"
+    },
+    {
+      "title": "G04 개구리를 잡을 수 없는 이유는?",
+      "path": "/docs/halls/green/G04",
+      "type": "exhibit"
     }
   ],
   "지하철": [
@@ -961,7 +936,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "경우의": [
+  "경우의_수": [
     {
       "title": "B14Guid",
       "path": "/docs/guid/Eachexhibit/B14Guid",
@@ -1006,7 +981,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "에너지": [
+  "에너지_보존": [
     {
       "title": "B17Guid",
       "path": "/docs/guid/Eachexhibit/B17Guid",
@@ -1020,7 +995,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "각운동량": [
+  "각운동량_보존법칙": [
     {
       "title": "B20Guid",
       "path": "/docs/guid/Eachexhibit/B20Guid",
@@ -1034,14 +1009,14 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "전자기": [
+  "전자기_유도_현상": [
     {
       "title": "B22Guid",
       "path": "/docs/guid/Eachexhibit/B22Guid",
       "type": "guide"
     }
   ],
-  "직류와": [
+  "직류와_교류": [
     {
       "title": "B22Guid",
       "path": "/docs/guid/Eachexhibit/B22Guid",
@@ -1195,6 +1170,11 @@ window.tagIndex = {
       "type": "guide"
     },
     {
+      "title": "G02 허공에 떠 있는 나무와 물고기의 원리는?",
+      "path": "/docs/halls/green/G02",
+      "type": "exhibit"
+    },
+    {
       "title": "O16Guid",
       "path": "/docs/guid/Eachexhibit/O16Guid",
       "type": "guide"
@@ -1226,6 +1206,11 @@ window.tagIndex = {
       "title": "B32Guid",
       "path": "/docs/guid/Eachexhibit/B32Guid",
       "type": "guide"
+    },
+    {
+      "title": "G02 허공에 떠 있는 나무와 물고기의 원리는?",
+      "path": "/docs/halls/green/G02",
+      "type": "exhibit"
     }
   ],
   "구분구적법": [
@@ -1235,36 +1220,28 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "도형의": [
+  "도형의_이동": [
     {
       "title": "B35Guid",
       "path": "/docs/guid/Eachexhibit/B35Guid",
-      "type": "guide"
-    },
-    {
-      "title": "G17Guid",
-      "path": "/docs/guid/Eachexhibit/G17Guid",
       "type": "guide"
     }
   ],
-  "빛의": [
+  "빛의_성질": [
     {
       "title": "B35Guid",
       "path": "/docs/guid/Eachexhibit/B35Guid",
-      "type": "guide"
-    },
-    {
-      "title": "B38Guid",
-      "path": "/docs/guid/Eachexhibit/B38Guid",
-      "type": "guide"
-    },
-    {
-      "title": "B42Guid",
-      "path": "/docs/guid/Eachexhibit/B42Guid",
       "type": "guide"
     }
   ],
   "에라토스테네스": [
+    {
+      "title": "B38Guid",
+      "path": "/docs/guid/Eachexhibit/B38Guid",
+      "type": "guide"
+    }
+  ],
+  "빛의_직진": [
     {
       "title": "B38Guid",
       "path": "/docs/guid/Eachexhibit/B38Guid",
@@ -1341,6 +1318,20 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
+  "빛의_3원색": [
+    {
+      "title": "B42Guid",
+      "path": "/docs/guid/Eachexhibit/B42Guid",
+      "type": "guide"
+    }
+  ],
+  "빛의_합성": [
+    {
+      "title": "B42Guid",
+      "path": "/docs/guid/Eachexhibit/B42Guid",
+      "type": "guide"
+    }
+  ],
   "인지과학": [
     {
       "title": "B42Guid",
@@ -1348,7 +1339,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "진공": [
+  "진공_속_현상": [
     {
       "title": "B43Guid",
       "path": "/docs/guid/Eachexhibit/B43Guid",
@@ -1374,7 +1365,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "생태적": [
+  "생태적_가치": [
     {
       "title": "G01Guid",
       "path": "/docs/guid/Eachexhibit/G01Guid",
@@ -1402,6 +1393,11 @@ window.tagIndex = {
   ],
   "홀로그램": [
     {
+      "title": "G02 허공에 떠 있는 나무와 물고기의 원리는?",
+      "path": "/docs/halls/green/G02",
+      "type": "exhibit"
+    },
+    {
       "title": "G02Guid",
       "path": "/docs/guid/Eachexhibit/G02Guid",
       "type": "guide"
@@ -1414,7 +1410,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "국립공원": [
+  "국립공원_생태": [
     {
       "title": "G03Guid",
       "path": "/docs/guid/Eachexhibit/G03Guid",
@@ -1428,7 +1424,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "북한산에": [
+  "북한산에_사는_동물": [
     {
       "title": "G04Guid",
       "path": "/docs/guid/Eachexhibit/G04Guid",
@@ -1442,7 +1438,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "생태계": [
+  "생태계_변화": [
     {
       "title": "G05Guid",
       "path": "/docs/guid/Eachexhibit/G05Guid",
@@ -1477,35 +1473,35 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "물의": [
+  "물의_정화_과정": [
     {
       "title": "G13Guid",
       "path": "/docs/guid/Eachexhibit/G13Guid",
       "type": "guide"
     }
   ],
-  "화학": [
+  "화학_반응": [
     {
       "title": "G13Guid",
       "path": "/docs/guid/Eachexhibit/G13Guid",
       "type": "guide"
     }
   ],
-  "태풍의": [
+  "태풍의_위력_및_발생원인": [
     {
       "title": "G14Guid",
       "path": "/docs/guid/Eachexhibit/G14Guid",
       "type": "guide"
     }
   ],
-  "베르누이": [
+  "베르누이_정리": [
     {
       "title": "G15Guid",
       "path": "/docs/guid/Eachexhibit/G15Guid",
       "type": "guide"
     }
   ],
-  "공기의": [
+  "공기의_압력": [
     {
       "title": "G15Guid",
       "path": "/docs/guid/Eachexhibit/G15Guid",
@@ -1519,7 +1515,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "벤추리": [
+  "벤추리_효과": [
     {
       "title": "G15Guid",
       "path": "/docs/guid/Eachexhibit/G15Guid",
@@ -1540,7 +1536,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "힘의": [
+  "힘의_분산": [
     {
       "title": "G16Guid",
       "path": "/docs/guid/Eachexhibit/G16Guid",
@@ -1551,6 +1547,13 @@ window.tagIndex = {
     {
       "title": "G16Guid",
       "path": "/docs/guid/Eachexhibit/G16Guid",
+      "type": "guide"
+    }
+  ],
+  "도형의_닮음": [
+    {
+      "title": "G17Guid",
+      "path": "/docs/guid/Eachexhibit/G17Guid",
       "type": "guide"
     }
   ],
@@ -1582,7 +1585,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "열화상": [
+  "열화상_카메라": [
     {
       "title": "G18Guid",
       "path": "/docs/guid/Eachexhibit/G18Guid",
@@ -1624,7 +1627,7 @@ window.tagIndex = {
       "type": "guide"
     }
   ],
-  "지진의": [
+  "지진의_크기": [
     {
       "title": "G21Guid",
       "path": "/docs/guid/Eachexhibit/G21Guid",
@@ -2326,8 +2329,46 @@ window.tagIndex = {
       "type": "exhibit"
     },
     {
+      "title": "G03 북한산에 사는 동식물",
+      "path": "/docs/halls/green/G03",
+      "type": "exhibit"
+    },
+    {
       "title": "G07 생물을 분류하는 방법은?",
       "path": "/docs/halls/green/G07",
+      "type": "exhibit"
+    }
+  ],
+  "반사": [
+    {
+      "title": "G04 개구리를 잡을 수 없는 이유는?",
+      "path": "/docs/halls/green/G04",
+      "type": "exhibit"
+    }
+  ],
+  "환경보호": [
+    {
+      "title": "G05 도시화로 인한 생태계의 위기",
+      "path": "/docs/halls/green/G05",
+      "type": "exhibit"
+    },
+    {
+      "title": "G06 생태계의 보고 밤섬",
+      "path": "/docs/halls/green/G06",
+      "type": "exhibit"
+    }
+  ],
+  "생태계": [
+    {
+      "title": "G05 도시화로 인한 생태계의 위기",
+      "path": "/docs/halls/green/G05",
+      "type": "exhibit"
+    }
+  ],
+  "자연보호": [
+    {
+      "title": "G08 도시로 내려온 야생동물",
+      "path": "/docs/halls/green/G08",
       "type": "exhibit"
     }
   ]
