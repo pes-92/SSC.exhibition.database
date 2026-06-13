@@ -48,26 +48,23 @@ curriculum-table은 전시물과 연결된 학교 교육과정을 학년별로 �
   <caption><b>학교 교육과정</b></caption>
   <thead>
     <tr>
-      <th colspan="2">교육과정 내용체계</th>
+      <th rowspan="2">교육과정 내용체계</th>
       <th colspan="2">해당 교과과정(교과서)</th>
       <th rowspan="2">전시물과 연계성</th>
       <th rowspan="2">비고</th>
     </tr>
     <tr>
-      <th>학년(학군)</th>
-      <th>내용체계</th>
       <th>학년 및 학기</th>
       <th>챕터 및 단원명</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td colspan="6">교과 챕터는 외부 사이트 링크를 통해 해당 단원을 확인한다.</td>
+      <td colspan="5">교과 챕터는 외부 사이트 링크를 통해 해당 단원을 확인한다.</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <th>초등1~2학년</th>
       <td>
       </td>
       <td>1학년 1학기</td>
@@ -80,7 +77,6 @@ curriculum-table은 전시물과 연결된 학교 교육과정을 학년별로 �
       <td>비고</td>
     </tr>
     <tr>
-      <th>초등5~6학년</th>
       <td></td>
       <td></td>
       <td></td>
@@ -88,7 +84,6 @@ curriculum-table은 전시물과 연결된 학교 교육과정을 학년별로 �
       <td></td>
     </tr>
     <tr>
-      <th>중학교</th>
       <td></td>
       <td></td>
       <td></td>
@@ -96,7 +91,6 @@ curriculum-table은 전시물과 연결된 학교 교육과정을 학년별로 �
       <td></td>
     </tr>
     <tr>
-      <th>고등학교(공통)</th>
       <td></td>
       <td></td>
       <td></td>
@@ -104,7 +98,6 @@ curriculum-table은 전시물과 연결된 학교 교육과정을 학년별로 �
       <td></td>
     </tr>
     <tr>
-      <th>고등학교(선택)</th>
       <td></td>
       <td></td>
       <td></td>

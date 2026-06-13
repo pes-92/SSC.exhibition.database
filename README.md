@@ -36,7 +36,7 @@
 
   </ul>
  
- <h2> 위키 개발 진행정도(2026.06.10 업데이트 함)
+ <h2> 위키 개발 진행정도(2026.06.13 업데이트 함)
 
 <table class="curriculum-table">
   <caption><b> 전시물 내용</b></caption>
@@ -127,7 +127,7 @@
     <tr>
       <th>교과과정 안내</th>
       <td> 원문 입력완료, 전시물과 연결중 </td>
-      <td> 사이드바로 들어가서 나오는 원문은 보셔도 됩니다. <br><sapn style="color:red">전시물 내의 정보는 정확하지 않음 주의!!</span> </td>      
+      <td> 사이드바로 들어가서 나오는 원문은 보셔도 됩니다. <br><sapn style="color:red">전시물 내의 정보는 정확하지 않음 주의!!</span> </td> 
     </tr>
   </tbody>
 </table>

@@ -757,6 +757,206 @@ function processFootnotes() {
   renderFootnoteList(content, definitions, counts);
 }
 
+const curriculumTargetStorageKey = "pendingCurriculumTarget";
+
+function normalizeCurriculumTarget(value) {
+  return String(value || "")
+    .replace(/&gt;/gi, ">")
+    .replace(/^[\s([]*\d+[\s)\].-]*/g, "")
+    .replace(/[<>《》"'‘’“”]/g, "")
+    .replace(/[⋅·]/g, "·")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLocaleLowerCase("ko");
+}
+
+function getCurriculumTargetFromLink(link) {
+  const parts = String(link.textContent || "")
+    .split(">")
+    .map(part => part.replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+
+  return {
+    target: parts[parts.length - 1] || "",
+    context: parts.length > 1 ? parts[parts.length - 2] : ""
+  };
+}
+
+function getCurrentDocsifyRoute() {
+  return (location.hash || "#/").split("?")[0];
+}
+
+function savePendingCurriculumTarget(route, target, context) {
+  sessionStorage.setItem(curriculumTargetStorageKey, JSON.stringify({
+    route: route.split("?")[0],
+    target,
+    context,
+    createdAt: Date.now()
+  }));
+}
+
+function getPendingCurriculumTarget() {
+  const raw = sessionStorage.getItem(curriculumTargetStorageKey);
+  if (!raw) return null;
+
+  try {
+    const pending = JSON.parse(raw);
+    if (!pending.route || !pending.target || Date.now() - pending.createdAt > 30000) {
+      sessionStorage.removeItem(curriculumTargetStorageKey);
+      return null;
+    }
+    return pending;
+  } catch (error) {
+    sessionStorage.removeItem(curriculumTargetStorageKey);
+    return null;
+  }
+}
+
+function getCurriculumTargetCandidates(content) {
+  const selectors = [
+    ".curriculum-callout-abstract > .curriculum-callout-title",
+    ".curriculum-division-cell",
+    ".curriculum-elements-cell li",
+    ".curriculum-callout-title",
+    "h2, h3, h4, h5, h6"
+  ];
+
+  return selectors.flatMap((selector, priority) =>
+    Array.from(content.querySelectorAll(selector)).map(element => ({
+      element,
+      priority,
+      text: normalizeCurriculumTarget(element.textContent)
+    }))
+  );
+}
+
+function getCurriculumContextCandidates(content) {
+  return Array.from(content.querySelectorAll(
+    ".curriculum-callout-abstract > .curriculum-callout-title, h2, h3, h4, h5, h6"
+  ));
+}
+
+function getCurriculumContextScore(candidate, context, contextCandidates) {
+  if (!context) return 0;
+
+  const ownDetails = candidate.element.closest(".curriculum-callout-abstract");
+  const ownSummary = ownDetails && ownDetails.querySelector(":scope > .curriculum-callout-title");
+  if (ownSummary && normalizeCurriculumTarget(ownSummary.textContent) === context) return 100;
+
+  let nearestMatch = null;
+  contextCandidates.forEach(element => {
+    if (normalizeCurriculumTarget(element.textContent) !== context) return;
+    const position = element.compareDocumentPosition(candidate.element);
+    if (position & Node.DOCUMENT_POSITION_FOLLOWING) nearestMatch = element;
+  });
+
+  return nearestMatch ? 80 : 0;
+}
+
+function findCurriculumTarget(content, rawTarget, rawContext) {
+  const target = normalizeCurriculumTarget(rawTarget);
+  const context = normalizeCurriculumTarget(rawContext);
+  if (!target) return null;
+
+  const candidates = getCurriculumTargetCandidates(content);
+  const contextCandidates = getCurriculumContextCandidates(content);
+  const matches = candidates
+    .map(candidate => {
+      let matchScore = 0;
+      if (candidate.text === target) {
+        matchScore = 300;
+      } else if (candidate.text.startsWith(target) || target.startsWith(candidate.text)) {
+        matchScore = 220;
+      } else if (candidate.text.includes(target) || target.includes(candidate.text)) {
+        matchScore = 160;
+      }
+
+      return {
+        ...candidate,
+        score: matchScore +
+          getCurriculumContextScore(candidate, context, contextCandidates) -
+          candidate.priority * 5 -
+          Math.abs(candidate.text.length - target.length) * 0.1
+      };
+    })
+    .filter(candidate => candidate.text.length >= 2 && candidate.score > 0)
+    .sort((a, b) => {
+      if (b.score !== a.score) return b.score - a.score;
+      if (a.priority !== b.priority) return a.priority - b.priority;
+      return a.text.length - b.text.length;
+    });
+
+  if (matches.length) return matches[0].element;
+
+  return contextCandidates.find(
+    element => normalizeCurriculumTarget(element.textContent) === context
+  ) || null;
+}
+
+function openCurriculumTarget(target) {
+  if (target.matches("summary")) {
+    const ownDetails = target.parentElement;
+    if (ownDetails && ownDetails.matches("details")) ownDetails.open = true;
+  }
+
+  let parent = target.parentElement;
+  while (parent) {
+    if (parent.matches("details")) parent.open = true;
+    parent = parent.parentElement;
+  }
+}
+
+function highlightCurriculumTarget(target) {
+  document.querySelectorAll(".curriculum-target-highlight").forEach(element => {
+    element.classList.remove("curriculum-target-highlight");
+  });
+
+  const highlightTarget = target.closest(".curriculum-callout, tr") || target;
+  highlightTarget.classList.add("curriculum-target-highlight");
+  setTimeout(() => highlightTarget.classList.remove("curriculum-target-highlight"), 2600);
+}
+
+function scrollToPendingCurriculumTarget() {
+  const pending = getPendingCurriculumTarget();
+  if (!pending || pending.route !== getCurrentDocsifyRoute()) return false;
+
+  const content = document.querySelector(".markdown-section");
+  if (!content) return false;
+
+  const target = findCurriculumTarget(content, pending.target, pending.context);
+  if (!target) return false;
+
+  sessionStorage.removeItem(curriculumTargetStorageKey);
+  openCurriculumTarget(target);
+  highlightCurriculumTarget(target);
+  requestAnimationFrame(() => {
+    target.scrollIntoView({ behavior: "smooth", block: "center" });
+  });
+  return true;
+}
+
+function routeCurriculumLink(e) {
+  if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return false;
+
+  const link = e.target.closest("a.curriculum-link-button:not(.external)");
+  if (!link) return false;
+
+  const route = link.getAttribute("href");
+  const targetInfo = getCurriculumTargetFromLink(link);
+  if (!route || !route.startsWith("#/") || !targetInfo.target) return false;
+
+  e.preventDefault();
+  savePendingCurriculumTarget(route, targetInfo.target, targetInfo.context);
+
+  if (getCurrentDocsifyRoute() === route.split("?")[0]) {
+    processCurriculumCallouts();
+    scrollToPendingCurriculumTarget();
+  } else {
+    location.hash = route.slice(1);
+  }
+  return true;
+}
+
 function closeFootnotePopups() {
   document.querySelectorAll(".footnote-popup").forEach(el => el.remove());
 }
@@ -810,6 +1010,7 @@ function routeSidebarMdLink(e) {
 }
 
 document.addEventListener("click", routeSidebarMdLink, true);
+document.addEventListener("click", routeCurriculumLink, true);
 
 document.addEventListener("click", function (e) {
   const jump = e.target.closest(".footnote-popup-jump, .footnote-backref");
@@ -899,6 +1100,7 @@ window.updateAuthUI = updateAuthUI;
 window.loadExcerpts = loadExcerpts;
 window.processCurriculumCallouts = processCurriculumCallouts;
 window.processFootnotes = processFootnotes;
+window.scrollToPendingCurriculumTarget = scrollToPendingCurriculumTarget;
 window.goHome = goHome;
 window.goHall = goHall;
 window.goBack = goBack;

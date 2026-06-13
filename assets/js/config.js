@@ -19,6 +19,9 @@ window.$docsify = {
           if (window.processFootnotes) {
             window.processFootnotes();
           }
+          if (window.scrollToPendingCurriculumTarget) {
+            window.scrollToPendingCurriculumTarget();
+          }
           if (window.renderTheoryLinks) {
             window.renderTheoryLinks();
           }
