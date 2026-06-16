@@ -46,15 +46,15 @@
   여러분보다 먼저 즐거운 여행을 다녀왔던 아이, 시립이의 일기를 보고 숨은 과학 이야기를 찾아볼까요?<br></p>
 </section>
 
-### G09 도시의 기온이 더 높은 이유는 무엇일까?
+### G18 도시의 기온이 더 높은 이유는 무엇일까?
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G09">
-      🔗 G09 전시물 보러 가기
+    <a class="exhibit-link-button" href="#/docs/halls/green/G18">
+      🔗 G18 전시물 보러 가기
     </a>
   </div>
 
-<section id="G09" class="scenario-section">
+<section id="G18" class="scenario-section">
   <p>자, 여기 시립이의 첫 번째 일기입니다.<br>
   7월임에도 너무 더워서 잘 수가 없었다고 하네요. 밤인데도 기온이 25도가 넘는 것을 우리는 열대야라고 부릅니다. 25도를 기준으로 하는 이유는 25도가 넘을 정도로 더우면 사람이 7시간도 자지 못하기 때문이에요. 7시간은 사람이 건강하게 살기 위한 최소한의 수면시간인데, 잠을 잘 못자면 건강도 나빠지겠죠?<br>
   짜증도 나고 건강도 해치는 열대야를 피하기 위해서는 시원한 강바람이 부는 한강 나들이가 최고죠.<br>
@@ -67,15 +67,15 @@
   저쪽 물고기들 중에 찾아볼까요?<br></p>
 </section>
 
-### G03 한강에는 어떤 동식물이 살까?
+### G01 한강에는 어떤 동식물이 살까?
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G03">
-      🔗 G03 전시물 보러 가기
+    <a class="exhibit-link-button" href="#/docs/halls/green/G01">
+      🔗 G01 전시물 보러 가기
     </a>
   </div>
 
-<section id="G03" class="scenario-section">
+<section id="G01" class="scenario-section">
   <p>여기 있네요. 까맣고 수염이 달린 물고기. 여기 보니 이름은 메기라고 하네요.<br>
   메기는 물이 조금 더러워도 잘 살다보니 우리나라 곳곳에 아주 많이 살아요. 그래서 많은 사람들이 한 번 즈음 들어 봤을만한 물고기죠.<br>
   메기는 한강에서 많이 살고 있는 물고기랍니다. 이렇게 한 지역에서 가장 많은 종을 우점종이라고 해요.<br>
@@ -90,15 +90,15 @@
   우리도 그럼 귀신의 집을 한 번 가볼까요?<br></p>
 </section>
 
-### O24 실험실 거울의 비밀은?
+### O02 실험실 거울의 비밀은?
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O24">
-      🔗 O24 전시물 보러 가기
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O02">
+      🔗 O02 전시물 보러 가기
     </a>
   </div>
 
-<section id="O24" class="scenario-section">
+<section id="O02" class="scenario-section">
   <p>시립이 뿐만 아니라 여름에 무서운 걸 찾는 사람이 아주 많습니다. 그래서 넷플릭스에도 최근에는 공포영화가 추천 영상으로 많이 나오고 있어요.<br>
   여름만 되면 사람들이 공포물을 찾는 것은 부교감신경 때문인데요, 우리가 긴장했다가 안심하고 풀어지는 그 순간에는 부교감신경이 활성화 됩니다. 이 신경의 역할은 체온을 낮춰주는 것이 있어요. 그래서 공포를 느꼈다가 안심하게 되면 우리는 시원함을 느끼는 겁니다.<br>
   그래서 저희가 공포해설도 들어보실 수 있도록 저쪽에 QR 북이 비치되어 있으니 있다가 한번 들어보시기 바랍니다.<br>
@@ -119,15 +119,15 @@
   다음 전시물로 가봅시다.<br></p>
 </section>
 
-### O21 내 눈에 보이는 색은 무엇일까?
+### O16 내 눈에 보이는 색은 무엇일까?
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O21">
-      🔗 O21 전시물 보러 가기
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O16">
+      🔗 O16 전시물 보러 가기
     </a>
   </div>
 
-<section id="O21" class="scenario-section">
+<section id="O16" class="scenario-section">
   <p>자, 시립이가 본 유령의 비밀을 알기 위해 그림을 하나 보여줄게요.<br>
   이 그림은 어떤 그림일까요?<br>
   바로~! 라면을 훔쳐 먹다 잡힌 고양이랍니다.<br>
@@ -146,7 +146,7 @@
   시립이는 현명하게도 여행지를 호주로 골랐네요.<br></p>
 </section>
 
-### B33 자전거는 왜 넘어지지 않을까?
+### B20 자전거는 왜 넘어지지 않을까?
 
   <div class="section-link-box">
     <a class="exhibit-link-button" href="#/docs/halls/blue/B20">
@@ -173,15 +173,15 @@
   여러 가지 방법들이 있긴 하죠.<br></p>
 </section>
 
-### B30 멀미하는 이유는?
+### B31 멀미하는 이유는?
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/blue/B38">
-      🔗 B38 전시물 보러 가기
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B31">
+      🔗 B31 전시물 보러 가기
     </a>
   </div>
 
-<section id="B38" class="scenario-section">
+<section id="B31" class="scenario-section">
   <p>자, 드디어 우리가 탈 배에 도착했는데, 배를 타기 전에 약속할 것이 두 개 있어요. 하나, 절대 뛰지 않아요. 둘, 여기 손잡이를 잘 잡고 있어야 해요. 약속할 수 있죠?<br>
   자 그럼 들어가 봅시다!<br>
   이 배는 흔들리지 않는데도 좀 어지럽지 않나요? 여기 보니까 이상하게 공이 위로 가있네요. 이렇게 아래로 내려 봐도, 다시 위로 굴러가네요. 정말 이상하죠?<br>

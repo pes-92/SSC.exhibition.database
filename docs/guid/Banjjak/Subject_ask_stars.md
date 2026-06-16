@@ -48,7 +48,7 @@
   간의는 현재 복원되어 경기도 여주의 세종대왕역사문화관에서도 만날 수 있고 대전에 있는 천문연구원에서도 만날 수 있습니다.<br></p>
 </section>
 
-### B32 조선시대에는 하늘에서 일어나는 현상을 어떻게 관찰하였을까?
+### B37 조선시대에는 하늘에서 일어나는 현상을 어떻게 관찰하였을까?
 
   <div class="section-link-box">
     <a class="exhibit-link-button" href="#/docs/halls/blue/B37">

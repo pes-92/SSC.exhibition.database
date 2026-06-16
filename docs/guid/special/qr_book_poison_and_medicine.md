@@ -88,15 +88,15 @@
   <p>궁금하시다면 다음 전시물에서 QR코드를 찍어주세요.</p>
 </section>
 
-### O06
+### O13
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O06">
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O13">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="O06" class="scenario-section">
+<section id="O13" class="scenario-section">
   <p>우리에게 금지된 것들, 왜 안 된다고 하는 걸까?</p>
   <p>커피나 초콜릿, 차 속에 들어있는 카페인, 술 속의 알코올, 그리고 담배 안의 니코틴. 모두 미성년자에게 권하지 않는 유해 물질들입니다. 이 물질들의 공통점은 우리 몸의 신경계통에 작용한다는 점입니다. 특히 알코올은 뇌세포의 연결을 차단하기도 하고, 니코틴은 신경전달물질을 감지하는 수용체에 영향을 끼쳐 뇌가 성장하는 것을 방해합니다. 이처럼 뇌가 한창 자라고 있는 미성년자들에게는 아주 치명적인 부작용을 일으킬 수 있어요.</p>
   <p>그렇다면 이 물질들의 독성은 어느 정도일까요?</p>

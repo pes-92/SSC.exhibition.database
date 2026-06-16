@@ -39,30 +39,30 @@
 
 ## 해설 본문
 
-### G05
+### G03
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G05">
+    <a class="exhibit-link-button" href="#/docs/halls/green/G03">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="G05" class="scenario-section">
+<section id="G03" class="scenario-section">
   <p>북한산에 사는 동식물</p>
   <p>가장 먼저 만나 볼 전시물은 자연과 조화를 이루는 도시생태, ‘공존’이라는 테마의 Green 전시실의 &lt;북한산에 사는 동식물&gt;입니다. 북한산은 전 세계적으로도 보기 드물게 수도에 위치한 국립공원이자 서울에서 가장 많은 동식물이 서식하고 있는데 무려 1,300여 종의 동식물이 공존하고 있으며 해마다 새로운 종들이 발견되고 있는 곳이기도 합니다.</p>
   <p>AR 기술을 이용하여 북한산에 서식하는 야생동물들의 생활을 함께 살펴볼 수 있습니다. 함께 올라가서 북한산의 생물들과 국제적으로는 멸종 위기종으로 알려져 있지만 우리나라와 중국에서만 토착종으로 서식하며 중국에는 1만여 마리, 우리나라는 그 10배인 10만 마리 이상이 살고 있는 고라니를 만나 보겠습니다. 중국보다 우리나라의 면적이 훨씬 작은데도 불구하고 고라니 개체수가 10배나 많은 이유는 우리나라에는 고라니를 잡아먹을 수 있는 포식자들이 거의 멸종되었기 때문입니다.</p>
   <p>생태계 속 균형이 잘 유지되었다면 우리나라에만 고라니의 개체수가 많아지진 않았을 것 같아요. 그리고 아무리 많은 개체수를 가지고 있는 종이라도 인간의 마음에 따라서 행동에 따라서 미래가  밝을 수도, 밝지 않을 수도 있겠죠. (ex: ‘여행비둘기’라는 새 북미 쪽에 약 50억 마리가 있었으나 한순간에 멸종했는데 20년이 걸리지 않았음 )고라니뿐만 아니라 다양한 동·식물과 인간이 서로 공존하는 생태계가 만들어질 수 있도록 모두가 노력해야겠습니다.</p>
 </section>
 
-### G25
+### G04
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G25">
+    <a class="exhibit-link-button" href="#/docs/halls/green/G04">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="G25" class="scenario-section">
+<section id="G04" class="scenario-section">
   <p>개구리를 잡을 수 없는 이유는?</p>
   <p>(사진을 보여주며) ‘황금 들판, 가을 들녘’이라는 말을 들은 적이 있나요? 이런 넓은 평야의 논은 야생동물의 서식지로 친환경 논에서 벼를 기르게 되면 멸종 위기의 야생생물 중 양서류인 (사진 보여주며) 금개구리와 맹꽁이와 함께 여러 멸종 위기의 조류 또한 볼 수 있습니다.</p>
   <p>그런데 한국에는 들 지형이 풍부하지 않습니다. 특히 수도권에는 더더욱 말이죠. 심지어는 원래 있던 들판들도 도시개발로 인해 더욱 줄어들고 있는 상황입니다.</p>
@@ -74,15 +74,15 @@
   <p>함께 ‘공존’할 수 있는 방법을 끊임없이 고민해봐야겠습니다.</p>
 </section>
 
-### O07
+### O14
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O07">
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O14">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="O07" class="scenario-section">
+<section id="O14" class="scenario-section">
   <p>눈이 침침한 이유는?</p>
   <p>공존을 한다는 것은 결국엔 함께 생존한다는 뜻인데요, 이번에는 ‘생존’이라는 테마의 O 전시실로 이동해 보겠습니다.</p>
   <p>인간을 포함한 세상의 모든 생물은 다양한 감각기관을 진화시키며 생존을 해왔습니다. 예를 들어 개는 사람보다 많은 색깔을 구분할 수는 없지만, 후각과 청각이 발달해 먹이를 찾거나 위험을 더 빨리 감지하여 생존했습니다. 그렇다면 우리 사람은 어떤 감각들을 이용해 생존해 왔을까요? 시각, 청각, 후각, 미각, 촉각 ‘오감’을 통해 자극받고 반응하며 세상을 느끼고 있습니다. 인간은 그 중 ‘시각’ 정보에 80%나 의지하고 있죠. 또한 눈은 인간의 장기 중 유일하게 외부로 돌출되어있는 곳이기도 하고 만질 수 있는 장기이기도 하고 가장 예민한 곳이기도 합니다. 그래서 인간의 생애주기에 따라 노화에 의해 다양한 질병이 발병되는 기관이기도 하죠.</p>
@@ -90,16 +90,16 @@
   <p>어떤 환경에서 사느냐에 따라 눈이 다르게 진화했듯이 귀도 다르게 진화했는데요.</p>
 </section>
 
-### O11
+### O24
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O11">
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O24">
       🔗 전시물 보러 가기
     </a>
   </div>
 
 
-<section id="O11" class="scenario-section">
+<section id="O24" class="scenario-section">
   <p>내가 들을 수 있는 주파수는?</p>
   <p>돌고래나 박쥐 같은 경우에는 생존을 위한 의사소통 수단으로 주파수가 큰 초음파를 이용합니다.</p>
   <p>사람은 20,000Hz 이상의 높은 초음파 소리는 들을 수가 없으며 반대로 20Hz 미만의 너무 낮은 주파수의 음도 듣지 못합니다. 왜 그런 걸까요? 눈 속의 다양한 세포들이 각각의 역할이 있듯이 귀에도 세포들이 있습니다.</p>
@@ -110,15 +110,15 @@
   <p>이번에는 ‘연결’이라는 테마의 Blue 전시실로 이동해 보겠습니다.</p>
 </section>
 
-### B17
+### B16
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/blue/B17">
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B16">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="B17" class="scenario-section">
+<section id="B16" class="scenario-section">
   <p>교통카드에는 어떻게 정보가 담기고 전달될까?</p>
   <p>과학기술은 지금도 계속 발전하고 있으며 과거에는 상상도 못 했던 세상으로 연결해주고 있습니다. 특히 도시를 구석구석을 연결해주는 신경망 중 하나로 대중교통을 꼽을 수 있는데요.</p>
   <p>자, 이 얇고 납작한 교통카드 안에는 건전지가 들어있을까요, 없을까요? 정답은 ‘없다.’입니다.</p>
@@ -129,15 +129,15 @@
   <p>그럼 이번엔 거울 반사를 이용한 대칭의 최종 보스! 데칼코마니 전시물로 함께 이동해 보겠습니다.</p>
 </section>
 
-### B39
+### B24
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/blue/B39">
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B24">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="B39" class="scenario-section">
+<section id="B24" class="scenario-section">
   <p>춤추는 데칼코마니</p>
   <p>바로, &lt;춤추는 데칼코마니&gt;라고 하는 대형 거울 전시물인데요. 아 참고로 거울은 춤추지 않아요. 춤은 우리가 추는 거예요.</p>
   <p>거울은 입사각과 같은 크기의 반사각으로 빛을 반사하는 성질을 가지고 있습니다. 그래서 거울 앞에 정면으로 서면 나와 똑같이 생겼지만, 오른쪽과 왼쪽이 뒤바뀐 모습을 볼 수 있습니다. (패드 등, 활용 몇몇 친구들에게 거울에 비췄을 때 바로 보이게 본인의 이름을 적어달라고 한 뒤 확인해본다.)</p>

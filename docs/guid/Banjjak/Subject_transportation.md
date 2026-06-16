@@ -45,7 +45,7 @@
   자 떠나자 뛰뛰빵빵!<br></p>
 </section>
 
-### B33 자전거는 왜 넘어지지 않을까?
+### B20 자전거는 왜 넘어지지 않을까?
 
   <div class="section-link-box">
     <a class="exhibit-link-button" href="#/docs/halls/blue/B20">
@@ -62,7 +62,7 @@
   내가 넘어지려고 한다? 넘어지는 방향의 반대 방향으로 핸들을 꺾으면 쉽게 넘어져버려요. 쓰러지는 방향으로 핸들을 꺾으면 원심력에 의해 자전거 본체는 반대로 기울어져 균형을 잡을 수 있습니다.<br></p>
 </section>
 
-### B17 교통카드에는 어떻게 정보가 담기고 전달될까?
+### B16 교통카드에는 어떻게 정보가 담기고 전달될까?
 
   <div class="section-link-box">
     <a class="exhibit-link-button" href="#/docs/halls/blue/B16">
@@ -98,7 +98,7 @@
   지하철 노선도는요, 도넛과 찻잔을 동일하게 보는 이론, 위상수학의 원리를 이용해 영국의 헨리백이라는 사람이 고안해냈습니다. 당시 실제로 지도상에 지하철 노선을 옮겨 놓았기 때문에 한 눈에 역을 알아보기 어려웠습니다. 그래서 말랑한 찰흙으로 만든 찻잔을 늘리기만 하면 도넛과 같은 모양이 완성됩니다. 위상동형. 위상수학 안에서는 똑같은 모양으로 봅니다.<br></p>
 </section>
 
-### B11 지하철은 어떻게 움직일까?
+### B22 지하철은 어떻게 움직일까?
 
   <div class="section-link-box">
     <a class="exhibit-link-button" href="#/docs/halls/blue/B22">
@@ -116,7 +116,7 @@
   이 구간을 전기가 죽었다. 해서 사구간, 데드섹션이라고 불렀지만 ‘죽음’이라는 언어가 들어가는 것이 좋지 않아 지금은 절연구간이라고 부르고 있습니다.<br></p>
 </section>
 
-### B12 비행기는 어떻게 하늘을 날까?
+### B23 비행기는 어떻게 하늘을 날까?
 
   <div class="section-link-box">
     <a class="exhibit-link-button" href="#/docs/halls/blue/B23">

@@ -47,15 +47,15 @@
   <p>이번 시간에는 &lt;영화 속에 나오는 과학 요소&gt;를 &lt;서울시립과학관 전시물&gt;을 통해 들여다보고 진실인지 거짓인지 알아보는 시간을 가지겠습니다. 어떤 영화와 과학이 우리를 기다리고 있을지 궁금하시다면 첫 번째 전시물 앞에서 QR코드를 찍어주세요.</p>
 </section>
 
-### G26
+### B43
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G26">
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B43">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="G26" class="scenario-section">
+<section id="B43" class="scenario-section">
   <p>달에서도 바람이 불까?</p>
   <p>첫 번째 영화 ‘마션’입니다. 화성에 도착한 탐사대원들에게 강한 폭풍이 몰아칩니다. 그렇다면 정말 화성에서 이러한 강한 위력의 바람이 불 수 있을까요? G전시실에 나가있는 미스터용을 만나보시죠.</p>
   <p>현장에 나와 있는 미스터용입니다. 이 버튼을 누르면 유리 돔 속 공기가 빠져나가며 달의 대기와 비슷한 진공 상태가 됩니다. 이 안에 있는 깃발과 스피커, 레이저에선 어떤 변화가 생길까요?</p>
@@ -65,15 +65,15 @@
   <p>이제 환상적인 마술쇼를 그려낸 영화, ‘나우유씨미’의 진실도 확인해볼까요? 다음 전시물로 이동해 QR을 찍어주세요.</p>
 </section>
 
-### B22
+### B32
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/blue/B22">
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B32">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="B22" class="scenario-section">
+<section id="B32" class="scenario-section">
   <p>내 의지와 관계없이 몸에서 일어나는 일들은?</p>
   <p>물방울이 둥실둥실 떠 있는 것처럼 보이는 이 마법 같은 영상은 영화 ‘나우유씨미’의 한 장면입니다. 이 장면이 과연 진실일지 확인해보기 위해 현장에 나가보도록 하겠습니다.</p>
   <p>보셨나요? 빙글빙글 돌고 있는 모형 속 인형들이 마치 움직이는 것처럼 보입니다. 이 조형물을 조이트로프라고 하는데요, 애니메이션에 영감을 주었던 옛날 장난감이죠.</p>

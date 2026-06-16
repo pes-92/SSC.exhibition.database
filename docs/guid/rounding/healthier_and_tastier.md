@@ -73,15 +73,15 @@
   <p>네. 여러분이 말한 음식이 맞는지 한 번 들어가서 봅시다.</p>
 </section>
 
-### G30
+### G31
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G30">
+    <a class="exhibit-link-button" href="#/docs/halls/green/G31">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="G30" class="scenario-section">
+<section id="G31" class="scenario-section">
   <p>인류세의 대표 화석은?</p>
   <p>여기 인류의 대표적인 흔적 4가지가 있는데, 이 중 먹을 수 있는 것은 딱 하나있죠? 맞아요. 바로 치킨입니다.</p>
   <p>치킨은 연간 600억마리 정도 소비가 됩니다(패널 가리키기)</p>
@@ -171,15 +171,15 @@
   <p>네, 치킨의 찰떡궁합, 콜라와 맥주에요. 콜라와 맥주를 좀 보러 가봅시다.</p>
 </section>
 
-### O06
+### O13
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O06">
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O13">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="O06" class="scenario-section">
+<section id="O13" class="scenario-section">
   <p>우리에게 금지된 것들, 왜 안된다고 하는걸까?</p>
   <p>이 전시물에는 우리에게 중독을 일으킬 수 있는 3가지 물질이 여기 있네요.</p>
   <p>알코올, 니코틴, 그리고 카페인입니다.</p>
@@ -219,15 +219,15 @@
   <p>단백질에 대해 알아보기 위해 다음 전시물로 가볼까요?</p>
 </section>
 
-### O15
+### O22
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O15">
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O22">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="O15" class="scenario-section">
+<section id="O22" class="scenario-section">
   <p>탄소로 이루어진 세상은?</p>
   <p>(2)탄소 인터렉티브</p>
   <p>여기 보면 우리 일상 생활 속 다양한 물질들이 무엇으로 만들어졌는지 확인할 수 있는 전시물이 있어요.</p>

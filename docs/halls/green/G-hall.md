@@ -99,7 +99,7 @@
 | G19 | [우리 주변의 미세먼지 농도는?](/docs/halls/green/G19.md) | 관람형 |  |
 | G20 | [공기대포는 어떤 모양으로 날아갈까?](/docs/halls/green/G20.md) | 관람형 |  |
 | G21 | [지진의 이해](/docs/halls/green/G21.md) | 체험형 |  |
-| G22 | [지진은 어떻게 기록될까?](/docs/halls/green/G22.md) | 관람형 |  |
+| G22 | [지진은 어떻게 기록될까?](/docs/halls/green/G22.md) | 체험형 |  |
 | G23 | [실시간 지진 모니터링](/docs/halls/green/G23.md) | 관람형 |  |
 | G24 | [지진의 발생 원인 및 현황](/docs/halls/green/G24.md) | 체험형 |  |
 | G25 | [지진에 잘 견디는 구조는 어떻게 만들까? (1)](/docs/halls/green/G25.md) | 체험형 |  |

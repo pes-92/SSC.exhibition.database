@@ -39,15 +39,15 @@
 
 ## 해설 본문
 
-### G09
+### G18
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G09">
+    <a class="exhibit-link-button" href="#/docs/halls/green/G18">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="G09" class="scenario-section">
+<section id="G18" class="scenario-section">
   <p>도시의 기온이 더 높은 이유는 무엇일까</p>
   <p>그런데 산과 숲은 동물의 서식지의 역할만 하지 않습니다. 우리 인간이 살아가는 데에도 꼭 필요한 존재입니다. 우리가 사는 도시의 모습을 한번 볼까요? (전시물 이동)</p>
   <p>지금 보이는 이곳은 양재역 근처의 모습입니다. 높은 건물과 도로가 보입니다. 여러분이 과학관에 올 때도 비슷한 풍경을 지나쳐왔을 겁니다. 이 모습을 열화상 적외선 카메라를 통해 보도록 할게요.</p>
@@ -56,15 +56,15 @@
   <p>사실 산뿐만 아니라 원래 지구는 스스로 열을 조절하는 시스템을 가지고 있습니다. (이동)</p>
 </section>
 
-### G24
+### G14
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/green/G24">
+    <a class="exhibit-link-button" href="#/docs/halls/green/G14">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="G24" class="scenario-section">
+<section id="G14" class="scenario-section">
   <p>태풍의 세기는 얼마나 강할까</p>
   <p>여러분, 태풍하면 무슨 생각이 드나요? 강한 바람이 피해를 주는 이미지가 떠오를 것 같아요. 이곳에서 강력한 태풍을 느껴볼 수 있는데요. 친구들 중 상황을 알려줄 기자 역할을 맡아줄 목소리 큰 친구 있을까요? 우리 기자 친구가 안에서 대본을 읽으면서 바깥에 상황을 공유해주세요. (체험)</p>
   <p>기자 친구가 기사를 읽기도 힘들 정도로 태풍의 아주 강력한 바람을 느낄 수 있었습니다.</p>
@@ -96,15 +96,15 @@
   <p>(4. 눈사진)홍채의 근육은 밝기변화에 따라 자동으로 움직이는데요. 강한 빛이 우리 눈에 그대로 들어오게 되면 눈이 부셔서 잘 보이지도 않고, 눈이 손상될 수 있습니다. 따라서 들어오는 빛의 양을 줄이고자 홍채의 근육을 늘려(이완하여) 동공의 크기를 줄입니다. 반대로 어두운 환경에서는 홍채 근육을 줄여(수축해서) 동공을 크게 엽니다. 커진 동공으로 많은 빛이 들어와 어두운 환경에서도 볼 수 있게 됩니다. 이것을 동공반사라고 합니다. (내 동공보여주기/ 휴대폰 손전등)</p>
 </section>
 
-### O07
+### O14
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O07">
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O14">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="O07" class="scenario-section">
+<section id="O14" class="scenario-section">
   <p>눈이 침침한 이유는?</p>
   <p>그런데 동공반사는 나이에 따라 달라지는데요. 나이가 들면서 홍채의 근육이 약해져 평균적으로 노인의 동공은 아이보다 작습니다. 또한 동공반사의 속도도 느려집니다. 그래서 나이가 들면서 어두운 곳에 적응하는 것이 점점 느려지고, 갑자기 밝은 곳에 나가면 눈이 더 쉽게 피로해지는 것입니다. 이는 나이가 들면서 자연스럽게 생기는 현상입니다.</p>
   <p>노화로 인해서 생기는 안구질환도 있는데요. 안구질환이 생기면 동공반사가 약하게 나타나게 됩니다. 의사들이 환자의 눈에 손전등을 비추는 장면 본 적있나요? 환자가 의식이 있는지 확인하기 위한 것도 있지만, 눈과 뇌신경 상태가 정상인지 알아보기 위해 비추기도 합니다. 결국 이 동공반사는 눈에 빛이 들어올 때 자동으로 반응하는 현상뿐 아니라 눈의 나이와 건강을 알려주는 역할을 하는 것입니다.</p>
@@ -112,16 +112,16 @@
   <p>요즘은 스마트폰을 하루종일 보기때문에 안구질환이 일찍 찾아올 위험이 있는데요. 눈운동을 하면 눈의 피로를 풀 수 있고 안구질환을 예방할 수 있으니, 눈운동 한번 하고 가도록 할까요. 왼쪽-오른쪽-위-아래-눈감고-눈뜨고(3초씩). 눈운동은 두뇌 발달에도 도움이 된다고 하니 생각날 때마다 방금 했던 걸 기억해서 해주세요.</p>
 </section>
 
-### O11
+### O24
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/orange/O11">
+    <a class="exhibit-link-button" href="#/docs/halls/orange/O24">
       🔗 전시물 보러 가기
     </a>
   </div>
 
 
-<section id="O11" class="scenario-section">
+<section id="O24" class="scenario-section">
   <p>내가 들을 수 있는 주파수는?</p>
   <p>눈뿐만 아니라 우리 몸의 다른 기관도 나이가 들면서 변하게 되는데요, 그중 귀, 청력에 대한 이야기를 해보겠습니다.</p>
   <p>(전시물 이동)</p>
@@ -176,15 +176,15 @@
   <p>그러나 이 진자시계의 발명이 무용지물이었던 곳이 있는데요. 그곳이 어디일까요? (이동)</p>
 </section>
 
-### B30
+### B31
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/blue/B30">
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B31">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="B30" class="scenario-section">
+<section id="B31" class="scenario-section">
   <p>멀미하는 이유는?</p>
   <p>바로 바다입니다. 옛날부터 사람들은 바다에 배를 타고 여러 나라를 항해하며 소통해왔습니다. 그러나 바다는 호락호락한 존재는 아니었는데요. 배안으로 다 같이 들어가봅시다.</p>
   <p>(내부)</p>

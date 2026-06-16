@@ -80,15 +80,15 @@
   <p>#마찰력 #등속직선운동 #보이저호</p>
 </section>
 
-### B30
+### B31
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/blue/B30">
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B31">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="B30" class="scenario-section">
+<section id="B31" class="scenario-section">
   <p>멀미하는 이유는?</p>
   <p>우주에서도 멀미가 나는지 알아보기 전에 우선 멀미가 나는 이유를 알아보기 위해 우리 과학관에 있는 배로 한번 들어가 볼까요?</p>
   <p>배 속으로 들어오니까 조금 어지럽나요? 멀미가 나는 이유는 바로 뇌가 혼란에 빠졌을 때 멀미가 납니다. 지금 배 바닥은 어떻게 되어 있나요? 기울어져 있습니다. 하지만 거울로 봤을 때 바닥은 어떻게 되어 있나요? 평평한 곳에 서 있는 것으로 보입니다. 이렇게 서로 다른 정보가 뇌에 전달이 되었을 때 어지러움을 느끼고, 그것을 멀미라고 말합니다.</p>
@@ -99,15 +99,15 @@
   <p>#멀미 #우주멀미 #전정기관 #이석 #림프액</p>
 </section>
 
-### B33
+### B20
 
   <div class="section-link-box">
-    <a class="exhibit-link-button" href="#/docs/halls/blue/B33">
+    <a class="exhibit-link-button" href="#/docs/halls/blue/B20">
       🔗 전시물 보러 가기
     </a>
   </div>
 
-<section id="B33" class="scenario-section">
+<section id="B20" class="scenario-section">
   <p>자전거는 왜 넘어지지 않을까?</p>
   <p>마지막으로 우리는 우주 망원경이나 인공위성에 확인할 수 있는 원리를 알아보겠습니다. 우선 지구에서 망원경으로 관측을 하면 대기와 먼지 등으로 선명하게 볼 수 없습니다. 그럼 어디서 봐야 할까요? 네, 우주에서 관측하면 보다 선명하게 볼 수 있겠죠? 그래서 천문학자들은 우주망원경을 보내서 우주에서 관측하곤 하는데요. 망원경을 우리가 원하는 정확한 위치에 있어야 관측을 잘 할 수 있는데, 정확히 안착하기 위해서 꼭 필요한 원리가 있습니다. 한 번 알아볼까요?</p>
   <p>직접 우주로 날아가서 그 원리를 알아보면 좋겠지만, 그럴 수 없기 때문에 우리는 자전거로 대신 알아보겠습니다. 혹시 선생님이나 반장이 체험해볼까요?</p>

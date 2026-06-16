@@ -47,7 +47,7 @@
   오늘 그래서 저는 비행기가 하늘을 나는데 가장 중요하다고 할 수 있고, 우리 과학관에 있는 전시물과도 관련이 있는 비행기의 날개와 엔진에 대해 설명하고자 합니다.<br></p>
 </section>
 
-### B12 비행기는 어떻게 하늘을 날까?
+### B23 비행기는 어떻게 하늘을 날까?
 
   <div class="section-link-box">
     <a class="exhibit-link-button" href="#/docs/halls/blue/B23">
