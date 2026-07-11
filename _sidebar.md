@@ -37,6 +37,7 @@
     <li>
       <span class="hall-menu-item resource-menu-item">해설서</span>
       <ul class="resource-submenu">
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/considering_for_guid.md" data-route="#/docs/guid/considering_for_guid">신규직원용 해설서 작성 요령</a></li>
         <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/rounding/list.md" data-route="#/docs/guid/rounding/list">전관해설</a></li>
         <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/Banjjak/list.md" data-route="#/docs/guid/Banjjak/list">관별해설(반짝해설)</a></li>
         <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/guid/Eachexhibit/list.md" data-route="#/docs/guid/Eachexhibit/list">전시물별 표준 해설</a></li>
