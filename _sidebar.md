@@ -48,6 +48,7 @@
     <li>
       <span class="hall-menu-item resource-menu-item">교과과정 안내</span>
       <ul class="resource-submenu">
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/school_curriculum/textbooks.md" data-route="#/docs/school_curriculum/textbooks">교과서 사이트 링크</a></li>
         <li>
           <span class="hall-menu-item resource-submenu-item curriculum-subject">수학</span>
           <ul class="resource-submenu curriculum-submenu">
