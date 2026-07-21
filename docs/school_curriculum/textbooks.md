@@ -23,17 +23,17 @@
     <tr>
       <th> 지학사 </th>
       <td> <a class="curriculum-link-button external" href="https://textbook.jihak.co.kr/book-pr-gwahak.php" target="_blank" rel="noopener">
-          초등3~4학년군 교과서 </a></td>
+          초등3~4학년군 </a></td>
       <td> <a class="curriculum-link-button external" href="https://textbook.jihak.co.kr/book-pr-gwahak56.php" target="_blank" rel="noopener">
-          초등5~6학년군 교과서 </a></td>
+          초등5~6학년군 </a></td>
       <td>  <a class="curriculum-link-button external" href="https://textbook.jihak.co.kr/book-mi-sci.php" target="_blank" rel="noopener">
-          중1 교과서 </a><br>
+          중1 </a><br>
           <a class="curriculum-link-button external" href="https://textbook.jihak.co.kr/book-mi-sci2.php" target="_blank" rel="noopener">
-          중2 교과서 </a></td>
+          중2 </a></td>
       <td> <a class="curriculum-link-button external" href="https://textbook.jihak.co.kr/book-hi-sci.php" target="_blank" rel="noopener">
-          통합과학 1,2 교과서</a><br>
+          통합과학 1,2 </a><br>
           <a class="curriculum-link-button external" href="https://textbook.jihak.co.kr/book-hi-exp.php" target="_blank" rel="noopener">
-          과학탐구실험 1,2 교과서</a></td>
+          과학탐구실험 1,2 </a></td>
       <td> - </td>
       <td> - </td>
       <td> - </td>
@@ -41,17 +41,17 @@
     <tr>
       <th> 비상교육 </th>
       <td> <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/97" target="_blank" rel="noopener">
-          초등3~4학년군 교과서 </a></td>
+          초등3~4학년군 </a></td>
       <td> <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/87" target="_blank" rel="noopener">
-          초등5~6학년군 교과서 </a></td>
+          초등5~6학년군 </a></td>
       <td>  <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/119" target="_blank" rel="noopener">
-          중1 교과서 </a><br>
+          중1 </a><br>
           <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/118" target="_blank" rel="noopener">
-          중2 교과서 </a></td>
+          중2 </a></td>
       <td> <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/169" target="_blank" rel="noopener">
-          통합과학 1,2 교과서 </a><br>
+          통합과학 1,2 </a><br>
           <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/170" target="_blank" rel="noopener">
-          과학탐구실험 1,2 교과서 </a></td>
+          과학탐구실험 1,2 </a></td>
       <td> <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/171" target="_blank" rel="noopener">
           물리학 </a><br>
           <a class="curriculum-link-button external" href="https://text.vivasam.com/detail/172" target="_blank" rel="noopener">
@@ -87,19 +87,19 @@
     <tr>
       <th> 천재교육 </th>
       <td> <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/ele/book.html?bookcode=text-ele-science-le-01" target="_blank" rel="noopener">
-          초등3~4학년군 교과서(이상원)</a><br>
+          초등3~4학년군(이상원)</a><br>
            <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/ele/book.html?bookcode=text-ele-science-jy-01" target="_blank" rel="noopener">
-          초등3~4학년군 교과서(정용재)</a></td>
+          초등3~4학년군(정용재)</a></td>
       <td> <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/ele/book.html?bookcode=text-ele-science-jy-05" target="_blank" rel="noopener">
-          초등5~6학년군 교과서(정용재)</a></td>
+          초등5~6학년군(정용재)</a></td>
       <td>  <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/mid/book.html?bookcode=text-mid-science-lss" target="_blank" rel="noopener">
-          중1,2 교과서(임성숙) </a><br>
+          중1,2 (임성숙) </a><br>
           <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/mid/book.html?bookcode=text-mid-science-jdh" target="_blank" rel="noopener">
-          중1,2 교과서(정대홍) </a></td>
+          중1,2 (정대홍) </a></td>
       <td> <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/high/book.html?bookcode=text-high-science-10-sci-01" target="_blank" rel="noopener">
-          통합과학 1,2 교과서</a><br>
+          통합과학 1,2 </a><br>
           <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/high/book.html?bookcode=text-high-science-10-sci-02" target="_blank" rel="noopener">
-          과학탐구실험 1,2 교과서</a></td>
+          과학탐구실험 1,2 </a></td>
       <td> <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/high/book.html?bookcode=text-high-science-20-sci-01" target="_blank" rel="noopener">
           물리학 </a><br>
           <a class="curriculum-link-button external" href="https://text.tsherpa.co.kr/high/book.html?bookcode=text-high-science-20-sci-02" target="_blank" rel="noopener">
@@ -134,21 +134,21 @@
     <tr>
       <th> 아이스크림미디어 </th>
       <td> <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science3_1" target="_blank" rel="noopener">
-          초등3-1 교과서 </a><br>
+          초등3-1 </a><br>
           <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science3_2" target="_blank" rel="noopener">
-          초등3-2 교과서 </a><br>
+          초등3-2 </a><br>
           <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science4_1" target="_blank" rel="noopener">
-          초등4-1 교과서 </a>
+          초등4-1 </a>
           <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science4_2" target="_blank" rel="noopener">
-          초등4-2 교과서 </a></td>
+          초등4-2 </a></td>
       <td> <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science5_1" target="_blank" rel="noopener">
-          초등5-1 교과서 </a><br>
+          초등5-1 </a><br>
           <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science5_2" target="_blank" rel="noopener">
-          초등5-2 교과서 </a><br>
+          초등5-2 </a><br>
           <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science6_1" target="_blank" rel="noopener">
-          초등6-1 교과서 </a><br>
+          초등6-1 </a><br>
           <a class="curriculum-link-button external" href="https://text.i-scream.co.kr/user/introduce/introduceDetail.do?subject=science6_2" target="_blank" rel="noopener">
-          초등6-2 교과서 </a></td>
+          초등6-2 </a></td>
       <td> - </td>
       <td> - </td>
       <td> - </td>
