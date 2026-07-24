@@ -122,18 +122,18 @@
   <tbody>
     <tr>
       <th>해설서</th>
-      <td> 내용 입력 완료 </td>
-      <td> 전시물과의 연결여부 확인 중 </td>      
+      <td> 전시물과 연결중 </td>
+      <td> - </td>      
     </tr>
     <tr>
       <th>이론</th>
       <td> 내용 정확성 확인 중 </td>
-      <td> <sapn style="color:red">참고용으로만 쓰세요!</span> </td>  
+      <td> 제목에 (확인요)가 붙은 것은 아직 확인중인 글입니다. </td>  
     </tr>
     <tr>
       <th>교과과정 안내</th>
-      <td> 전시물과 연결 완료 </td>
-      <td> - </td> 
+      <td> 완료 </td>
+      <td> 완료 </td> 
     </tr>
   </tbody>
 </table>
