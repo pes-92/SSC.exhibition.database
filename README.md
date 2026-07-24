@@ -36,7 +36,7 @@
   </ul>
  
 
- <h3> 위키 개발 진행정도(2026.07.22 업데이트 함)
+ <h3> 위키 개발 진행정도(2026.07.24 업데이트 함)
 
 <table class="curriculum-table">
   <caption><b> 전시물 내용</b></caption>
@@ -44,9 +44,10 @@
     <tr>
       <th>전시실</th>
       <th>배치도 및 전시물 번호</th>
-      <th>대표사진</th>
-      <th>패널 사진</th>
-      <th>학교 교육과정</th>
+      <th>전시물 기본내용(대표사진, 교육과정, 패널)</th>
+      <th>과학 이론</th>
+      <th>연관 전시물</th>
+      <th>해설에서의 쓰임</th>
       <th>비고</th>
     </tr>
   </thead>
@@ -60,40 +61,45 @@
       <th>G전시실</th>
       <td> 완료 </td>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> (융합선택교과 제외 완료) </td>
+      <td> 검수중 </td>
+      <td> 작성중 </td>
+      <td> 검수중 </td>
       <td> - </td>
     </tr>
     <tr>
       <th> O전시실 </th>
       <td> 완료 </td>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> (융합선택교과 제외 완료) </td>
+      <td> 검수중 </td>
+      <td> 작성중 </td>
+      <td> 검수중 </td>
       <td> - </td>
     </tr>
     <tr>
       <th> B전시실</th>
       <td> 완료 </td>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> (융합선택교과 제외 완료) </td>
-      <td> (우선 구축 중) </td>
+      <td> 검수중 </td>
+      <td> 작성중 </td>
+      <td> 검수중 </td>
+      <td> - </td>
     </tr>
     <tr>
       <th> Y전시실</th>
       <td> 완료 </td>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> (융합선택교과 제외 완료) </td>
+      <td> 검수중 </td>
+      <td> 작성중 </td>
+      <td> 검수중 </td>
       <td> - </td>
     </tr>
     <tr>
       <th> Y<sub>Y</sub>전시실</th>
       <td> 완료 </td>
       <td> 완료 </td>
-      <td> 완료 </td>
-      <td> (융합선택교과 제외 완료) </td>
+      <td> 검수중 </td>
+      <td> 작성중 </td>
+      <td> 검수중 </td>
       <td> - </td>
     </tr>
   </tbody>
@@ -121,13 +127,13 @@
     </tr>
     <tr>
       <th>이론</th>
-      <td> 내용 확인 중 </td>
+      <td> 내용 정확성 확인 중 </td>
       <td> <sapn style="color:red">참고용으로만 쓰세요!</span> </td>  
     </tr>
     <tr>
       <th>교과과정 안내</th>
-      <td> 원문 입력완료, 전시물과 연결중 </td>
-      <td> <br><sapn style="color:red">아직 전시물별 정보는 정확하지 않음 주의!!</span> </td> 
+      <td> 전시물과 연결 완료 </td>
+      <td> - </td> 
     </tr>
   </tbody>
 </table>
