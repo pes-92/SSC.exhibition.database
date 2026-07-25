@@ -18,29 +18,39 @@
 12쌍의 뇌신경과 31쌍의 척수신경이 포함된다(운동신경, 감각신경이 하나씩 쌍을 이룸). 이름 그대로 각각 뇌에서 나오는 신경과 척수에서 나오는 신경이다. 체성신경은 감각기에서 들어온 감각정보를 중추신경(특히 뇌)으로 전달하여 자극을 느끼게 해주고, 중추신경계로부터 명령을 근육으로 연결하여 움직일 수 있게 해준다.[^3]
 
 ### 2.2 자율신경
-뇌의 명령을 받지 않아도 독립적으로 움직이며 상황에 맞추어 체내 항상성을 유지하는 신경이다. 크게 교감신경과 부교감신경으로 나누어진다.[^3] 두 신경은 길항작용(서로 반대되는 효과를 가지므로써 서로를 상쇄하여 결국 균형(항상성)을 맞추는 것)을 통해 균형을 맞춘다.
+뇌의 명령을 받지 않아도 독립적으로 움직이며, 각종 내장기관이나 분비샘 등과 연결되어 생명유지에 필수적인 기능을 맏는 신경계다.[^4] 크게 교감신경과 부교감신경으로 나눈다.[^3] 교감 신경과 부교감 신경은 같은 내장 기관에 작용하여 한쪽이 작용을 촉진하면 다른 한쪽은 작용을 억제하는 길항 작용을 함으로써 몸의 내부 환경이 항상 일정하게 유지되도록 돕는다.[^5]
+
 <img src="docs/image/theory/human_nervous_system_01_93625c5a.png" alt="자율신경계 요약(출처 및 저작권 금성백과 티칭백과. 저작권무료 아님)">
-	금성백과의 아이들 교과서 속 자율신경계 이미지 참고용[^6]
+	금성백과의 아이들 교과서 속 자율신경계 이미지 참고용[^9]
+
+교감신경과 부교감신경은 각각 신경말단에서 분비하는 신경전달물질의 종류가 다르다. 교감 신경은 노르에피네프린, 부교감 신경은 아세틸콜린을 분비한다. 또한 각각의 절전신경세포[^6]의 위치도 다르다. 교감 신경의 절전신경세포는 척수의 가운데 부분(흉추1번~요추2번까지)에서 나오지만, 부교감 신경의 경우 중뇌와 연수, 그리고 척수의 끝부분(천추2~4번)에서 나온다. 일반적으로 교감 신경은 우리 몸을 위기 상황에 대처하기 알맞은 상태로 만들어 주고,부교감 신경은 평상시 활동과 심신의 평온 상태를 유지시켜 주는 작용을 한다. [^5]
+
 #### 2.2.1 교감신경
 척수의 중간 부분에서 나온다.[^3]
-심박수를 높이고, 호흡이 빨라지며 피부 온도가 내려가고 동공이 확장되는 등, 흥분하거나 위급상황시 빠르게 신체가 적응하도록 하는 역할을 한다.[^4]
+심박수를 높이고, 호흡이 빨라지며 피부 온도가 내려가고 동공이 확장되는 등, 흥분하거나 위급상황시 빠르게 신체가 적응하도록 하는 역할을 한다.[^7]
 
 #### 2.2.2 부교감신경
 중뇌와 연수, 척수의 꼬리 부분에서 나온다.[^3]
 스트레스가 없는 편안한 상황에서 활동하는 신경으로 가능하면 신체의 에너지 이용을 최소화하여 에너지를 보존하는 기능을과 소화나 배설작용과 같은 인체의 필수 기능을 담당한다.
-교감신경과 달리 혈압, 심박수, 호흡수를 정상보다 낮은 상태로 조절하며, 위장관의 활동이 증가시키고 피부온도가 올라하며, 동공이 수축되도록 한다.[^5]
+교감신경과 달리 혈압, 심박수, 호흡수를 정상보다 낮은 상태로 조절하며, 위장관의 활동이 증가시키고 피부온도가 올라하며, 동공이 수축되도록 한다.[^8]
 
 
-[^1]: 서울아산병원>건강정보>인체정보>중추신경계(Central nervous system) (https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=54&partId=B000007)
+[^1]: 서울아산병원>건강정보>인체정보>중추신경계(Central nervous system) ([https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=54&partId=B000007])
 
-[^2]: 국민건강보험공단>이달의 건강정보>2007년 10월 8일 수능임박, 수험생 건강관리 (https://www.nhis.or.kr/magazin/7/html/sub02_01.html)
+[^2]: 국민건강보험공단>이달의 건강정보>2007년 10월 8일 수능임박, 수험생 건강관리 ([https://www.nhis.or.kr/magazin/7/html/sub02_01.html])
 
-[^3]: 서울아산병원>건강정보>인체정보>말초신경계(Peripheral Nerve System) (https://www.amc.seoul.kr/asan/healthinfo/body/bodyDetail.do?bodyId=24)
+[^3]: 서울아산병원>건강정보>인체정보>말초신경계(Peripheral Nerve System) ([https://www.amc.seoul.kr/asan/healthinfo/body/bodyDetail.do?bodyId=24])
 
-[^4]: 서울아산병원>건강정보>인체정보>교감신경(Sympathetic nerve) (https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=79&partId=B000020)
+[^4]: 질병관리청>국가건강정보포털>알림정보>알기쉬운 건강용어>자율신경계 ([https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/mediaRecsroom/wordDicary/wordDicaryView.do])
 
-[^5]: 서울아산병원>건강정보>인체정보>부교감신경(Parasympathetic nerve) (https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=80&partId=B000020)
+[^5]: 서울아산병원>건강정보>인체정보>자율신경(Autonomic Nervous System) ([https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=51&partId=B000016])
 
-[^6]: 출처 : 금성백과>티칭백과>중등>과학>과학2>부교감신경 (https://dic.kumsung.co.kr/web/smart/detail.do?headwordId=1424&findCategory=B002004&findBookId=25)
+[^6]: 절전신경세포: 자율신경계 중 중추신경계쪽에서 나온 부분의 세포. 절후신경세포와 자율신경계 사이를 이어준다.
 
-<div class="theory-meta" data-category="미분류"></div>
+[^7]: 서울아산병원>건강정보>인체정보>교감신경(Sympathetic nerve) ([https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=79&partId=B000020])
+
+[^8]: 서울아산병원>건강정보>인체정보>부교감신경(Parasympathetic nerve) ([https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=80&partId=B000020])
+
+[^9]: 출처 : 금성백과>티칭백과>중등>과학>과학2>부교감신경 ([https://dic.kumsung.co.kr/web/smart/detail.do?headwordId=1424&findCategory=B002004&findBookId=25])
+
+<div class="theory-meta" data-category="신경, 신경계"></div>

@@ -16,11 +16,13 @@
 4. 청각세포와 연결되어있는 청신경이 뇌로 전기 자극신호를 전달하고, 뇌는 전달받은 전기신호를 소리로 인지한다.
 
 
-## 출처 및 주석
 
 [^1]: 네이버>블로그>흐름출판 블로그>감각의 미래>인공망막이 새로운 눈이 될 수 있을까? (2017.8.14. 15:01) ([https://blog.naver.com/nextwave7/223773400101])
+
 [^2]: 사이언스올>과학백과사전>아이트래커(Eye-tracker) (2018.12.12) ([https://www.scienceall.com/brd/board/390/L/menu/317?brdType=R&bbsSn=230264])
+
 [^3]: 강북삼성병원 인공와우 클리닉>난천과 인공와우>인공와우란([https://main.kbsmc.co.kr/cicenter/contents.do?idx=20208])
+
 [^4]: Cochlear 홈>진단 및 치료>제품 작동 방식>인공와우 ([https://www.cochlear.com/kr/ko/home/diagnosis-and-treatment/how-cochlear-solutions-work/cochlear-implants])
 
 

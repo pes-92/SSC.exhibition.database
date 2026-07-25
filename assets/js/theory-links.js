@@ -497,10 +497,6 @@
         "path": "/docs/theory/isaac_newton"
     },
     {
-        "title": "아폴로 우주복",
-        "path": "/docs/theory/apollo_spacesuit"
-    },
-    {
         "title": "야생동물의 실태",
         "path": "/docs/theory/wildlife_status"
     },
@@ -537,8 +533,8 @@
         "path": "/docs/theory/effects_of_urban_heat_island"
     },
     {
-        "title": "염소소독의 장점과 단점",
-        "path": "/docs/theory/advantages_and_disadvantages_of_chlorine_disinfection"
+        "title": "소독용제 별 장점과 단점",
+        "path": "/docs/theory/advantages_and_disadvantages_of_disinfection"
     },
     {
         "title": "오목거울",
@@ -551,10 +547,6 @@
     {
         "title": "오비탈",
         "path": "/docs/theory/orbital"
-    },
-    {
-        "title": "오존소독의 장점과 단점",
-        "path": "/docs/theory/advantages_and_disadvantages_of_ozone_disinfection"
     },
     {
         "title": "옴의 법칙",
@@ -643,10 +635,6 @@
     {
         "title": "자극과 반응",
         "path": "/docs/theory/stimulus_and_response"
-    },
-    {
-        "title": "자율신경계",
-        "path": "/docs/theory/autonomic_nervous_system"
     },
     {
         "title": "잔상 디스플레이",
