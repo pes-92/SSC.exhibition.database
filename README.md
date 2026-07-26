@@ -36,7 +36,7 @@
   </ul>
  
 
- <h3> 위키 개발 진행정도(2026.07.24 업데이트 함)
+ <h3> 위키 개발 진행정도(2026.07.26 업데이트 함)
 
 <table class="curriculum-table">
   <caption><b> 전시물 내용</b></caption>

@@ -5,18 +5,11 @@
 나이가 들어 청력이 약해지면서 들을 수 있는 가청주파수가 작아진다. 귀 고막에는 청신경 전달계인 달팽이관이 연결되어 있어 안쪽에서는 저주파, 입구로 갈수록 고주파를 느낄 수 있는데 나이가 많거나 큰 소리를 많이 듣게 되면 달팽이관 입구의 신경세포가 손상돼 고주파 음부터 서서히 듣지 못하게 된다. 동물에 따라 들을 수 있는 주파수 영역도 다르다. 돌고래나 박쥐가 내는 초음파는 사람이 들을 수 없으며, 반대로 너무 주파수가 낮은음도 듣지 못한다.[^2]
 <img src="docs/image/theory/Audible_frequency_01_0dc06ea8.png" alt="동물과 인간의 가청주파수(저작자 서울시립과학관. PPT로 제작)">
 
-## 출처 및 주석
+
 [^1]: 사이언스올>과학백과사전>가청진동수(AF)(Audible frequency, 可聽周波數), (2016.08.12)(https://www.scienceall.com/brd/board/390/L/menu/317?brdType=R&thisPage=1&bbsSn=151778&brdCodeValue=)
 
-[^2]: 한국과학기술정보연구원>과학향기 Story>스토리><KISTI의 과학향기>제504호 당신의 청력나이는 몇살입니까?,(2006.09.29) (https://scent.kisti.re.kr/site/main/archive/article/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%B2%AD%EB%A0%A5%EB%82%98%EC%9D%B4%EB%8A%94-%EB%AA%87%EC%82%B4%EC%9E%85%EB%8B%88%EA%B9%8C)
+[^2]: 한국과학기술정보연구원>과학향기 Story>스토리><KISTI의 과학향기>제504호 당신의 청력나이는 몇살입니까?,(2006.09.29) ([https://scent.kisti.re.kr/site/main/archive/article/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%B2%AD%EB%A0%A5%EB%82%98%EC%9D%B4%EB%8A%94-%EB%AA%87%EC%82%B4%EC%9E%85%EB%8B%88%EA%B9%8C])
 
 
 
-## 최종 작성일
-
-| 변경일        | 작성자 | 내용 및 사유 |
-| ---------- | --- | ------- |
-| 2026.01.22 | 박은선 | 최초 작성   |
-|            |     |         |
-
-<div class="theory-meta" data-category="미분류"></div>
+<div class="theory-meta" data-category="청각, 주파수"></div>

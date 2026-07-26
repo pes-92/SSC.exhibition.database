@@ -22,7 +22,7 @@ $\frac{dl_1}{dt} = I_1 \alpha_1=\tau_1$ , $\frac{dl_2}{dt} = I_2 \alpha_2=\tau_2
 
 $\tau_1 + \tau_2=0$인 경우 각운동량의 합 $L_1+L_2$는 보존된다.
 
-## 출처 및 주석
+
 [^1]:  네이버>지식백과>물리학백과(한국물리학회 제공)>(2026.01.30)([https://www.kriss.re.kr/menu.es?mid=a10302020000](https://terms.naver.com/entry.naver?docId=3536889&cid=60217&categoryId=60217))
 
 <div class="theory-meta" data-category="각운동량"></div>

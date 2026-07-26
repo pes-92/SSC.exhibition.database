@@ -11,6 +11,4 @@
 
 [^1]: 국립공원공단 국립공원연구원(2019), (2019)북한산국립공원 공원자원조사, 원주국립공원공단 국립공원연구원 ([https://dl.nanet.go.kr/search/searchInnerDetail.do?searchType=INNER_SEARCH&resultType=INNER_SEARCH_DETAIL&searchMehtod=L&searchClass=S&controlNo=MONO1202054537&queryText=&prevQueryText=%EB%B6%81%ED%95%9C%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90+%EA%B3%B5%EC%9B%90%EC%9E%90%EC%9B%90%EC%A1%B0%EC%82%AC%3AALL_NI_TOC%3AAND&zone=&fieldText=&prevPubYearFieldText=&languageCode=&synonymYn=&refineSearchYn=&ddcPopSearchYn=&pageNum=&pageSize=&orderBy=&topMainMenuCode=&topSubMenuCode=&totalSize=48&totalSizeByMenu=48&seqNo=&hanjaYn=Y&knowPub=&isdb=&isdbsvc=&tt1=&down=&frgnLangMtrlYn=&targetLangCode=&checkedDbIdList=&baseDbId=&selectedDbIndexIdList=&caller=&asideState=&dpBranch=ALL&journalKind=&degreeDiv=&searchQuery=%EB%B6%81%ED%95%9C%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90+%EA%B3%B5%EC%9B%90%EC%9E%90%EC%9B%90%EC%A1%B0%EC%82%AC])
 
-- 편집 주석: 원문에서 추출한 텍스트를 우선 정리한 초안입니다.
-
 <div class="theory-meta" data-category="북한산"></div>

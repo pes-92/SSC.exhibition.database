@@ -333,12 +333,8 @@
         "path": "/docs/theory/principle_of_generator"
     },
     {
-        "title": "밤섬의 생태",
-        "path": "/docs/theory/bamseom_ecology"
-    },
-    {
-        "title": "밤섬의 생태적 가치",
-        "path": "/docs/theory/ecological_value_of_bamseom"
+        "title": "밤섬",
+        "path": "/docs/theory/bamseom"
     },
     {
         "title": "방사능과 방사선",
@@ -617,16 +613,12 @@
         "path": "/docs/theory/human_and_animal_brains"
     },
     {
-        "title": "인류세에 반대하는 사람들",
-        "path": "/docs/theory/people_opposed_to_anthropocene"
+        "title": "인류세",
+        "path": "/docs/theory/anthropocene"
     },
     {
         "title": "인류세의 경계",
         "path": "/docs/theory/boundary_of_anthropocene"
-    },
-    {
-        "title": "인류세의 배경",
-        "path": "/docs/theory/background_of_anthropocene"
     },
     {
         "title": "인사이트",
