@@ -86,7 +86,7 @@
 ### 3.3 숨뇌(연수)[^1]
 척수와 다리뇌 사이에 존재하며 호흡, 순환운동의 조절을 담당한다.
 
-## 출처 및 주석
+
 
 [^1]: 서울아산병원>건강정보>인체정보>뇌(Brain)(2026.02.26) https://www.amc.seoul.kr/asan/mobile/healthinfo/body/bodyDetail.do?bodyId=15&partId=B000007
 
@@ -113,4 +113,4 @@
 
 [^12]: 그림출처 : 위키백과 Human brain frontal(coronal) section (https://commons.wikimedia.org/wiki/File:Human_brain_frontal_(coronal)_section.JPG)
 
-<div class="theory-meta" data-category="미분류"></div>
+<div class="theory-meta" data-category="뇌, 중추신경계"></div>

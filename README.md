@@ -34,79 +34,9 @@
     <li>위키의 모든 이론 파트는 최대한 신뢰도 높은 출처를 이용하여 작성하였습니다만 <b>해설사로서 정확한 정보 확인을 위한 크로스 체킹은 필수!!</b><br>ps. 혹시 오류 찾으셨다면 피드백도 부탁드려요 🙏</li>
     <li><sapn style="color:red"><b>현재 wiki는 개발중인 상황입니다.</b>😆<br> 내용 이용시 아래 진행정도를 참고해서 이용해 주세요!</span></li>
   </ul>
- 
-
- <h3> 위키 개발 진행정도(2026.07.26 업데이트 함)
 
 <table class="curriculum-table">
-  <caption><b> 전시물 내용</b></caption>
-  <thead>
-    <tr>
-      <th>전시실</th>
-      <th>배치도 및 전시물 번호</th>
-      <th>전시물 기본내용(대표사진, 교육과정, 패널)</th>
-      <th>과학 이론</th>
-      <th>연관 전시물</th>
-      <th>해설에서의 쓰임</th>
-      <th>비고</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td colspan="6">❖ 전시물 사진은 추후 최신화할 예정입니다. <br> ❖ 혹시 완료된 내용 중에 오류가 있다면 전달해 주세요🙏</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <th>G전시실</th>
-      <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 검수중 </td>
-      <td> 작성중 </td>
-      <td> 검수중 </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <th> O전시실 </th>
-      <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 검수중 </td>
-      <td> 작성중 </td>
-      <td> 검수중 </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <th> B전시실</th>
-      <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 검수중 </td>
-      <td> 작성중 </td>
-      <td> 검수중 </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <th> Y전시실</th>
-      <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 검수중 </td>
-      <td> 작성중 </td>
-      <td> 검수중 </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <th> Y<sub>Y</sub>전시실</th>
-      <td> 완료 </td>
-      <td> 완료 </td>
-      <td> 검수중 </td>
-      <td> 작성중 </td>
-      <td> 검수중 </td>
-      <td> - </td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="curriculum-table">
-  <caption><b>전시물 외 내용</b></caption>
+  <caption><b>위키 개발 진행 정도(최종업데이트: 2027.7.38)</b></caption>
   <thead>
     <tr>
       <th>카테고리</th>
@@ -116,24 +46,29 @@
   </thead>
   <tfoot>
     <tr>
-      <td colspan="3">전시물 내용 후 진행할 예정입니다.</td>
+      <td colspan="3"><a style="color:blue"> 완료 </a>된 항목만 이용해주세요.</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <th>해설서</th>
-      <td> 전시물과 연결중 </td>
-      <td> - </td>      
-    </tr>
-    <tr>
-      <th>이론</th>
-      <td> 내용 정확성 확인 중 </td>
-      <td> 제목에 (확인요)가 붙은 것은 아직 확인중인 글입니다. </td>  
+      <th>전시물 기본내용</th>
+      <td> <a style="color:blue"> 완료 </a> </td>
+      <td> 전시실 전개도, 전시물 번호, 개별 전시물 내용의 대표사진, 교육과정, 패널을 의미합니다. </td>  
     </tr>
     <tr>
       <th>교과과정 안내</th>
-      <td> 완료 </td>
-      <td> 완료 </td> 
+      <td> <a style="color:blue"> 완료 </a> </td>
+      <td> 교육과정 안내의 원문(사이드바 참고) 및 전시물별 교과과정을 의미합니다. </td> 
+    </tr>
+    <tr>
+      <th>이론</th>
+      <td> 내용 정확성 확인 중(약 25% 진행) </td>
+      <td> 제목에 (확인요)가 붙은 것은 아직 확인중인 글입니다. </td>  
+    </tr>
+    <tr>
+      <th>해설서</th>
+      <td> 전시물과 연결 준비중 </td>
+      <td> 원문 활용은 가능합니다. </td>
     </tr>
   </tbody>
 </table>

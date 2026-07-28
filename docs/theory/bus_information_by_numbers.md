@@ -11,6 +11,7 @@
 <img src="docs/image/theory/bus_information_by_numbers_03_03aa07e1.png" alt="버스 노선 권역구분도(출처 및 저작권 소비자시대 2014년 1월호)">
 	버스 권역별 숫자[^2]
 
+
 [^1]: 내 손 안에 서울> 숫자에 숨겨진 비밀을 찾아봐! (feat. 서울 버스와 지하철) 2021.02.25. 11:19 (https://mediahub.seoul.go.kr/archives/2000558)
 
 [^2]: 정은진(2014), 소비자시대 2014년 1월호 컨슈머리더 기자, p38

@@ -137,14 +137,6 @@
         "path": "/docs/theory/history_of_length_units"
     },
     {
-        "title": "내진구조",
-        "path": "/docs/theory/seismic_structure"
-    },
-    {
-        "title": "내진설계",
-        "path": "/docs/theory/seismic_design"
-    },
-    {
         "title": "뇌과학",
         "path": "/docs/theory/neuroscience"
     },
@@ -273,7 +265,7 @@
         "path": "/docs/theory/immunity"
     },
     {
-        "title": "면진구조",
+        "title": "내진설계",
         "path": "/docs/theory/base_isolation_structure"
     },
     {
@@ -359,10 +351,6 @@
     {
         "title": "베르누이 정리",
         "path": "/docs/theory/bernoulli_theorem"
-    },
-    {
-        "title": "베르누이의 원리",
-        "path": "/docs/theory/bernoullis_principle"
     },
     {
         "title": "별(항성)",
@@ -617,10 +605,6 @@
         "path": "/docs/theory/anthropocene"
     },
     {
-        "title": "인류세의 경계",
-        "path": "/docs/theory/boundary_of_anthropocene"
-    },
-    {
         "title": "인사이트",
         "path": "/docs/theory/insight_mars_lander"
     },
@@ -691,10 +675,6 @@
     {
         "title": "제목 넣기",
         "path": "/docs/theory/zzz_incomplete"
-    },
-    {
-        "title": "제진구조",
-        "path": "/docs/theory/vibration_control_structure"
     },
     {
         "title": "제트엔진",
