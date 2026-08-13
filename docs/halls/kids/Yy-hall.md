@@ -19,24 +19,23 @@
 <div class="exhibit-map" aria-label="YY전시실 전시물 배치도">
   <img src="docs/image/exhibition/yyellow/map.png" alt="YY전시실 전시물 배치도">
 
-  <a class="map-marker" style="left: 6.21%; top: 83.23%;" href="#/docs/halls/kids/Yy01" aria-label="YY01 전시물 안내">1</a>
-  <a class="map-marker" style="left: 6.21%; top: 73.51%;" href="#/docs/halls/kids/Yy02" aria-label="YY02 전시물 안내">2</a>
-  <a class="map-marker" style="left: 17.01%; top: 81.34%;" href="#/docs/halls/kids/Yy03" aria-label="YY03 전시물 안내">3</a>
-  <a class="map-marker" style="left: 22.69%; top: 76.88%;" href="#/docs/halls/kids/Yy04" aria-label="YY04 전시물 안내">4</a>
-  <a class="map-marker" style="left: 25.79%; top: 61.34%;" href="#/docs/halls/kids/Yy05" aria-label="YY05 전시물 안내">5</a>
-  <a class="map-marker" style="left: 49.56%; top: 61.42%;" href="#/docs/halls/kids/Yy06" aria-label="YY06 전시물 안내">6</a>
-  <a class="map-marker" style="left: 39.77%; top: 77.01%;" href="#/docs/halls/kids/Yy07" aria-label="YY07 전시물 안내">7</a>
-  <a class="map-marker" style="left: 52.56%; top: 86.48%;" href="#/docs/halls/kids/Yy08" aria-label="YY08 전시물 안내">8</a>
-  <a class="map-marker" style="left: 65.56%; top: 80.27%;" href="#/docs/halls/kids/Yy09" aria-label="YY09 전시물 안내">9</a>
-  <a class="map-marker" style="left: 70.90%; top: 73.95%;" href="#/docs/halls/kids/Yy10" aria-label="YY10 전시물 안내">10</a>
-  <a class="map-marker" style="left: 75.09%; top: 62.31%;" href="#/docs/halls/kids/Yy11" aria-label="YY11 전시물 안내">11</a>
-  <a class="map-marker" style="left: 88.58%; top: 53.06%;" href="#/docs/halls/kids/Yy12" aria-label="YY12 전시물 안내">12</a>
-  <a class="map-marker" style="left: 79.49%; top: 45.25%;" href="#/docs/halls/kids/Yy13" aria-label="YY13 전시물 안내">13</a>
-  <a class="map-marker" style="left: 72.19%; top: 38.99%;" href="#/docs/halls/kids/Yy14" aria-label="YY14 전시물 안내">14</a>
-  <a class="map-marker" style="left: 65.02%; top: 37.54%;" href="#/docs/halls/kids/Yy15" aria-label="YY15 전시물 안내">15</a>
-  <a class="map-marker" style="left: 63.06%; top: 46.69%;" href="#/docs/halls/kids/Yy16" aria-label="YY16 전시물 안내">16</a>
-  <a class="map-marker" style="left: 34.67%; top: 46.72%;" href="#/docs/halls/kids/Yy17" aria-label="YY17 전시물 안내">17</a>
-  <a class="map-marker" style="left: 33.20%; top: 30.71%;" href="#/docs/halls/kids/Yy18" aria-label="YY18 전시물 안내">18</a>
+  <a class="map-marker" style="left: 5.82%; top: 84.12%;" href="#/docs/halls/kids/Yy01" aria-label="YY01 전시물 안내">1</a>
+  <a class="map-marker" style="left: 5.82%; top: 74.18%;" href="#/docs/halls/kids/Yy02" aria-label="YY02 전시물 안내">2</a>
+  <a class="map-marker" style="left: 14.34%; top: 82.19%;" href="#/docs/halls/kids/Yy03" aria-label="YY03 전시물 안내">3</a>
+  <a class="map-marker" style="left: 18.82%; top: 77.63%;" href="#/docs/halls/kids/Yy04" aria-label="YY04 전시물 안내">4</a>
+  <a class="map-marker" style="left: 21.28%; top: 61.72%;" href="#/docs/halls/kids/Yy05" aria-label="YY05 전시물 안내">5</a>
+  <a class="map-marker" style="left: 40.05%; top: 61.81%;" href="#/docs/halls/kids/Yy06" aria-label="YY06 전시물 안내">6</a>
+  <a class="map-marker" style="left: 42.43%; top: 87.44%;" href="#/docs/halls/kids/Yy08" aria-label="YY08 전시물 안내">8</a>
+  <a class="map-marker" style="left: 52.69%; top: 81.09%;" href="#/docs/halls/kids/Yy09" aria-label="YY09 전시물 안내">9</a>
+  <a class="map-marker" style="left: 56.91%; top: 74.63%;" href="#/docs/halls/kids/Yy10" aria-label="YY10 전시물 안내">10</a>
+  <a class="map-marker" style="left: 60.23%; top: 62.72%;" href="#/docs/halls/kids/Yy11" aria-label="YY11 전시물 안내">11</a>
+  <a class="map-marker" style="left: 70.88%; top: 53.26%;" href="#/docs/halls/kids/Yy12" aria-label="YY12 전시물 안내">12</a>
+  <a class="map-marker" style="left: 63.71%; top: 45.26%;" href="#/docs/halls/kids/Yy13" aria-label="YY13 전시물 안내">13</a>
+  <a class="map-marker" style="left: 57.94%; top: 38.87%;" href="#/docs/halls/kids/Yy14" aria-label="YY14 전시물 안내">14</a>
+  <a class="map-marker" style="left: 52.28%; top: 37.38%;" href="#/docs/halls/kids/Yy15" aria-label="YY15 전시물 안내">15</a>
+  <a class="map-marker" style="left: 50.72%; top: 46.75%;" href="#/docs/halls/kids/Yy16" aria-label="YY16 전시물 안내">16</a>
+  <a class="map-marker" style="left: 28.29%; top: 46.77%;" href="#/docs/halls/kids/Yy17" aria-label="YY17 전시물 안내">17</a>
+  <a class="map-marker" style="left: 27.12%; top: 30.40%;" href="#/docs/halls/kids/Yy18" aria-label="YY18 전시물 안내">18</a>
 </div>
 
 ### 2.2 전시물 리스트
@@ -56,13 +55,12 @@
 
 | 전시물 번호 | 전시물 명 | 분류 | 비고 |
 | ------ | ------- | --- | --- |
-| YY01 | [노래하는 의자](/docs/halls/kids/Yy01.md) | 체험형/실험탐구 |  |
+| YY01 | [함께 앉아 화음을 연주해요](/docs/halls/kids/Yy01.md) | 체험형/실험탐구 |  |
 | YY02 | [딩동, 우리 집 앞이에요](/docs/halls/kids/Yy02.md) | 체험형/게임형 |  |
 | YY03 | [콘센트 속 전기를 따라가요](/docs/halls/kids/Yy03.md) | 체험형 |  |
 | YY04 | [탈수기가 빨래를 짜요](/docs/halls/kids/Yy04.md) | 체험형 |  |
 | YY05 | [전기가 필요해요](/docs/halls/kids/Yy05.md) | 체험형/실험탐구 |  |
 | YY06 | [집안에서 뛰어다녔어요](/docs/halls/kids/Yy06.md) | 체험형 |  |
-| YY07 | [이 구역 인터넷 윤리왕은 바로 나!](/docs/halls/kids/Yy07.md) | 체험형/게임형 |  |
 | YY08 | [창문을 열면 시원해요](/docs/halls/kids/Yy08.md) | 체험형 |  |
 | YY09 | [내 방 물건을 정리해요](/docs/halls/kids/Yy09.md) | 체험형 |  |
 | YY10 | [옷 매무새를 다듬어요](/docs/halls/kids/Yy10.md) | 체험형 |  |

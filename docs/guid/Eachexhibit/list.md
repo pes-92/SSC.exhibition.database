@@ -217,7 +217,7 @@
 	<tr>
 	 <th>B전시실</th>
 	 <td>전시물별 표준해설</td>
-	 <td>B31 멀미를 하는 이유는?</td>
+	 <td>B31 멀미하는 이유는?</td>
 	 <td>박윤실</td>
 	 <td><a href="#/docs/guid/Eachexhibit/B31Guid">
 		   🔗 해설 보러 가기
@@ -379,7 +379,7 @@
 	<tr>
 	 <th>G전시실</th>
 	 <td>전시물별 표준해설</td>
-	 <td>G11 우리가 사는 땅은 어떻게 형성되었을까?</td>
+	 <td>G11 우리가 사는 땅은 어떻게 변해왔을까?</td>
 	 <td>수어패널 참고</td>
 	 <td><a href="#/docs/guid/Eachexhibit/G11Guid">
 		   🔗 해설 보러 가기

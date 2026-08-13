@@ -33,7 +33,7 @@ window.tagIndex = {
       "type": "exhibit"
     },
     {
-      "title": "G11 우리가 사는 땅은 어떻게 형성되었을까?",
+      "title": "G11 우리가 사는 땅은 어떻게 변해왔을까?",
       "path": "/docs/halls/green/G11",
       "type": "exhibit"
     },
@@ -163,7 +163,7 @@ window.tagIndex = {
       "type": "exhibit"
     },
     {
-      "title": "G37 생태계의 닥친 위기",
+      "title": "G37 생태계에 닥친 위기",
       "path": "/docs/halls/green/G37",
       "type": "exhibit"
     },
@@ -373,7 +373,7 @@ window.tagIndex = {
       "type": "exhibit"
     },
     {
-      "title": "Y10 건강한 지구를 만들 수 있는 방법",
+      "title": "Y10 점심에 비가 그쳤어요",
       "path": "/docs/halls/kids/Y10",
       "type": "exhibit"
     },
@@ -383,7 +383,7 @@ window.tagIndex = {
       "type": "exhibit"
     },
     {
-      "title": "YY01 노래하는 의자",
+      "title": "YY01 함께 앉아 화음을 연주해요",
       "path": "/docs/halls/kids/Yy01",
       "type": "exhibit"
     },

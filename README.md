@@ -36,7 +36,7 @@
   </ul>
 
 <table class="curriculum-table">
-  <caption><b>위키 개발 진행 정도(최종업데이트: 2027.7.38)</b></caption>
+  <caption><b>위키 개발 진행 정도(최종업데이트: 2027.8.13)</b></caption>
   <thead>
     <tr>
       <th>카테고리</th>
@@ -52,7 +52,7 @@
   <tbody>
     <tr>
       <th>전시물 기본내용</th>
-      <td> <a style="color:blue"> 완료 </a> </td>
+      <td> <a style="color:blue"> 완료 (예외, G40은 추후 추가예정) </a> </td>
       <td> 전시실 전개도, 전시물 번호, 개별 전시물 내용의 대표사진, 교육과정, 패널을 의미합니다. </td>  
     </tr>
     <tr>

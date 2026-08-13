@@ -58,7 +58,7 @@
 | Y07 | [지구 저편 친구들이 사는 곳은?](/docs/halls/kids/Y07.md) | 체험형 |  |
 | Y08 | [달의 모양이 달라요](/docs/halls/kids/Y08.md) | 체험형 |  |
 | Y09 | [하루가 모여 일년이 돼요](/docs/halls/kids/Y09.md) | 체험형 |  |
-| Y10 | [건강한 지구를 만들 수 있는 방법](/docs/halls/kids/Y10.md) | 체험형 |  |
+| Y10 | [점심에 비가 그쳤어요](/docs/halls/kids/Y10.md) | 체험형 |  |
 | Y11 | [해가 만드는 사계절](/docs/halls/kids/Y11.md) | 체험형 |  |
 
 <div class="admin-only">
