@@ -36,7 +36,7 @@
   </ul>
 
 <table class="curriculum-table">
-  <caption><b>위키 개발 진행 정도(최종업데이트: 2027.8.13)</b></caption>
+  <caption><b>위키 개발 진행 정도(최종업데이트: 2027.10.05)</b></caption>
   <thead>
     <tr>
       <th>카테고리</th>
@@ -46,7 +46,7 @@
   </thead>
   <tfoot>
     <tr>
-      <td colspan="3"><a style="color:blue"> 완료 </a>된 항목만 이용해주세요.</td>
+      되도록 <td colspan="3"><a style="color:blue"> 완료 </a>된 항목만 이용해주세요.</td>
     </tr>
   </tfoot>
   <tbody>
@@ -62,12 +62,12 @@
     </tr>
     <tr>
       <th>이론</th>
-      <td> 내용 정확성 확인 중(약 25% 진행) </td>
-      <td> 제목에 (확인요)가 붙은 것은 아직 확인중인 글입니다. </td>  
+      <td> 내용 정확성 확인 중(약 25% 진행됨) </td>
+      <td> 제목에 (확인요)가 붙은 것은 아직 출처를 확인중인 글입니다. </td>  
     </tr>
     <tr>
       <th>해설서</th>
-      <td> 전시물과 연결 준비중 </td>
+      <td> 전시물과 연결 준비중(일부 잘못 연결되어있을 수 있어요!) </td>
       <td> 원문 활용은 가능합니다. </td>
     </tr>
   </tbody>

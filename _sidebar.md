@@ -66,6 +66,13 @@
       </ul>
     </li>
     <li><a class="hall-menu-item sidebar-link-button resource-menu-item" href="docs/theory/list.md" data-route="#/docs/theory/list">이론안내</a></li>
+    <li>
+      <span class="hall-menu-item resource-menu-item">이미지 출처 확인</span>
+      <ul class="resource-submenu">
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/image/image-register-internal.md" data-route="#/docs/image/image-register-internal">서울시립과학관 자체제작 이미지</a></li>
+        <li><a class="hall-menu-item sidebar-link-button resource-submenu-item" href="docs/image/image-register-external.md" data-route="#/docs/image/image-register-external">외부 이미지</a></li>
+      </ul>
+    </li>
   </ul>
 </div>
 

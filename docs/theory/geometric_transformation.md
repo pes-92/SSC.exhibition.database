@@ -7,6 +7,7 @@
 
 ### 1.1 점의 평행이동
 <img src="docs/image/theory/geometric_transformation_01_6afe96b1.png" alt="점의 평행이동 이미지">
+
 좌표 평면 위의 한 점 $P(x, y)$를 $x$축의 방향으로 $a$만큼, $y$축의 방향으로 $b$만큼 평행 이동한 점을 $P'(x', y')$ 이라고 하면, $x'=x+a$, $y'=y+b$가 성립한다.
 
 이와 같이, 좌표평면 위의 점 $P(x, y)$를 $P'(x', y')$로 옮기는 것을 평행이동이라고 하고, 이것을 $(x, y) \to (x+a, y+b)$와 같이 나타낸다.
@@ -21,6 +22,7 @@
 
 ### 2.1 축 및 원점에 대한 대칭이동
 <img src="docs/image/theory/geometric_transformation_02_a6cd137d.png" alt="점의 대칭이동 이미지">
+
 x축에 대한 대칭이동은 $T : (x, y) \to (x, -y)$
 y축에 대한 대칭이동은 $T : (x, y) \to (-x, y)$
 원점에 대한 대칭이동은 $T : (x, y) \to (-x, -y)$
@@ -30,12 +32,15 @@ y축에 대한 대칭이동은 $T : (x, y) \to (-x, y)$
 선 $x = a$에 대한 점 $P(x, y)$의 대칭점을 $P'(x',y')$라 하면 두 점의 $y$좌표는 동일하며 $x$좌표의 중점이 직선 $x = a$상에 놓이게 된다. $\frac{x+x'}{2}=a$에서 $x=2a-x$가 된다.
 즉, 점 $P(x,y)$의  $x=a$인 직선에 대해 대칭이동한 점 $P'(x',y')$는 $P'(2a-x,y)$이다.
 이는 도형에서도 동일하게 적용된다.
+
 <img src="docs/image/theory/geometric_transformation_03_e568e53c.png" alt="직선에 대한 대칭이동 이미지(출처 및 저작권 통합논술 개념어 사전 한림학사. 저작권무료 아님 주의)">
+
 같은 논리로 점 $P(x,y)$의  $y=b$인 직선에 대해 대칭이동한 점 $P'(x',y')$는 $P'(x,2b-y)$이다.
 
 #### 2.2.2 $y=\pm x$인 직선에 대한 대칭이동(원점 기준 45도 각도의 직선)
 $y = x$에 대한 대칭이동에서는 $P(x,y)$는 $P′(y, x)$로 이동하고, $y = -x$에 대한 대칭이동에서는 $P(x, y)$는 $P′(-y, -x)$로 이동한다.
 이는 도형의 방정식에서도 동일하다.
+
 <img src="docs/image/theory/geometric_transformation_04_8105a6a5.png" alt="x=y인 선에 대한 대칭이동(출처 및 저작권 통합논술 개념어 사전 한림학사. 저작권 무료 아님 주의)">
 
 #### 2.2.3 그 외 직선에 대한 대칭이동
@@ -45,10 +50,13 @@ $y = x$에 대한 대칭이동에서는 $P(x,y)$는 $P′(y, x)$로 이동�
 
 두 식을 연립해 $x'$와 $y'$에 대해 정리하면 대칭이동된 점을 구할 수 있다.
 이는 도형에서도 동일하다.
+
 <img src="docs/image/theory/geometric_transformation_05_e6fb8313.png" alt="직선에 대한 점의 대칭이동(출처 및 저작권 통합논술 개념어 사전 한림학사. 저작권 무료 아님 주의)">
 
 ### 2.3 점에 대한 대칭이동
+
 <img src="docs/image/theory/geometric_transformation_06_5d18c0ff.png" alt="점에 대한 대칭이동">
+
 점에 대한 대칭이동은 중점조건에 의해 쉽게 해결된다. 기준점이 $(a, b)$ 이고 $P(x, y)$ 의 대칭점을 $P'(x', y')$하면 두 점의 중점이 곧 기준점 $\frac{x+x'}{2}=a,\text{ }\frac{y+y'}{2}=b$의 관계식이 성립하고 이것을 $x, y$에 대해 정립리하면 $x'=2a-x$, $y'=2b-y$이다.
 즉, $P(x,y)$의 점 $(a,b)$에 대한 대칭점은 $P'(2a-x,2b-y)$가 된다.
 마찬가지로 도형의 방정식 $f(x, y)=0$을 점 $(a,b)$에 대해 대칭시키면 $f(2a-x, 2b-y)$로 이동된다.
@@ -62,7 +70,7 @@ $y = x$에 대한 대칭이동에서는 $P(x,y)$는 $P′(y, x)$로 이동�
 
 [^1]: 네이버 지식백과 > 학생백과 > 통합논술 개념어 사전(2007. 12. 15., 한림학사) > 수리영역 > 평행이동 (https://terms.naver.com/list.naver?categoryId=43669&so=st4.asc)
 
-[^2]:  네이버 지식백과 > 학생백과 > 통합논술 개념어 사전(2007. 12. 15., 한림학사) > 수리영역 > 대칭이동 (https://terms.naver.com/entry.naver?docId=2073729&cid=47324&categoryId=47324&expCategoryId=47324)
+[^2]:  네이버 지식백과 > 학생백과 > 통합논술 개념어 사전(2007. 12. 15., 한림학사) > 수리영역 > 대칭https://terms.naver.com/entry.naver?docId=2073729&cid=47324&categoryId=47324&expCategoryId=47324이동 ()
 
 [^3]: 네이버 지식백과 > 학생백과 > 수학백과 > 회전축 https://terms.naver.com/entry.naver?docId=3405424&cid=47324&categoryId=47324
 

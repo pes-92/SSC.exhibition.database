@@ -1237,3 +1237,39 @@ a.hall-menu-item:hover {
     gap: 3px;
   }
 }
+
+/* Image attribution is shared with the Markdown image registers. */
+.markdown-section .image-credit {
+  display: block;
+  margin: 1rem 0;
+  max-width: 100%;
+}
+
+.markdown-section .image-credit > a {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.markdown-section .image-credit img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+.markdown-section .image-credit-caption {
+  display: block;
+  margin-top: 0.4rem;
+  color: #52606d;
+  font-size: 0.82rem;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+
+.image-credit-source,
+.image-credit-status {
+  display: block;
+}
+
+.markdown-section .image-credit-caption a {
+  text-decoration: underline;
+}

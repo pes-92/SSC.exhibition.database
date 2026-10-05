@@ -16,6 +16,9 @@ window.$docsify = {
           if (window.loadGuideExcerpts) {
             await window.loadGuideExcerpts();
           }
+          if (window.renderImageCredits) {
+            await window.renderImageCredits();
+          }
           if (window.processFootnotes) {
             window.processFootnotes();
           }
