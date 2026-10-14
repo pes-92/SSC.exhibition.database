@@ -178,6 +178,11 @@ window.tagIndex = {
       "type": "exhibit"
     },
     {
+      "title": "G40 도시는 어떤 모습으로 변해왔을까?",
+      "path": "/docs/halls/green/G40",
+      "type": "exhibit"
+    },
+    {
       "title": "O01 모두의 서울",
       "path": "/docs/halls/orange/O01",
       "type": "exhibit"

@@ -9,8 +9,14 @@
  <ul>
   <li> ID 및 PW는 인사이동 등의 요인으로 변경될 수 있습니다.</li>
   <li> 본 사이트는 서울시립과학관 전시물과 그 연관 자료 공유를 목적으로 운영하고 있습니다.</li>
+  <li> 위키의 모든 이론 파트는 최대한 신뢰도 높은 출처를 이용하였습니다만 <b>해설사로서 정확한 정보 확인을 위한 크로스 체킹은 필수!!</b>입니다</li>
   <li> 작성 내용의 오류 수정 및 신규 내용(새로운 뉴스 및 과학적 사실 변경사항 등) 반영 등, 지속적 개선을 위해 관련 담당 및 연관 전공자 실무관들의 많은 협조와 피드백 부탁드립니다😘</li>
- </ul>
+  <li> 위키 내용 변경이 필요한 경우 아래 파일을 작성해 잔디를 통해 담당자(박은선)에게 전달해주세요!(현재 위키는 2026.10.14 마지막 변경됨)
+ <div class="resource-link-list">
+  <a class="resource-link-button" href="./docs/manual/forms/adding%20theory.hwpx" download="adding theory.hwpx" data-ignore>이론 추가 파일</a>
+  <a class="resource-link-button" href="./docs/manual/forms/SSC%20Wiki%20error%20fix.hwpx" download="SSC Wiki error fix.hwpx" data-ignore>위키 오류 수정 파일</a> </li>
+  </ul>
+ </div>
 </div>
 
 
@@ -25,53 +31,6 @@
 </div>
 
 <div class="ssc-only">
-  <h2> ⚠️ 주의사항 </h2>
-  <ul>
-    <li>아이디 및 패스워드는 서울시립과학관 전시과 직원에게만!</li>
-    <li>자료 변경요청은 관리자(박은선 실무관)에게 전달</li>
-    <li>사진 사용 시 저작권 반드시 확인</li>
-    <li>교육과정 정보는 참고용 (연결된 링크 또는 사이드바의 교과서 사이트 등 참고)</li>
-    <li>위키의 모든 이론 파트는 최대한 신뢰도 높은 출처를 이용하여 작성하였습니다만 <b>해설사로서 정확한 정보 확인을 위한 크로스 체킹은 필수!!</b><br>ps. 혹시 오류 찾으셨다면 피드백도 부탁드려요 🙏</li>
-    <li><sapn style="color:red"><b>현재 wiki는 개발중인 상황입니다.</b>😆<br> 내용 이용시 아래 진행정도를 참고해서 이용해 주세요!</span></li>
-  </ul>
-
-<table class="curriculum-table">
-  <caption><b>위키 개발 진행 정도(최종업데이트: 2027.10.05)</b></caption>
-  <thead>
-    <tr>
-      <th>카테고리</th>
-      <th>구축정도</th>
-      <th>비고</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      되도록 <td colspan="3"><a style="color:blue"> 완료 </a>된 항목만 이용해주세요.</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <th>전시물 기본내용</th>
-      <td> <a style="color:blue"> 완료 (예외, G40은 추후 추가예정) </a> </td>
-      <td> 전시실 전개도, 전시물 번호, 개별 전시물 내용의 대표사진, 교육과정, 패널을 의미합니다. </td>  
-    </tr>
-    <tr>
-      <th>교과과정 안내</th>
-      <td> <a style="color:blue"> 완료 </a> </td>
-      <td> 교육과정 안내의 원문(사이드바 참고) 및 전시물별 교과과정을 의미합니다. </td> 
-    </tr>
-    <tr>
-      <th>이론</th>
-      <td> 내용 정확성 확인 중(약 25% 진행됨) </td>
-      <td> 제목에 (확인요)가 붙은 것은 아직 출처를 확인중인 글입니다. </td>  
-    </tr>
-    <tr>
-      <th>해설서</th>
-      <td> 전시물과 연결 준비중(일부 잘못 연결되어있을 수 있어요!) </td>
-      <td> 원문 활용은 가능합니다. </td>
-    </tr>
-  </tbody>
-</table>
 
   <h2> ℹ️ 사용방법 </h2>
   <ul>
@@ -115,5 +74,48 @@
 👉 [Y<sub>Y</sub>전시실 전시도면 및 전시물 리스트](/docs/halls/kids/Yy-hall.md)
 
 ---
+
+</div>
+
+<div class="admin-only">
+
+
+<table class="curriculum-table">
+  <caption><b>위키 개발 진행 정도(최종업데이트: 2027.10.14)</b></caption>
+  <thead>
+    <tr>
+      <th>카테고리</th>
+      <th>구축정도</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td colspan="3"><a style="color:blue"> 완료 </a>된 항목만 이용해주세요.</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <th>전시물 기본내용</th>
+      <td> <a style="color:blue"> 완료 (예외, G40은 추후 추가예정) </a> </td>
+      <td> 전시실 전개도, 전시물 번호, 개별 전시물 내용의 대표사진, 교육과정, 패널을 의미합니다. </td>  
+    </tr>
+    <tr>
+      <th>교과과정 안내</th>
+      <td> <a style="color:blue"> 완료 </a> </td>
+      <td> 교육과정 안내의 원문(사이드바 참고) 및 전시물별 교과과정을 의미합니다. </td> 
+    </tr>
+    <tr>
+      <th>이론</th>
+      <td> 내용 추가중 </td>
+      <td> 제목에 (확인요)가 붙은 경우 내용 추가 및 확인중이니 이용에 주의하세요! </td>  
+    </tr>
+    <tr>
+      <th>해설서</th>
+      <td> 전시물과 연결 준비중(일부 잘못 연결되어있을 수 있어요!) </td>
+      <td> 원문 활용은 가능 </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>

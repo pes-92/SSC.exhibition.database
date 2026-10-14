@@ -745,6 +745,10 @@
         "path": "/docs/theory/kibble_balance"
     },
     {
+        "title": "탄소",
+        "path": "/docs/theory/carbon_atom"
+    },
+    {
         "title": "탄소 동소체",
         "path": "/docs/theory/carbon_allotropes"
     },

@@ -40,6 +40,16 @@ function stripMarkup(text) {
     .trim();
 }
 
+function stripTitleMarkup(text) {
+  return text
+    .replace(/<[^>]+>/g, " ")
+    .replace(/!\[([^\]]*)]\([^)]+\)/g, "$1")
+    .replace(/\[([^\]]+)]\([^)]+\)/g, "$1")
+    .replace(/[*_`]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function normalizeTag(tag) {
   return String(tag || "")
     .replace(/^#/, "")
@@ -67,10 +77,10 @@ function parseTheoryCategories(text, filePath) {
 
 function parseTitle(text, filePath) {
   const htmlTitle = text.match(/<h1[^>]*>(.*?)<\/h1>/i);
-  if (htmlTitle) return stripMarkup(htmlTitle[1]);
+  if (htmlTitle) return stripTitleMarkup(htmlTitle[1]);
 
   const mdTitle = text.match(/^#\s+(.+)$/m);
-  if (mdTitle) return mdTitle[1].trim();
+  if (mdTitle) return stripTitleMarkup(mdTitle[1]);
 
   return path.basename(filePath, ".md");
 }

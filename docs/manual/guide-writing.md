@@ -1,3 +1,5 @@
+<div class="ssc-only">
+
 # 해설사를 위한 해설서 작성 가이드
 
 해설서를 작성할 때는 다음 세 가지를 꼭 생각해 보세요.
@@ -265,3 +267,5 @@
 - [NCBI Bookshelf: Cognitive Development](https://www.ncbi.nlm.nih.gov/books/NBK537095/)
 - [OpenStax Psychology 2e: Lifespan Theories](https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories)
 - [National Research Council: Cognitive Development in School-Age Children](https://www.ncbi.nlm.nih.gov/books/NBK216774/)
+
+</div>

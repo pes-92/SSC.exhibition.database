@@ -594,6 +594,25 @@ function collectFootnoteDefinitions(content) {
   return definitions;
 }
 
+function collectRenderedFootnoteDefinitions(content) {
+  const definitions = new Map();
+  const items = Array.from(content.querySelectorAll(".footnotes .footnote-item"));
+
+  items.forEach(item => {
+    const labelEl = item.querySelector(".footnote-label");
+    if (!labelEl) return;
+
+    const match = labelEl.textContent.match(/^\[([^\]]+)]$/);
+    if (!match) return;
+
+    const clone = item.cloneNode(true);
+    clone.querySelectorAll(".footnote-label, .footnote-backref").forEach(el => el.remove());
+    definitions.set(match[1], clone.innerHTML.trim());
+  });
+
+  return definitions;
+}
+
 function replaceFootnoteReferences(content, definitions) {
   const counts = new Map();
   const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
@@ -750,11 +769,17 @@ function processFootnotes() {
 
   processCurriculumCallouts();
 
-  const definitions = collectFootnoteDefinitions(content);
+  let definitions = collectFootnoteDefinitions(content);
+  const hasRenderedFootnotes = !!content.querySelector(".footnotes");
+  if (!definitions.size && hasRenderedFootnotes) {
+    definitions = collectRenderedFootnoteDefinitions(content);
+  }
   if (!definitions.size) return;
 
   const counts = replaceFootnoteReferences(content, definitions);
-  renderFootnoteList(content, definitions, counts);
+  if (!hasRenderedFootnotes) {
+    renderFootnoteList(content, definitions, counts);
+  }
 }
 
 const curriculumTargetStorageKey = "pendingCurriculumTarget";

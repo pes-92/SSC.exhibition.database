@@ -48,6 +48,7 @@
     return (window.searchIndex || [])
       .filter(item => item.type === "theory")
       .filter(item => item.path !== "#/docs/theory/list")
+      .filter(item => !String(item.title || "").includes("(확인요)"))
       .filter(item => category === "전체" || getCategories(item).includes(category))
       .filter(item => {
         if (!query) return true;
