@@ -4,6 +4,9 @@ const path = require("path");
 const rootDir = path.resolve(__dirname, "..");
 const docsDir = path.join(rootDir, "docs");
 const outputFile = path.join(rootDir, "assets/js/tag-index.js");
+const excludedDirs = new Set([
+  path.join(docsDir, "theory", "removed_exhibition_only")
+]);
 const includeDirs = [
   path.join(docsDir, "halls"),
   path.join(docsDir, "theory"),
@@ -15,7 +18,7 @@ function walk(dir) {
 
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry => {
     const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) return walk(fullPath);
+    if (entry.isDirectory()) return excludedDirs.has(fullPath) ? [] : walk(fullPath);
     if (entry.isFile() && entry.name.endsWith(".md")) return [fullPath];
     return [];
   });

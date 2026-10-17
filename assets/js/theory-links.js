@@ -57,7 +57,7 @@
         "path": "/docs/theory/mathematical_concepts_in_architecture"
     },
     {
-        "title": "고전역학(미완)",
+        "title": "고전역학",
         "path": "/docs/theory/classical_mechanics_incomplete"
     },
     {
@@ -181,10 +181,6 @@
         "path": "/docs/theory/great_circle_route"
     },
     {
-        "title": "대뇌겉질",
-        "path": "/docs/theory/cerebral_cortex"
-    },
-    {
         "title": "대뇌화지수",
         "path": "/docs/theory/encephalization_quotient"
     },
@@ -271,14 +267,6 @@
     {
         "title": "모즐리",
         "path": "/docs/theory/moseley"
-    },
-    {
-        "title": "물의 전기분해",
-        "path": "/docs/theory/electrolysis_of_water"
-    },
-    {
-        "title": "물질의 상태변화",
-        "path": "/docs/theory/changes_of_state_of_matter"
     },
     {
         "title": "물체의 색을 보는 원리",
@@ -381,18 +369,6 @@
         "path": "/docs/theory/molecule"
     },
     {
-        "title": "빌딩풍의 영향",
-        "path": "/docs/theory/effects_of_building_wind"
-    },
-    {
-        "title": "빌딩풍의 정의와 발생원인",
-        "path": "/docs/theory/definition_and_causes_of_building_wind"
-    },
-    {
-        "title": "빌딩풍의 종류",
-        "path": "/docs/theory/types_of_building_wind"
-    },
-    {
         "title": "빛",
         "path": "/docs/theory/light"
     },
@@ -411,10 +387,6 @@
     {
         "title": "사람의 염색체(핵형분석)",
         "path": "/docs/theory/human_chromosomes_and_karyotyping"
-    },
-    {
-        "title": "삼중점",
-        "path": "/docs/theory/triple_point"
     },
     {
         "title": "생애주기 기준",
@@ -473,10 +445,6 @@
         "path": "/docs/theory/endangered_plants"
     },
     {
-        "title": "신재생 에너지의 사용",
-        "path": "/docs/theory/use_of_renewable_energy"
-    },
-    {
         "title": "아이작 뉴턴",
         "path": "/docs/theory/isaac_newton"
     },
@@ -503,10 +471,6 @@
     {
         "title": "역학적 에너지",
         "path": "/docs/theory/mechanical_energy"
-    },
-    {
-        "title": "열병합발전",
-        "path": "/docs/theory/combined_heat_and_power_generation"
     },
     {
         "title": "열섬현상",
@@ -547,10 +511,6 @@
     {
         "title": "우주왕복선 우주복",
         "path": "/docs/theory/space_shuttle_spacesuit"
-    },
-    {
-        "title": "원뿔곡선",
-        "path": "/docs/theory/conic_sections"
     },
     {
         "title": "원뿔곡선의 반사성질",
@@ -779,10 +739,6 @@
     {
         "title": "태풍의 영향",
         "path": "/docs/theory/effects_of_typhoons"
-    },
-    {
-        "title": "포물선 운동",
-        "path": "/docs/theory/projectile_motion"
     },
     {
         "title": "플레밍의 오른손·왼손 법칙",
