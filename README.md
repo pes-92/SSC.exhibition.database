@@ -10,7 +10,7 @@
   <li> 본 사이트는 서울시립과학관 전시물과 그 연관 자료 공유를 목적으로 운영하고 있습니다.</li>
   <li> 위키의 모든 이론 파트는 최대한 신뢰도 높은 출처를 이용하였습니다만 <b>해설사로서 정확한 정보 확인을 위한 크로스 체킹은 필수!!</b>입니다</li>
   <li> 작성 내용의 오류 수정 및 신규 내용(새로운 뉴스 및 과학적 사실 변경사항 등) 반영 등, 지속적 개선을 위해 관련 담당 및 연관 전공자 실무관들의 많은 협조와 피드백 부탁드립니다😘</li>
-  <li> 위키 내용 변경이 필요한 경우 아래 파일을 작성해 잔디를 통해 담당자(박은선)에게 전달해주세요!(현재 위키는 2026.10.14 마지막 변경됨)
+  <li> 위키 내용 변경이 필요한 경우 아래 파일을 작성해 잔디를 통해 담당자(박은선)에게 전달해주세요!(현재 위키는 2026.10.17 마지막 변경됨)
  <div class="resource-link-list">
   <a class="resource-link-button" href="./docs/manual/forms/adding%20theory.hwpx" download="adding theory.hwpx" data-ignore>이론 추가 파일</a>
   <a class="resource-link-button" href="./docs/manual/forms/SSC%20Wiki%20error%20fix.hwpx" download="SSC Wiki error fix.hwpx" data-ignore>위키 오류 수정 파일</a> </li>
